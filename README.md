@@ -1,4 +1,4 @@
-免费公益v2ray节点订阅 更新时间 2021-10-28  
+免费公益v2ray节点订阅每日更新 更新时间 2021-10-28  
 所有免费节点都爬取自网络，请勿用于非法用途  
 
 |  工具  | Android  | Windows  | iOS  |
@@ -8,7 +8,7 @@
 ### 节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
 ### 节点更新订阅  
-- `https://raw.fastgit.org/aiboboxx/v2rayfree/v2`  
+- `https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2`  
 ### 自建节点订阅  
 节点公开后容易失效，请到[免费公益v2ray节点订阅](https://www.aiboboxx.ml/post/free-v2ray/)获取私人专属v2ray订阅地址。资源有限，先到先得。
 ## v2ray  
