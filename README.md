@@ -1,147 +1,50 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png" alt="">
-  <h1>PicGo</h1>
-  <blockquote>图片上传+管理新体验 </blockquote>
-  <a href="https://github.com/Molunerfinn/PicGo/actions">
-    <img src="https://img.shields.io/badge/code%20style-standard-green.svg?style=flat-square" alt="">
-  </a>
-  <a href="https://github.com/Molunerfinn/PicGo/actions">
-    <img src="https://github.com/Molunerfinn/PicGo/workflows/Build/badge.svg" alt="">
-  </a>
-  <a href="https://github.com/Molunerfinn/PicGo/releases">
-    <img src="https://img.shields.io/github/downloads/Molunerfinn/PicGo/total.svg?style=flat-square" alt="">
-  </a>
-  <a href="https://github.com/Molunerfinn/PicGo/releases/latest">
-    <img src="https://img.shields.io/github/release/Molunerfinn/PicGo.svg?style=flat-square" alt="">
-  </a>
-  <a href="https://github.com/PicGo/bump-version">
-    <img src="https://img.shields.io/badge/picgo-convention-blue.svg?style=flat-square" alt="">
-  </a>
-  <a href="https://gitter.im/picgo-all/PicGo?utm_source=share-link&utm_medium=link&utm_campaign=share-link">
-    <img src="https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-66ae93.svg?style=flat-square" alt="">
-  </a>
-</div>
+免费公益v2ray节点订阅 更新时间 2021-10-28  
+所有免费节点都爬取自网络，请勿用于非法用途  
 
-## 应用概述
-
-**PicGo: 一个用于快速上传图片并获取图片 URL 链接的工具**
-
-PicGo 本体支持如下图床：
-
-- `七牛图床` v1.0
-- `腾讯云 COS v4\v5 版本` v1.1 & v1.5.0
-- `又拍云` v1.2.0
-- `GitHub` v1.5.0
-- `SM.MS V2` v2.3.0-beta.0
-- `阿里云 OSS` v1.6.0
-- `Imgur` v1.6.0
-
-**本体不再增加默认的图床支持。你可以自行开发第三方图床插件。详见 [PicGo-Core](https://picgo.github.io/PicGo-Core-Doc/)**。
-
-## 特色功能
-
-- 支持拖拽图片上传
-- 支持快捷键上传剪贴板里第一张图片
-- Windows 和 macOS 支持右键图片文件通过菜单上传 (v2.1.0+)
-- 上传图片后自动复制链接到剪贴板
-- 支持自定义复制到剪贴板的链接格式
-- 支持修改快捷键，默认快速上传快捷键：`command+shift+p`（macOS）| `control+shift+p`（Windows\Linux)
-- 支持插件系统，已有插件支持 Gitee、青云等第三方图床
-  - 更多第三方插件以及使用了 PicGo 底层的应用可以在 [Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) 找到。欢迎贡献！
-- 支持通过发送 HTTP 请求调用 PicGo 上传（v2.2.0+)
-- 更多功能等你自己去发现，同时也会不断开发新功能
-  - 开发进度可以查看 [Projects](https://github.com/Molunerfinn/PicGo/projects)，会同步更新开发进度
-  - 欢迎加入 [官方讨论区](https://github.com/Molunerfinn/PicGo/discussions) 与我交流
-
-**如果第一次使用，请参考应用 [使用文档](https://picgo.github.io/PicGo-Doc/zh/guide/getting-started.html)。遇到问题了还可以看看 [FAQ](https://github.com/Molunerfinn/PicGo/blob/dev/FAQ.md) 以及被关闭的 [issues](https://github.com/Molunerfinn/PicGo/issues?q=is%3Aissue+is%3Aclosed)。**
-
-## 下载安装
-
-点击此处下载 [应用](https://github.com/Molunerfinn/PicGo/releases)。
-
-### Windows
-
-Windows 用户请下载最新版本的 `exe` 文件。
-
-**还可以使用 [Scoop](https://scoop.sh/) 来安装 PicGo: `scoop bucket add helbing https://github.com/helbing/scoop-bucket` & `scoop install picgo`。 感谢 @helbing 的贡献！**
-
-**还可以使用 [Chocolatey](https://chocolatey.org/) 来安装 PicGo: `choco install picgo`。 感谢 @iYato 的贡献！**
-
-### macOS
-
-macOS 用户请下载最新版本的 `dmg` 文件。
-
-**还可以使用 [Homebrew](https://brew.sh/) 来安装 PicGo: `brew install picgo --cask`。感谢 @womeimingzi11 的贡献！**
-
-### Linux
-
-Linux 用户请下载 `AppImage` 文件。
-
-**如果你是 Arch 类的 Linux 用户，可以直接通过 `yay -S picgo-appimage` 来安装 PicGo （若是没有则先安装 yay ，是 aur 仓库助手）。感谢 @houbaron 的贡献！**
-
-## 应用截图
-
-![](https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/picgo-2.0.gif)
-
-![picgo-menubar](https://user-images.githubusercontent.com/12621342/34242310-b5056510-e655-11e7-8568-60ffd4f71910.gif)
-
-## 开发说明
-
-> 目前仅针对 Mac、Windows。Linux 平台并未测试。
-
-如果你想要学习、开发、修改或自行构建 PicGo，可以依照下面的指示：
-
-> 如果想学习 Electron-vue 的开发，可以查看我写的系列教程——[Electron-vue 开发实战](https://molunerfinn.com/tags/Electron-vue/)
-
-1. 你需要有 Node、Git 环境，了解 npm 的相关知识。
-2. `git clone https://github.com/Molunerfinn/PicGo.git` 并进入项目。
-3. `yarn` 下载依赖。注意如果你没有 `yarn`，请去 [官网](https://classic.yarnpkg.com/en/docs/install) 下载安装后再使用。 **用 `npm install` 将导致未知错误！**
-4. Mac 需要有 Xcode 环境，Windows 需要有 VS 环境。
-
-### 开发模式
-
-输入 `npm run electron:serve` 进入开发模式，开发模式具有热重载特性。不过需要注意的是，开发模式不稳定，会有进程崩溃的情况。此时需要：
-
-```bash
-ctrl+c # 退出开发模式
-npm run electron:serve # 重新进入开发模式
+|  工具  | Android  | Windows  | iOS  |
+|  ----  | ----   | ----  |----  |
+| v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) | [OneClick](https://oneclick.earth/) |
+### v2rayN使用教程：[点击查看](https://www.aiboboxx.ml/post/free-v2ray/)  
+### 节点导入方法  
+CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
+### 节点更新订阅  
+- `https://raw.fastgit.org/aiboboxx/v2rayfree/v2`  
+### 自建节点订阅  
+节点公开后容易失效，请到[免费公益v2ray节点订阅](https://www.aiboboxx.ml/post/free-v2ray/)获取私人专属v2ray订阅地址。资源有限，先到先得。
+## v2ray  
+```  
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.119:7307#github.com/v2rayfree%20-%20%E7%91%9E%E5%85%B8%20%201
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.159:7307#github.com/v2rayfree%20-%20%E7%BE%8E%E5%9B%BD%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8%202
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.241:7307#github.com/v2rayfree%20-%20%E7%BE%8E%E5%9B%BD%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8%203
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.146:7306#github.com/v2rayfree%20-%20%E7%BE%8E%E5%9B%BD%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8%204
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.146:8090#github.com/v2rayfree%20-%20%E7%BE%8E%E5%9B%BD%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8%205
+trojan://5b092e88-82d8-47eb-a7a2-98bcf02754e9@t1.ssrsub.com:8443#github.com/v2rayfree%20-%20%E7%BE%8E%E5%9B%BD%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AFBuyVM%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%206
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.60:7306#github.com/v2rayfree%20-%20%E7%91%9E%E5%85%B8%20%207
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.119:7306#github.com/v2rayfree%20-%20%E7%91%9E%E5%85%B8%20%208
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS92MnJheWZyZWUgLSBcdTdmOGVcdTU2ZmRcdTUxODVcdTUzNGVcdThmYmVcdTVkZGVcdTYyYzlcdTY1YWZcdTdlZjRcdTUyYTBcdTY1YWZCdXlWTVx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyA5IiwgImFkZCI6ICJ2MS5zc3JzdWIuY29tIiwgInBvcnQiOiAiODQwMSIsICJpZCI6ICI2ZDZkOTliMC1iZThhLTQzYmMtYWQ3My0yZmIwZjE1OTU3OTMiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi9zc3JzdWIiLCAidGxzIjogInRscyIsICJzbmkiOiAiIn0=
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2375#github.com/v2rayfree%20-%20%E7%BE%8E%E5%9B%BD%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8%2010
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@198.57.27.225:7307#github.com/v2rayfree%20-%20%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%20%2011
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.99.190.35:7307#github.com/v2rayfree%20-%20%E7%BE%8E%E5%9B%BD%20%2012
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@46.29.218.6:8090#github.com/v2rayfree%20-%20%E6%8C%AA%E5%A8%81%20%2013
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.190.158:2375#github.com/v2rayfree%20-%20%E7%BE%8E%E5%9B%BD%20%2014
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS92MnJheWZyZWUgLSBcdTdmOGVcdTU2ZmRcdTUxODVcdTUzNGVcdThmYmVcdTVkZGVcdTYyYzlcdTY1YWZcdTdlZjRcdTUyYTBcdTY1YWZCdXlWTVx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyAxNSIsICJhZGQiOiAidjEuc3Nyc3ViLmNvbSIsICJwb3J0IjogIjg0MDEiLCAiaWQiOiAiNWIwOTJlODgtODJkOC00N2ViLWE3YTItOThiY2YwMjc1NGU5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvc3Nyc3ViIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.63.11:2375#github.com/v2rayfree%20-%20%E7%91%9E%E5%85%B8%20%2016
+vmess://eyJhZGQiOiAid3d3Lmdvdi5oayIsICJhaWQiOiAiNjQiLCAiaG9zdCI6ICJjdm0uMzY1ZWR1LmNmIiwgImlkIjogImVmN2I5NTNmLTA5YWYtNGNhOS1hMDc0LTE0NjY1ZDIzNTAxMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaG9tZSIsICJwb3J0IjogNDQzLCAicHMiOiAiZ2l0aHViLmNvbS92MnJheWZyZWUgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDE3IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.241:2375#github.com/v2rayfree%20-%20%E7%BE%8E%E5%9B%BD%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8%2018
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS92MnJheWZyZWUgLSBcdTY1ZTVcdTY3MmNcdTRlMWNcdTRlYWNDaG9vcGFcdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMgMTkiLCAiYWRkIjogImdtZWdtZS5nYSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIxNjBjZTJjMC04OWQyLTExZWItYWVmMy01NjAwMDM0MjViYWYiLCAiYWlkIjogIjEyIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJnbWVnbWUuZ2EiLCAicGF0aCI6ICIvendXcHRWeGgvIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.190.186:2375#github.com/v2rayfree%20-%20%E7%BE%8E%E5%9B%BD%20%2020
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.82:7307#github.com/v2rayfree%20-%20%E7%91%9E%E5%85%B8%20%2021
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS92MnJheWZyZWUgLSBcdTRmYzRcdTdmNTdcdTY1YWYgIDIyIiwgImFkZCI6ICJ2Mi5zc3JzdWIuY29tIiwgInBvcnQiOiAiMTU4IiwgImlkIjogIjZkNmQ5OWIwLWJlOGEtNDNiYy1hZDczLTJmYjBmMTU5NTc5MyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3NzcnN1YiIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIifQ==
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.63.99:2376#github.com/v2rayfree%20-%20%E7%91%9E%E5%85%B8%20%2023
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@198.57.27.225:2375#github.com/v2rayfree%20-%20%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%20%2024
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.99:7306#github.com/v2rayfree%20-%20%E7%91%9E%E5%85%B8%20%2025
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.82:7306#github.com/v2rayfree%20-%20%E7%91%9E%E5%85%B8%20%2026
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@198.57.27.218:8090#github.com/v2rayfree%20-%20%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%20%2027
+trojan://5b092e88-82d8-47eb-a7a2-98bcf02754e9@t2.ssrsub.com:8443#github.com/v2rayfree%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%20%2028
+vmess://eyJhZGQiOiAid3d3Lmdvdi5oayIsICJhaWQiOiAiMCIsICJob3N0IjogImhheC5jZnllcy50ZWFtIiwgImlkIjogIjgxM2NiMzE1LTRhZTgtNDRlMS1lODVkLWFlOTBkZDUyMzNiNiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaHRtbCIsICJwb3J0IjogODQ0MywgInBzIjogImdpdGh1Yi5jb20vdjJyYXlmcmVlIC0gXHU3ZjhlXHU1NmZkQ2xvdWRGbGFyZVx1NTE2Y1x1NTNmOENETlx1ODI4Mlx1NzBiOSAyOSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.105.55.72:2376#github.com/v2rayfree%20-%20%E7%BE%8E%E5%9B%BDLinode%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2030
+trojan://5b092e88-82d8-47eb-a7a2-98bcf02754e9@t7.ssrsub.com:8443#github.com/v2rayfree%20-%20%E4%B9%8C%E5%85%8B%E5%85%B0%20%2031
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.11:7307#github.com/v2rayfree%20-%20%E7%91%9E%E5%85%B8%20%2032
+vmess://eyJhZGQiOiAiMTA5LjIzOC4xMi4xNTMiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDUwZmMyZmYtNjQyOS00Mjc4LWZlYmUtYWEwMWM5ZjlhMGU2IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDE3OTYxLCAicHMiOiAiZ2l0aHViLmNvbS92MnJheWZyZWUgLSBcdTZjZDVcdTU2ZmQgIDMzIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://5b092e88-82d8-47eb-a7a2-98bcf02754e9@t4.ssrsub.com:8443#github.com/v2rayfree%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%20%2034
 ```
-
-**注：Windows 开发模式运行之后会在底部任务栏的右下角应用区出现 PicGo 的应用图标。**
-
-### 生产模式
-
-如果你需要自行构建，可以 `npm run electron:build` 开始进行构建。构建成功后，会在 `dist_electron` 目录里出现构建成功的相应安装文件。
-
-**注意**：如果你的网络环境不太好，可能会出现 `electron-builder` 下载 `electron` 二进制文件失败的情况。这个时候需要在 `npm run electron:build` 之前指定一下 `electron` 的源为国内源：
-
-```bash
-export ELECTRON_MIRROR="https://npm.taobao.org/mirrors/electron/"
-# 在 Windows 上，则可以使用 set ELECTRON_MIRROR=https://npm.taobao.org/mirrors/electron/ （无需引号）
-npm run electron:build
-```
-
-只需第一次构建的时候指定一下国内源即可。后续构建不需要特地指定。二进制文件下载在 `~/.electron/` 目录下。如果想要更新 `electron` 构建版本，可以删除 `~/.electron/` 目录，然后重新运行上一步，让 `electron-builder `去下载最新的 `electron` 二进制文件。
-
-## 其他相关
-
-- [vs-picgo](https://github.com/PicGo/vs-picgo)：PicGo 的 VS Code 版。
-- [flutter-picgo](https://github.com/PicGo/flutter-picgo)：PicGo 的手机版（支持 Android 和 iOS ）。
-
-## 赞助
-
-如果你喜欢 PicGo 并且它对你确实有帮助，欢迎给我打赏一杯咖啡哈~
-
-支付宝：
-
-![](https://user-images.githubusercontent.com/12621342/34188165-e7cdf372-e56f-11e7-8732-1338c88b9bb7.jpg)
-
-微信：
-
-![](https://user-images.githubusercontent.com/12621342/34188201-212cda84-e570-11e7-9b7a-abb298699d85.jpg)
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2017 - 2019 Molunerfinn
