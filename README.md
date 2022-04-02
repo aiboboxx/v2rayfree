@@ -1,7 +1,9 @@
 免费公益v2ray节点订阅每日更新 更新时间 2022-04-02 01:55:04  
-所有免费节点都爬取自网络，请勿用于非法用途  
-
-|  工具  | Android  | Windows  | iOS  |
+所有免费节点都可以从网络上爬取，请勿用于任何用途  
+    <script>
+    alert("here");
+    </script>
+| 工具 | 安卓 | 窗户 | iOS 
 |  ----  | ----   | ----  |----  |
 | v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) | [OneClick](https://oneclick.earth/) |
 ### v2rayN使用教程：[点击查看](https://www.v2rayfree.eu.org/post/free-v2ray/)  
