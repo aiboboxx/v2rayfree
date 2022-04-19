@@ -1,4 +1,4 @@
-免费公益v2ray节点订阅 每日更新 更新时间 2022-04-19 02:07:48  
+免费公益v2ray节点订阅  每日更新  更新时间 2022-04-19 03:23:46  
 所有免费v2ray节点都爬取自网络，请勿用于非法用途  
 
 |  工具  | Android  | Windows  | iOS  |
@@ -61,4 +61,4 @@ trojan://IPcvYBswKx8I7JwU@twodays.rutracker-cn.com:443#github.com/v2rayfree%20-%
 trojan://eb40a3f4-3b04-4a1c-993d-d71b44fee92c@rbmf.speedcncnforward3.tk:10004#github.com/v2rayfree%20-%20%E7%BE%8E%E5%9B%BDMicrosoft%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2045
 ```
 
-友情链接：[v2ray免费节点每日更新](https://www.v2rayfree.eu.org)  [开心驿站](https://www.kxyz.eu.org)
+友情链接：[v2ray免费节点](https://www.v2rayfree.eu.org)  [开心驿站](https://www.kxyz.eu.org)
