@@ -1,4 +1,4 @@
-v2ray公益免费节点订阅  每日更新  更新时间 2023-03-26 12:36:32  
+v2ray公益免费节点订阅  每日更新  更新时间 2023-03-27 13:47:20  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
