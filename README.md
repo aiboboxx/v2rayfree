@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-11-04 16:28:04  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-11-04 20:23:51  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,15 +24,16 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcFk5MEdtSkd5S1BVQU9qN2l4bWt6@52.169.70.26:52733#0%7C--4
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#0%7C--5
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.99:8881#0%7C--7
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.218:8090#0%7C--8
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.99:8882#0%7C--9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTI4IiwgImFkZCI6ICIxNzIuNjQuMTY3LjgiLCAicG9ydCI6IDIwOTUsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsICJob3N0IjogImlwMTEuNjAxNjcyNS54eXoiLCAicGF0aCI6ICIvZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM2IiwgImFkZCI6ICIxNzIuNjQuMTY3LjIyIiwgInBvcnQiOiAyMDgyLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAic25pIjogImlwMTguNjkyOTE5OC54eXoiLCAiaG9zdCI6ICJpcDE4LjY5MjkxOTgueHl6IiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM3IiwgImFkZCI6ICIxNzIuNjQuMTY2LjgiLCAicG9ydCI6IDIwOTUsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsICJob3N0IjogImlwMTIuNjAxNjcyNS54eXoiLCAicGF0aCI6ICIvZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTQwIiwgImFkZCI6ICIxNzIuNjQuMTY3LjEwIiwgInBvcnQiOiAyMDgyLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAic25pIjogImlwMTguNjkyOTE5OC54eXoiLCAiaG9zdCI6ICJpcDE4LjY5MjkxOTgueHl6IiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0=
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.99:8882#0%7C--1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYN2VvRUJyQVJXc0JVaVZmY2hWRWRI@185.77.217.121:443#0%7C--9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#0%7C--13
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#0%7C--14
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.218:8090#0%7C--17
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.99:8881#0%7C--18
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM2IiwgImFkZCI6ICIxNzIuNjQuMTY2LjIiLCAicG9ydCI6IDIwODIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsICJzbmkiOiAiaXAxOC42OTI5MTk4Lnh5eiIsICJob3N0IjogImlwMTguNjkyOTE5OC54eXoiLCAicGF0aCI6ICIvZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTQxIiwgImFkZCI6ICIxNzIuNjQuMTc1Ljg4IiwgInBvcnQiOiAyMDgyLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAic25pIjogImlwMTguNjkyOTE5OC54eXoiLCAiaG9zdCI6ICJpcDE4LjY5MjkxOTgueHl6IiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTQzIiwgImFkZCI6ICJtMDAzLm1temhrLndlYnNpdGUiLCAicG9ydCI6IDgwODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImMzZDFiNTNkLThjYmUtNDQ1NS1hMDA5LWJmYTA4ZTU1ZjExZCIsICJob3N0IjogImRhb2hhbmcubW16aGsud2Vic2l0ZSIsICJwYXRoIjogIi94eXoifQ==
+trojan://xjN4xcuPGg@a.522226.xyz:45101?allowInsecure=1#0,15|KR_speednode_0034
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzAgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAwIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzEgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAxIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzIgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAyIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9
@@ -90,7 +91,6 @@ trojan://86550b36-9e7b-30fd-9d88-8c8f7903b6c4@gy.58n.net:20298?allowInsecure=1&s
 trojan://8bcd0f06-c7f4-4548-b059-5410926ffac7@31.172.87.116:443?allowInsecure=1&sni=testak.dd.msk.su&type=grpc&serviceName=vsAzoREN3Iyuo2VCA3xzaKR#15|DE_speednode_0024
 trojan://8bcd0f06-c7f4-4548-b059-5410926ffac7@31.172.87.116:443?allowInsecure=1&sni=testak.dd.msk.suh2&type=grpc&serviceName=vsAzoREN3Iyuo2VCA3xzaKR#15|DE_speednode_0025
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@219.77.65.212:23555?allowInsecure=0&sni=juzi8186.5112233.xyz&type=ws&host=juzi8186.5112233.xyz&path=/?ed=2560fp=randomfp=random&security=tls#15|HK_speednode_0032
-trojan://xjN4xcuPGg@a.522226.xyz:45101?allowInsecure=1#15|KR_speednode_0034
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?allowInsecure=0&sni=uni.fi&type=ws&host=uni.fi&path=/?ed=2048fp=chrome#15|US_speednode_0035
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?allowInsecure=0&sni=samane.ir&type=ws&host=samane.ir&path=/4u7lAS4nPLtz0xPz?ed=2560fp=chrome#15|US_speednode_0036
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:80?allowInsecure=0&sni=www.speedtest.net.nl1.72.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&type=ws&host=www.speedtest.net.nl1.72.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&path=/Telegram-Xv2ry2?ed=512fp=chrome#15|US_speednode_0038
