@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-11-26 12:49:46  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-11-26 16:31:36  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,7 +24,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-trojan://dfe1ef9b-e590-3b93-816a-e58a908bce99@18.179.44.127:443?allowInsecure=1&sni=upos-hz-mirrorakam.akamaized.net#0,15|JP_speednode_0019
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTMzIiwgImFkZCI6ICIzOC4xNC4xMDcuMjI4IiwgInBvcnQiOiAzODAwMywgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJob3N0IjogInd3dy4yMzE3OTc1My54eXoiLCAicGF0aCI6ICIvcGF0aC8xODE3MjEyNzIxMTQifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzAgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAwIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzEgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAxIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzIgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAyIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9
@@ -64,6 +64,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85rOw5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEx
 trojan://60849177-99ec-3fba-9615-c8de9e254409@gyl.58n.net:20309?allowInsecure=1&sni=z309.hongkongnode.top#15|CN_speednode_0002
 trojan://QwwHvrnN@36.151.192.203:44673?allowInsecure=1&sni=36.151.192.203#15|CN_speednode_0011
 vless://bf61aa2e-5b05-478e-8e1e-453d27c52107@91.107.248.14:13239?allowInsecure=0#15|DE_speednode_0018
+trojan://dfe1ef9b-e590-3b93-816a-e58a908bce99@18.179.44.127:443?allowInsecure=1&sni=upos-hz-mirrorakam.akamaized.net#15|JP_speednode_0019
 trojan://dfe1ef9b-e590-3b93-816a-e58a908bce99@103.136.185.28:3516?allowInsecure=1&sni=origin-a.akamaihd.net#15|US_speednode_0020
 vless://76434743-2a94-4cfd-8170-8e3971419b36@172.66.44.237:443?allowInsecure=0&sni=pardazeshvpn-tg85.pages.dev&type=ws&host=pardazeshvpn-tg85.pages.dev&path=/Telegram:security=tls#15|US_speednode_0021
 vless://e6259fa3-fb06-4f9b-ad3f-bd6250b837f6@lix523052.filegear-sg.me:443?allowInsecure=0&sni=lix523052.filegear-sg.me&type=ws&path=/security=tls#15|US_speednode_0023
