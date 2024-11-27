@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-11-27 08:32:14  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-11-27 12:49:50  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,10 +24,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#0%7C--2
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#0%7C--3
-trojan://24273330-85c9-3a6e-a0fd-58a6076a3a85@34.215.226.60:443?allowInsecure=1&sni=edge.steam-dns.top.comcast.net#0,15|US_speednode_0044
-trojan://24273330-85c9-3a6e-a0fd-58a6076a3a85@18.179.44.127:443?allowInsecure=1&sni=fastly.cdn.steampipe.steamcontent.com#0,15|JP_speednode_0020
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#0%7C--1
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzAgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAwIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzEgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAxIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMyw0LDV8ZCoqKioqKioqKmcuY29tXzIgIzIiLCAiYWRkIjogIjEwNC4yMS4yMzguMjAyIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI5MjAxZmZhYS02Y2EzLTRmNTctOGIxZi0yNjZhMmYzOTBlNDMiLCAic25pIjogImh0dHAxLjkyOTAyNTQueHl6IiwgImhvc3QiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSJ9
@@ -67,6 +64,7 @@ vless://1f19c0e8-74b5-4cd9-cc59-a6e6d75af944@190.93.247.155:2095?allowInsecure=0
 vless://0948673a-e607-4629-a07e-c70e1122fb73@190.93.245.137:443?allowInsecure=0&sni=Ruc80.TehrANsiMAn.co.UK.&alpn=h2,http/1.1&type=ws&host=Ruc80.TehrANsiMAn.co.UK.&path=/?ed=2560fp=chrome&security=tls#15|CR_speednode_0015
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:8443?allowInsecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&alpn=h2&fp=chrome&security=tls#15|DE_speednode_0016
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?allowInsecure=0&sni=edgood.889876.xyz&type=ws&host=edgood.889876.xyz&path=/?ed=2048fp=chrome&security=tls#15|GB_speednode_0019
+trojan://24273330-85c9-3a6e-a0fd-58a6076a3a85@18.179.44.127:443?allowInsecure=1&sni=fastly.cdn.steampipe.steamcontent.com#15|JP_speednode_0020
 trojan://24273330-85c9-3a6e-a0fd-58a6076a3a85@35.75.8.137:443?allowInsecure=1&sni=steampipe-kr.akamaized.net#15|JP_speednode_0021
 vless://f151bde4-6981-4ad9-bd01-dd34ad792a3e@185.146.173.58:80?allowInsecure=0&sni=m22.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&type=ws&host=m22.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.&path=/Omid?ed=2560#15|SE_speednode_0022
 vless://9bb724c7-1435-4d91-a0f4-08c995e76762@185.146.173.58:8080?allowInsecure=0&sni=lc82.lebasnoo.ir.&type=ws&host=lc82.lebasnoo.ir.&path=/servernett#15|SE_speednode_0023
@@ -90,6 +88,7 @@ vless://a73a7c3f-de06-457a-979d-30a7e7a19b0b@104.20.18.168:80?allowInsecure=0&sn
 vless://fe2f9fd4-7ef5-4235-88c3-85f1f90a868f@199.232.7.29:443?allowInsecure=1&sni=ELiv2-ELEnA.ir&type=ws&host=ELiv2-ELEnA.ir&path=/VLESSfp=qq&security=tls#15|US_speednode_0041
 vless://5c62b24a-2dfe-49c1-8c93-cc2c35bd4f26@104.20.19.168:80?allowInsecure=0&sni=worker-floral-sun-5945.miyenep837.workers.DEV&type=ws&host=worker-floral-sun-5945.miyenep837.workers.DEV&path=/vless-ws/?ed=2048#15|US_speednode_0042
 vless://9be0950e-a7b3-5e38-83b4-217ccc4488a0@199.232.3.80:443?allowInsecure=1&sni=ELIV2RAY-JOIN.COM&type=ws&host=ELIV2RAY-JOIN.COM&path=/fp=qq&security=tls#15|US_speednode_0043
+trojan://24273330-85c9-3a6e-a0fd-58a6076a3a85@34.215.226.60:443?allowInsecure=1&sni=edge.steam-dns.top.comcast.net#15|US_speednode_0044
 vless://d57488fc-a7fd-48d5-e3b3-64308afbfc31@151.101.66.219:80?allowInsecure=0&sni=XpnTeam.ir&type=ws&host=XpnTeam.ir&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#15|US_speednode_0045
 vless://18cb1e84-aec2-44b3-aadd-5d040f47a842@104.21.21.147:443?allowInsecure=0&sni=pardazeshvpn-tg44.pages.dev&type=ws&host=pardazeshvpn-tg44.pages.dev&path=/@VPNHTTPInjectorfreesecurity=tls#15|US_speednode_0046
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.103:443?allowInsecure=0&sni=PPal03.Pages.dEv&alpn=h2,http/1.1&type=ws&host=PPal03.Pages.dEv&path=/fp=chrome&security=tls#15|US_speednode_0047
