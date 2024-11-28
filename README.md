@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-11-28 12:50:01  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-11-28 16:29:48  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,8 +24,6 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-trojan://6b7ec37b-96e7-37a1-9c9f-80399b8e7256@18.179.44.127:443?allowInsecure=1&sni=steampipe.akamaized.net#0,15|JP_speednode_0013
-trojan://6b7ec37b-96e7-37a1-9c9f-80399b8e7256@43.206.140.241:443?allowInsecure=1&sni=akamai.cdn.steampipe.steamcontent.com#0,15|JP_speednode_0011
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXxkKioqKioqKioqZy5jb21fMCIsICJhZGQiOiAiMTA0LjIxLjIzOC4yMDAiLCAicG9ydCI6IDg0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjkyMDFmZmFhLTZjYTMtNGY1Ny04YjFmLTI2NmEyZjM5MGU0MyIsICJzbmkiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAiaG9zdCI6ICJodHRwMS45MjkwMjU0Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5In0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXxkKioqKioqKioqZy5jb21fMSIsICJhZGQiOiAiMTA0LjIxLjIzOC4yMDEiLCAicG9ydCI6IDg0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjkyMDFmZmFhLTZjYTMtNGY1Ny04YjFmLTI2NmEyZjM5MGU0MyIsICJzbmkiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAiaG9zdCI6ICJodHRwMS45MjkwMjU0Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5In0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXxkKioqKioqKioqZy5jb21fMiIsICJhZGQiOiAiMTA0LjIxLjIzOC4yMDIiLCAicG9ydCI6IDg0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjkyMDFmZmFhLTZjYTMtNGY1Ny04YjFmLTI2NmEyZjM5MGU0MyIsICJzbmkiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAiaG9zdCI6ICJodHRwMS45MjkwMjU0Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5In0=
@@ -72,7 +70,9 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?allowInsecure=0
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?allowInsecure=0&sni=edgood.889876.xyz&type=ws&host=edgood.889876.xyz&path=/security=tls#15|GB_speednode_0008
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@217.163.76.107:8443?allowInsecure=0&sni=edgood.889876.xyz&type=ws&host=edgood.889876.xyz&path=/?ed=2048fp=chromefp=chrome&security=tls#15|GB_speednode_0009
 vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@154.218.15.1:443?allowInsecure=0&sni=445566.666888.lol&alpn=http/1.1&type=ws&host=445566.666888.lol&path=/?ed=2560fp=random&security=tls#15|HK_speednode_0010
+trojan://6b7ec37b-96e7-37a1-9c9f-80399b8e7256@43.206.140.241:443?allowInsecure=1&sni=akamai.cdn.steampipe.steamcontent.com#15|JP_speednode_0011
 vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@45.159.48.192:12212?allowInsecure=0&sni=445566.666888.lol&alpn=http/1.1&type=ws&host=445566.666888.lol&path=/?ed=2560fp=random&security=tls#15|JP_speednode_0012
+trojan://6b7ec37b-96e7-37a1-9c9f-80399b8e7256@18.179.44.127:443?allowInsecure=1&sni=steampipe.akamaized.net#15|JP_speednode_0013
 vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@103.160.204.50:443?allowInsecure=0&sni=445566.666888.lol&alpn=http/1.1&type=ws&host=445566.666888.lol&path=/?ed=2560fp=random&security=tls#15|NN_speednode_0014
 vless://23d9aa04-8a2a-4ffc-9a3c-479a9f43f6fe@103.160.204.4:443?allowInsecure=0&sni=445566.666888.lol&alpn=http/1.1&type=ws&host=445566.666888.lol&path=/?ed=2560fp=random&security=tls#15|NN_speednode_0015
 trojan://blue2024@213.241.198.113:443?allowInsecure=1&sni=ha.lii2010.us.kg&type=ws&host=ha.lii2010.us.kg&path=/?ed=2560#15|RU_speednode_0016
