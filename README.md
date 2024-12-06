@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-06 12:49:24  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-06 16:28:44  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,19 +24,16 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.195.205.31:443#0%7C--2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.212.36.13:443#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.1.195.116:443#0%7C--5
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.141.184.102:443#0%7C--6
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.200.220.184:443#0%7C--8
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.128.246.130:443#0%7C--9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.203.119.192:443#0%7C--10
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.193.184.18:443#0%7C--12
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.199.12.31:443#0%7C--22
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.169.5.182:443#0%7C--26
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTY4IiwgImFkZCI6ICJpcnZpZGVvLmNmZCIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiaG9zdCI6ICJpcnZpZGVvLmNmZCIsICJwYXRoIjogIi9saW5rd3MifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTEwNyIsICJhZGQiOiAiMjMuMTU4LjU2LjM5IiwgInBvcnQiOiA0NDMsICJhaWQiOiAxLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJob3N0IjogIjIzLjE1OC41Ni4zOSIsICJwYXRoIjogIi9saW5rdndzIn0=
-trojan://d75a2b07-34f4-454e-84ba-0de806c51b6d@dab1c8faaa893fecbc1e055db0894883.v1.cac.node-is.green:46509?allowInsecure=1&sni=ca1.bilibili.com#0,15|HK_speednode_0039
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.236.89.178:443#0%7C--5
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.185.18.43:443#0%7C--10
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.169.5.182:443#0%7C--11
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@44.244.25.243:443#0%7C--12
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.128.246.130:443#0%7C--14
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.212.36.13:443#0%7C--16
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.200.220.184:443#0%7C--17
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.215.84.62:443#0%7C--19
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTc4IiwgImFkZCI6ICIxNDkuNy4xNi4xOTQiLCAicG9ydCI6IDQ0MywgImFpZCI6IDEsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgInBhdGgiOiAiL2xpbmt2d3MifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTgwIiwgImFkZCI6ICIyMy4xNTguNTYuMzkiLCAicG9ydCI6IDQ0MywgImFpZCI6IDEsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImhvc3QiOiAiMjMuMTU4LjU2LjM5IiwgInBhdGgiOiAiL2xpbmt2d3MifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXxkKioqKioqKioqZy5jb21fMCIsICJhZGQiOiAiMTA0LjIxLjIzOC4yMDAiLCAicG9ydCI6IDg0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjkyMDFmZmFhLTZjYTMtNGY1Ny04YjFmLTI2NmEyZjM5MGU0MyIsICJzbmkiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAiaG9zdCI6ICJodHRwMS45MjkwMjU0Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5In0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXxkKioqKioqKioqZy5jb21fMSIsICJhZGQiOiAiMTA0LjIxLjIzOC4yMDEiLCAicG9ydCI6IDg0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjkyMDFmZmFhLTZjYTMtNGY1Ny04YjFmLTI2NmEyZjM5MGU0MyIsICJzbmkiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAiaG9zdCI6ICJodHRwMS45MjkwMjU0Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5In0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiNXxkKioqKioqKioqZy5jb21fMiIsICJhZGQiOiAiMTA0LjIxLjIzOC4yMDIiLCAicG9ydCI6IDg0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjkyMDFmZmFhLTZjYTMtNGY1Ny04YjFmLTI2NmEyZjM5MGU0MyIsICJzbmkiOiAiaHR0cDEuOTI5MDI1NC54eXoiLCAiaG9zdCI6ICJodHRwMS45MjkwMjU0Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5In0=
@@ -92,6 +89,7 @@ trojan://285caaa4-dd31-4825-ab6a-3e4a6808dcc7@16ab1c69cdfdbf898aa6c5c5131dfa99.v
 trojan://285caaa4-dd31-4825-ab6a-3e4a6808dcc7@e365c3a06d49e21c6027fce9ee36f181.v1.cac.node-is.green:49468?allowInsecure=1&sni=us1.bilibili.com#15|HK_speednode_0036
 trojan://285caaa4-dd31-4825-ab6a-3e4a6808dcc7@eef72d13ad096a6703aabd5bae809848.v1.cac.node-is.green:48385?allowInsecure=1&sni=de1.bilibili.com#15|HK_speednode_0037
 trojan://285caaa4-dd31-4825-ab6a-3e4a6808dcc7@26f3c1fb8b12d3dcbc594b4e5cad3f1a.v1.cac.node-is.green:47580?allowInsecure=1&sni=ca1.bilibili.com#15|HK_speednode_0038
+trojan://d75a2b07-34f4-454e-84ba-0de806c51b6d@dab1c8faaa893fecbc1e055db0894883.v1.cac.node-is.green:46509?allowInsecure=1&sni=ca1.bilibili.com#15|HK_speednode_0039
 vless://35017be6-5b1c-4cd4-a248-95c4a99a46b1@Zmaoz.Faculty.UcdavIS.Edu:443?allowInsecure=0&sni=Zmaoz.Faculty.UcdavIS.Edu.&alpn=h3,h2,http/1.1&type=ws&host=meloch-de.com&path=/@melov2ray/ws?e@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpnd=2048fp=chrome&security=tls#15|JP_speednode_0040
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@151.101.87.26:80?allowInsecure=0&sni=rezaping.ir&type=ws&host=rezaping.ir&path=/#15|SE_speednode_0041
 trojan://542f66d8-6b06-4340-a829-76d23db7ca80@185.146.173.42:443?allowInsecure=1&sni=fr1.trojanvpn.xyz&type=ws&host=fr1.trojanvpn.xyz&path=//#15|SE_speednode_0042
