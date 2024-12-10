@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-10 12:51:14  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-10 16:32:12  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,15 +24,9 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.216.74.178:443#0%7C--1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.169.5.182:443#0%7C--2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.185.18.43:443#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.200.220.184:443#0%7C--4
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.206.233.92:443#0%7C--5
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTQ0IiwgImFkZCI6ICIxOTAuOTMuMjQ1LjEwMyIsICJwb3J0IjogMjA4MiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgImhvc3QiOiAiaXAxOC42OTI5MTk4Lnh5eiIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTY3IiwgImFkZCI6ICIxOTAuOTMuMjQ1LjgwIiwgInBvcnQiOiAyMDgyLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAiaG9zdCI6ICJpcDE4LjY5MjkxOTgueHl6IiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTc2IiwgImFkZCI6ICIxNzIuNjQuMTY2LjMzIiwgInBvcnQiOiAyMDk1LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIxOGQ5NjE5MC1jMTBmLTQ0OGYtYTgyYS0yZDM2ZGY1YzNjZGUiLCAiaG9zdCI6ICJpcDEyLjYwMTY3MjUueHl6IiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0=
-trojan://ypDt8RkT7J@89.187.181.172:43118?allowInsecure=1&sni=egcmi.phooeyunfold.com#0,15|US_speednode_0078
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.215.84.62:443#0%7C--1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#0%7C--3
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTYxIiwgImFkZCI6ICIxOTAuOTMuMjQ1LjgwIiwgInBvcnQiOiAyMDgyLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCAiaG9zdCI6ICJpcDE4LjY5MjkxOTgueHl6IiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0=
 trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://QwwHvrnN@36.151.192.203:25241?allowInsecure=1#13,14|香港2|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjQ4LjE1OCIsICJwb3J0IjogNTAwNTIsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=
@@ -72,6 +66,7 @@ vless://6f995056-7802-4a1d-bff7-61678e626c3f@bnnm.azurewebsites.net:443?allowIns
 vless://d578322a-266b-479d-9eda-f1b41324e721@199.232.8.123:80?allowInsecure=0&sni=IRANINGOAT2.IR&type=ws&host=IRANINGOAT2.IR&path=/RsAMasAPMX5yb1YZ?ed=2560fp=chromefp=chrome#15|US_speednode_0043
 vless://4822eda6-e0a4-5952-944d-79a93594b7d5@199.232.255.25:443?allowInsecure=1&sni=TEHRANARGO.cc&type=ws&host=TEHRANARGO.cc&path=/Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO-Telegram,@TEHRANARGO?ed=2560fp=qq&security=tls#15|US_speednode_0052
 vless://21116e83-f40b-4f97-a1f1-7bb1c5ea4609@151.101.2.219:80?allowInsecure=0&sni=snapp.com&type=ws&host=snapp.com&path=/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN?ed=2048#15|US_speednode_0074
+trojan://ypDt8RkT7J@89.187.181.172:43118?allowInsecure=1&sni=egcmi.phooeyunfold.com#15|US_speednode_0078
 vless://4a41de72-af20-4a1b-a561-85caf016d414@104.16.155.10:443?allowInsecure=0&sni=hkone.111677.xyz&type=ws&host=hkone.111677.xyz&path=/4a41de72-af20-4a1b-a561-85caf016d414fp=chrome&security=tls#15|US_speednode_0099
 vless://4a41de72-af20-4a1b-a561-85caf016d414@104.17.213.241:443?allowInsecure=0&sni=hkone.111677.xyz&type=ws&host=hkone.111677.xyz&path=/4a41de72-af20-4a1b-a561-85caf016d414fp=chrome&security=tls#15|US_speednode_0100
 vless://4a41de72-af20-4a1b-a561-85caf016d414@104.19.48.236:443?allowInsecure=0&sni=hkone.111677.xyz&type=ws&host=hkone.111677.xyz&path=/4a41de72-af20-4a1b-a561-85caf016d414fp=chrome&security=tls#15|US_speednode_0101
