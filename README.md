@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-12 16:31:38  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-12 20:27:08  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,16 +24,19 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@217.30.10.18:9056#0%7C--2
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.11:8080#0%7C--5
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@217.30.10.18:9005#0%7C--6
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#0%7C--8
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@217.30.10.18:9027#0%7C--9
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@0bce075b5465c22ad8c82382a5df74ad.v1.cac.node-is.green:44991?allowInsecure=1&sni=us1.bilibili.com#0,15|HK_speednode_0005
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@1906e95f0a4e34cca3d5618e3498505d.v1.cac.node-is.green:48539?allowInsecure=1&sni=hk12.bilibili.com#0|--146
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.169.5.182:443#0%7C--1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.236:8080#0%7C--2
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.110.1.46:7001#0%7C--4
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.46:443#0%7C--5
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.46:6379#0%7C--6
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.46:8080#0%7C--7
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.46:5500#0%7C--8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTg2IiwgImFkZCI6ICI1Ny4xMjkuMjQuMTI0IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJzbmkiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJob3N0IjogImF2ZWlyb3IuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MifQ==
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@eb0aa4fcce49b0399bc0f109cd6a0296.v1.cac.node-is.green:49089?allowInsecure=1&sni=jp12.bilibili.com#0|--94
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@1906e95f0a4e34cca3d5618e3498505d.v1.cac.node-is.green:48539?allowInsecure=1&sni=hk12.bilibili.com#0|--95
 trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@ddbfb45e8b47580a5b2c2b5e43fa9213.v1.cac.node-is.green:41790?allowInsecure=1&sni=us1.bilibili.com#0,15|HK_speednode_0004
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@7c0bb8d8872425b41520a1a9ad77fa89.v1.cac.node-is.green:49782?allowInsecure=1&sni=jp12.bilibili.com#0|--151
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@eb0aa4fcce49b0399bc0f109cd6a0296.v1.cac.node-is.green:49089?allowInsecure=1&sni=jp12.bilibili.com#0|--152
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@0bce075b5465c22ad8c82382a5df74ad.v1.cac.node-is.green:44991?allowInsecure=1&sni=us1.bilibili.com#0,15|HK_speednode_0005
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@7c0bb8d8872425b41520a1a9ad77fa89.v1.cac.node-is.green:49782?allowInsecure=1&sni=jp12.bilibili.com#0|--100
 trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://QwwHvrnN@36.151.192.203:25241?allowInsecure=1#13,14|香港2|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJoazEudGlsamtjLnRvcCIsICJwb3J0IjogMzkwNDEsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlZGQxY2EzMS1iZGY0LTM3N2UtYmMzYS03NjYzNWEzM2M5Y2QifQ==
