@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-13 08:31:49  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-13 12:49:33  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,19 +24,19 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.11:8080#0%7C--2
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#0%7C--4
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#0%7C--5
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.203.0.206:443#0%7C--6
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.91.173.159:443#0%7C--7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.237.72.225:443#0%7C--8
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.169.221.38:443#0%7C--9
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--10
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@7c0bb8d8872425b41520a1a9ad77fa89.v1.cac.node-is.green:49782?allowInsecure=1&sni=jp12.bilibili.com#0|--115
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@1906e95f0a4e34cca3d5618e3498505d.v1.cac.node-is.green:48539?allowInsecure=1&sni=hk12.bilibili.com#0|--118
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@0bce075b5465c22ad8c82382a5df74ad.v1.cac.node-is.green:44991?allowInsecure=1&sni=us1.bilibili.com#0,15|HK_speednode_0011
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:41288?allowInsecure=1&sni=hk12.bilibili.com#0,15|HK_speednode_0010
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@eb0aa4fcce49b0399bc0f109cd6a0296.v1.cac.node-is.green:49089?allowInsecure=1&sni=jp12.bilibili.com#0|--131
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@184.170.241.194:443#0%7C--1
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.237.72.225:443#0%7C--2
+ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@217.30.10.18:9024#0%7C--4
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.11:8080#0%7C--5
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.91.173.159:443#0%7C--6
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.203.0.206:443#0%7C--7
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#0%7C--8
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.141.184.102:443#0%7C--9
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@217.30.10.18:9027#0%7C--10
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#0%7C--11
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.18:9031#0%7C--12
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#0%7C--13
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTUwIiwgImFkZCI6ICJpcnZpZGVvLmNmZCIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiaG9zdCI6ICJpcnZpZGVvLmNmZCIsICJwYXRoIjogIi9saW5rd3MifQ==
 trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://QwwHvrnN@36.151.192.203:25241?allowInsecure=1#13,14,15|CN_speednode_0004
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR86aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJoazEudGlsamtjLnRvcCIsICJwb3J0IjogIjQxMDAyIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJlZGQxY2EzMS1iZGY0LTM3N2UtYmMzYS03NjYzNWEzM2M5Y2QiLCAic25pIjogInVyeWRoLmxqcmljYnJkLnRvcCJ9
@@ -83,6 +83,8 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.250.110.56:443#14%7C%E7
 trojan://DNUMdmnJ@36.151.192.242:51377?allowInsecure=1#15|CN_speednode_0005
 vless://8e6c2e8d-3574-4cea-bb03-118e5cb9cc13@57.129.55.94:443?allowInsecure=0&type=ws&path=/#15|DE_speednode_0007
 vless://26721978-890e-4946-bafa-cb03c9ff7f4a@212.237.218.123:38142?allowInsecure=0#15|FI_speednode_0008
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:41288?allowInsecure=1&sni=hk12.bilibili.com#15|HK_speednode_0010
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@0bce075b5465c22ad8c82382a5df74ad.v1.cac.node-is.green:44991?allowInsecure=1&sni=us1.bilibili.com#15|HK_speednode_0011
 vless://d6252cc5-2f53-4966-ad3b-99285b891879@live.skornorth.com:443?allowInsecure=0&sni=live.skornorth.com&alpn=h2,http/1.1&type=ws&host=soft-sun.com&path=/@custom_config?ed=2048fp=chrome&security=tls#15|JP_speednode_0012
 vless://59260bc4-8672-4573-b805-a372efc200b8@151.101.192.155:80?allowInsecure=0&sni=iranvpn.com.&type=ws&host=iranvpn.com.&path=/?ed=1024#15|US_speednode_0015
 vless://96bb4985-ef9a-45dd-9127-386516c64169@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitTNeWz.NeT&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.TzZLiMitTNeWz.NeT&path=/#15|US_speednode_0017
