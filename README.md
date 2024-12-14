@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-14 08:28:26  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-14 12:44:41  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,23 +24,15 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@184.170.241.194:443#0%7C--1
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@217.30.10.18:9003#0%7C--2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvbmdab3RUYmtGdERJQ1laeWk2M25B@51.158.252.130:443#0%7C--3
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvbmdab3RUYmtGdERJQ1laeWk2M25B@51.158.252.130:443#0%7C--2
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#0%7C--3
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.91.173.159:443#0%7C--4
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.203.0.206:443#0%7C--5
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.237.72.225:443#0%7C--7
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.18:9094#0%7C--8
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--9
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#0%7C--10
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.141.184.102:443#0%7C--11
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#0%7C--12
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#0%7C--13
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#0%7C--14
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM2IiwgImFkZCI6ICIyMy4xNTguNTYuMjI3IiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJob3N0IjogIjIzLjE1OC41Ni4yMjciLCAicGF0aCI6ICIvbGlua3Z3cyJ9
-trojan://wkmY1R4EcP@45.32.137.6:443?allowInsecure=1#0,15|US_speednode_0032
-trojan://3648425794742788096@35.168.124.79:443?allowInsecure=1&sni=humble-rodent.treefrog761.one#0,15|US_speednode_0031
-trojan://3648425794742788096@54.251.144.236:443?allowInsecure=1&sni=enabling-heron.treefrog761.one#0,15|SG_speednode_0016
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.200.220.184:443#0%7C--7
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.141.184.102:443#0%7C--8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTMwIiwgImFkZCI6ICJpcnZpZGVvLmNmZCIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiaG9zdCI6ICJpcnZpZGVvLmNmZCIsICJwYXRoIjogIi9saW5rd3MifQ==
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:41288?allowInsecure=1&sni=hk12.bilibili.com#0|--36
 trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://QwwHvrnN@36.151.192.203:25241?allowInsecure=1#13,14|香港2|@ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MThiNjExOS0xN2ZiLTQ3MDAtYTNlZC0zMmU4NDE3YTNkYWE=@hk02.51feitu.com:10002#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -77,6 +69,7 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.178.84.59:443#14%7C%E6%
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.151.196.32:443#14%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 trojan://6307d00e-56e0-4d0d-afe9-254155638bdf@219.135.231.205:18147?allowInsecure=1#15|CN_speednode_0003
 vless://f91e9ba8-d99e-46fe-ce70-16b0ef7aed2b@212.33.202.79:34924?allowInsecure=0&sni=‎myket.ir#15|IR_speednode_0009
+trojan://3648425794742788096@54.251.144.236:443?allowInsecure=1&sni=enabling-heron.treefrog761.one#15|SG_speednode_0016
 vless://9df625ba-7d04-405d-9d54-2c8c1e5fbccb@69.84.182.164:443?allowInsecure=0&sni=cc.aimercc.filegear-sg.me&type=ws&host=cc.aimercc.filegear-sg.me&path=/?ed=2560security=tls#15|US_speednode_0020
 vless://25af9eb2-3310-4f2b-bc82-ebea62ba7906@104.18.41.138:8880?allowInsecure=0&sni=config-proxy-vl.telegram-config-proxy.workers.dev&type=ws&host=config-proxy-vl.telegram-config-proxy.workers.dev&path=/?ed=2560#15|US_speednode_0021
 vless://9a2eeb28-0baa-5f9a-9926-ac3189543551@199.232.125.59:443?allowInsecure=1&sni=JOiN--E-L-I-V-2-R-A-Y.net&type=ws&host=JOiN--E-L-I-V-2-R-A-Y.net&path=/fp=safari&security=tls#15|US_speednode_0022
@@ -85,6 +78,8 @@ vless://9df625ba-7d04-405d-9d54-2c8c1e5fbccb@198.62.62.170:443?allowInsecure=0&s
 vless://9df625ba-7d04-405d-9d54-2c8c1e5fbccb@198.62.62.254:443?allowInsecure=0&sni=cc.aimercc.filegear-sg.me&type=ws&host=cc.aimercc.filegear-sg.me&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.iosecurity=tls#15|US_speednode_0026
 vless://afda0083-5380-4a2f-9076-e9aba3958946@104.19.54.231:8080?allowInsecure=0&sni=joinbedevmessorg.xn--54qv00ez5ar77g.co.&type=ws&host=joinbedevmessorg.xn--54qv00ez5ar77g.co.&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=8080#15|US_speednode_0027
 vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@172.67.195.126:8880?allowInsecure=1&sni=falcunargo-telegram.384f2ed785.workers.Dev&type=ws&host=falcunargo-telegram.384f2ed785.workers.Dev&path=/#15|US_speednode_0028
+trojan://3648425794742788096@35.168.124.79:443?allowInsecure=1&sni=humble-rodent.treefrog761.one#15|US_speednode_0031
+trojan://wkmY1R4EcP@45.32.137.6:443?allowInsecure=1#15|US_speednode_0032
 vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.bEsTdRlImIt.NeT&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v05.bEsTdRlImIt.NeT&path=/#15|US_speednode_0033
 vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.bEsTdRlImIt.NeT&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v12.bEsTdRlImIt.NeT&path=/#15|US_speednode_0034
 vless://0c42afca-b950-4cb8-a622-501f5e5a925e@hajlab.ucdavis.edu:80?allowInsecure=0&sni=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v25.bEsTdRlImIt.NeT&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v25.bEsTdRlImIt.NeT&path=/#15|US_speednode_0035
