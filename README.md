@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-14 16:27:53  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-14 20:24:37  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -25,8 +25,10 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#0%7C--1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.237.72.225:443#0%7C--2
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#0%7C--3
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.237.72.225:443#0%7C--3
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#0%7C--4
+trojan://3648425794742788096@prime-gator.treefrog761.one:443?allowInsecure=0&sni=prime-gator.treefrog761.one#0,15|IN_speednode_0004
 trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://QwwHvrnN@36.151.192.203:25241?allowInsecure=1#13,14|香港2|@ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MThiNjExOS0xN2ZiLTQ3MDAtYTNlZC0zMmU4NDE3YTNkYWE=@hk02.51feitu.com:10002#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -63,7 +65,6 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.178.84.59:443#14%7C%E6%
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.151.196.32:443#14%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@cnamefuckxxs.yuchen.icu:443?allowInsecure=0&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&path=/?ed=2048fp=random&security=tls#15|CY_speednode_0002
 trojan://3648425794742788096@loving-boa.treefrog761.one:443?allowInsecure=0&sni=loving-boa.treefrog761.one#15|IN_speednode_0003
-trojan://3648425794742788096@prime-gator.treefrog761.one:443?allowInsecure=0&sni=prime-gator.treefrog761.one#15|IN_speednode_0004
 vless://9df625ba-7d04-405d-9d54-2c8c1e5fbccb@129.151.204.91:443?allowInsecure=0&sni=cc.aimercc.filegear-sg.me&type=ws&host=cc.aimercc.filegear-sg.me&path=/?ed=2560security=tls#15|SE_speednode_0005
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@www.shopify.com:443?allowInsecure=0&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&path=/?ed=2048fp=random&security=tls#15|SE_speednode_0006
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@www.shopify.com:2087?allowInsecure=0&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&path=/?ed=2048fp=random&security=tls#15|SE_speednode_0007
