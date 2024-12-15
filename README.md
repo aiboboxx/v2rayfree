@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-15 16:27:53  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-15 20:25:08  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,11 +24,10 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.15.82:989#0%7C--2
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#0%7C--3
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--4
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.213.67.37:443#0%7C--5
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:42534?allowInsecure=1&sni=hk12.bilibili.com#0,15|HK_speednode_0007
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.15.82:989#0%7C--1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#0%7C--3
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@137.175.97.159:8388#0%7C--4
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:41288?allowInsecure=1&sni=hk12.bilibili.com#0|--48
 trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://QwwHvrnN@36.151.192.203:25241?allowInsecure=1#13,14|香港2|@ripaojiedian
 ss://YWVzLTI1Ni1nY206QU5UR1Q3NE1PNTdLTExMRQ==@219.135.227.209:15011#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -74,6 +73,7 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@18.141.187.153:443#14%7C%E
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.248.142.136:443#14%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.207.81.209:443#14%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@www.csgo.com:443?allowInsecure=1&sni=server17.aibox.tv&alpn=h2,http/1.1&type=ws&host=server17.aibox.tv&path=/ws/fp=chrome&security=tls#15|CY_speednode_0004
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:42534?allowInsecure=1&sni=hk12.bilibili.com#15|HK_speednode_0007
 trojan://3648425794742788096@prime-gator.treefrog761.one:443?allowInsecure=0&sni=prime-gator.treefrog761.one#15|IN_speednode_0008
 vless://89b90001-4206-4871-a99d-1744d48f215b@cf.cishanjichang.me:443?allowInsecure=0&sni=ghk.jintianpaolu.tech&type=grpc&serviceName=swordnewnewsecurity=tls#15|US_speednode_0012
 vless://968f8967-1361-41d5-9769-f6624ef58694@104.24.92.113:443?allowInsecure=1&sni=tvmez.pages.dev&type=ws&host=tvmez.pages.dev&path=/?ed=2560fp=random&security=tls#15|US_speednode_0016
