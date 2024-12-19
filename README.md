@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-19 12:49:01  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-19 16:27:33  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,13 +24,13 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.53:6697#0%7C--1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.200.1.13:443#0%7C--4
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.243.93:443#0%2C13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#0%7C--7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.70.176.73:443#0%7C--9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.218.229.170:443#0%7C--10
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.53:3389#0%7C--3
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.36.65.244:443#0%7C--4
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.136.128:443#0%7C--6
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.70.176.73:443#0%7C--7
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#0%7C--8
+trojan://3648425794742788096@fun-ostrich.treefrog761.one:443?allowInsecure=0&sni=fun-ostrich.treefrog761.one#0,15|JP_speednode_0012
 trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://QwwHvrnN@223.113.54.145:36442?allowInsecure=1#13,14|香港2|@ripaojiedian
 ss://YWVzLTI1Ni1nY206S0dQV0Q3WlpZMkYwWllQWQ==@219.135.227.209:15007#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -72,7 +72,6 @@ trojan://d4f89111885.wns.windows.com@123.125.94.170:1466?allowInsecure=1&sni=frs
 trojan://d4f89111885.wns.windows.com@123.125.94.170:1606?allowInsecure=1&sni=rusource1.mzsourcenode.info#15|CN_speednode_0008
 vless://15c64822-1a11-419c-9ec2-7cb2807ec3b4@190.93.245.137:443?allowInsecure=0&sni=www.arashiphone.com.&alpn=h2,http/1.1&type=ws&host=www.arashiphone.com.&path=/?ed=2560fp=chrome&security=tls#15|CR_speednode_0009
 vless://13e15bfe-73f7-4bfe-a386-136451137fc3@188.245.215.46:19984?allowInsecure=0&sni=Telewebion.com#15|DE_speednode_0010
-trojan://3648425794742788096@fun-ostrich.treefrog761.one:443?allowInsecure=0&sni=fun-ostrich.treefrog761.one#15|JP_speednode_0012
 trojan://tg-fq521free@194.76.18.129:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|KZ_speednode_0014
 trojan://tg-fq521free@45.67.215.95:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|RU_speednode_0020
 vless://ec1540bf-39b1-5901-bc00-4aa9c81e27af@199.232.125.43:443?allowInsecure=1&sni=ELI-V2-RAY.COM&type=ws&host=ELI-V2-RAY.COM&path=/security=tls#15|US_speednode_0029
