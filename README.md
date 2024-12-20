@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-20 16:27:47  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-20 20:24:07  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,13 +24,21 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.18:9010#0%7C--1
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.248.193:443#0%2C13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060#0%7C--2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.243.93:443#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.36.65.244:443#0%7C--4
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.18:9006#0%7C--6
-ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@217.30.10.18:9050#0%7C--7
-trojan://Julius@104.219.41.229:443?allowInsecure=1&sni=miami.juliusnet.com#0,15|US_speednode_0028
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.77:5500#0%7C--3
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@217.30.10.18:9084#0%7C--4
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#0%7C--5
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.200.1.13:443#0%7C--6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#0%7C--8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#0%7C--9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#0%7C--10
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.218.229.170:443#0%7C--11
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#0%7C--12
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.18:9093#0%7C--13
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.70.176.73:443#0%7C--14
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@217.30.10.18:9014#0%7C--15
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.201.174.149:443#0%7C--16
 trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://QwwHvrnN@223.113.54.145:36442?allowInsecure=1#13,14,15|CN_speednode_0004
 ss://YWVzLTI1Ni1nY206S0dQV0Q3WlpZMkYwWllQWQ==@219.135.227.209:15007#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -84,6 +92,7 @@ vless://ec1540bf-39b1-5901-bc00-4aa9c81e27af@199.232.125.43:443?allowInsecure=1&
 trojan://tg-fq521free@216.24.57.30:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|US_speednode_0024
 trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|US_speednode_0026
 vless://5ca4947a-3a0e-458e-9701-11e6805dae8f@speedtest.net:80?allowInsecure=0&sni=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#15|US_speednode_0027
+trojan://Julius@104.219.41.229:443?allowInsecure=1&sni=miami.juliusnet.com#15|US_speednode_0028
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@98.85.198.21:22222?allowInsecure=0&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-wssecurity=tls#15|US_speednode_0029
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@147135001178.sec22org.com:443?allowInsecure=0&alpn=h2,http/1.1&security=tls#15|US_speednode_0030
 vless://1aae9657-c653-495d-e8ad-8ca52916cea8@172.67.160.44:443?allowInsecure=1&sni=de.bolagskontaktstockholm.se&alpn=h2,http/1.1&type=ws&host=de.bolagskontaktstockholm.se&path=/wsfp=chrome&security=tls#15|US_speednode_0031
