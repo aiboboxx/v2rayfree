@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-20 04:27:01  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-20 08:29:01  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,21 +24,22 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#0%7C--1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.141.93:443#0%2C13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#0%7C--3
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#0%7C--1
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.212.48:443#0%2C13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.70.176.73:443#0%7C--5
-ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@217.30.10.18:9050#0%7C--6
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@217.30.10.18:9027#0%7C--7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.132.123:443#0%7C--9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.36.65.244:443#0%7C--10
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@217.30.10.18:9041#0%7C--11
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.18:9094#0%7C--12
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.200.220.184:443#0%7C--14
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM1IiwgImFkZCI6ICJpcnZpZGVvLmNmZCIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiaG9zdCI6ICJpcnZpZGVvLmNmZCIsICJwYXRoIjogIi9saW5rd3MifQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.34.255.220:443#0%7C--5
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.136.128:443#0%7C--6
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.70.176.73:443#0%7C--7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNEQ4V1R2a3ZJQUx4bSs4c0lIMnJncFhpemROVmNxamJjTjBPMVJsOUtRPQ==@109.120.138.94:10851#0%7C--9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.51.2:443#0%7C--10
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#0%7C--11
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#0%7C--12
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.18:9094#0%7C--13
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.141.93:443#0%2C13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#0%7C--15
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#0%7C--16
+trojan://Julius@104.219.41.229:443?allowInsecure=1&sni=miami.juliusnet.com#0,15|US_speednode_0028
 trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#13,14|香港|@ripaojiedian
-trojan://QwwHvrnN@223.113.54.145:36442?allowInsecure=1#13,14|香港2|@ripaojiedian
+trojan://QwwHvrnN@223.113.54.145:36442?allowInsecure=1#13,14,15|CN_speednode_0004
 ss://YWVzLTI1Ni1nY206S0dQV0Q3WlpZMkYwWllQWQ==@219.135.227.209:15007#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMTk4LjcxLjIxNCIsICJwb3J0IjogMzQ0OTMsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivNXxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiA1MTcwNCwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
@@ -78,23 +79,20 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@52.79.248.193:443#14%7C%E9
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.203.141.93:443#14%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.38.212.48:443#14%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85rOV5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjIuMTgyLjE3NC4yMSIsICJwb3J0IjogIjkwOTAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZmRkZjg4ZWQtOGM3MC00MmFkLWMxMmUtNWY0MDg0MWU2ZjAwIiwgInNuaSI6ICIifQ==
-trojan://d4f89111885.wns.windows.com@123.125.94.170:1626?allowInsecure=1&sni=desource1.mzsourcenode.info#15|CN_speednode_0001
-trojan://d4f89111885.wns.windows.com@123.125.94.170:1357?allowInsecure=1&sni=uksource1.mzsourcenode.info#15|CN_speednode_0002
-trojan://d4f89111885.wns.windows.com@123.125.94.170:1356?allowInsecure=1&sni=uksource1.mzsourcenode.info#15|CN_speednode_0003
-trojan://d4f89111885.wns.windows.com@123.125.94.170:1630?allowInsecure=1&sni=desource1.game.mzsourcenode.info#15|CN_speednode_0004
-trojan://d4f89111885.wns.windows.com@123.125.94.170:1626?allowInsecure=1#15|CN_speednode_0005
-trojan://d4f89111885.wns.windows.com@123.125.94.170:1466?allowInsecure=1#15|CN_speednode_0006
-trojan://d4f89111885.wns.windows.com@123.125.94.170:1466?allowInsecure=1&sni=frsource1.mzsourcenode.info#15|CN_speednode_0007
-trojan://d4f89111885.wns.windows.com@123.125.94.170:1606?allowInsecure=1&sni=rusource1.mzsourcenode.info#15|CN_speednode_0008
-vless://15c64822-1a11-419c-9ec2-7cb2807ec3b4@190.93.245.137:443?allowInsecure=0&sni=www.arashiphone.com.&alpn=h2,http/1.1&type=ws&host=www.arashiphone.com.&path=/?ed=2560fp=chrome&security=tls#15|CR_speednode_0009
-vless://13e15bfe-73f7-4bfe-a386-136451137fc3@188.245.215.46:19984?allowInsecure=0&sni=Telewebion.com#15|DE_speednode_0010
-trojan://3648425794742788096@fun-ostrich.treefrog761.one:443?allowInsecure=0&sni=fun-ostrich.treefrog761.one#15|JP_speednode_0012
-trojan://tg-fq521free@194.76.18.129:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|KZ_speednode_0014
-trojan://tg-fq521free@45.67.215.95:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|RU_speednode_0020
-vless://ec1540bf-39b1-5901-bc00-4aa9c81e27af@199.232.125.43:443?allowInsecure=1&sni=ELI-V2-RAY.COM&type=ws&host=ELI-V2-RAY.COM&path=/security=tls#15|US_speednode_0029
-trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|US_speednode_0031
-trojan://tg-fq521free@216.24.57.30:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|US_speednode_0040
-vless://1aae9657-c653-495d-e8ad-8ca52916cea8@172.67.160.44:443?allowInsecure=1&sni=de.bolagskontaktstockholm.se&alpn=h2,http/1.1&type=ws&host=de.bolagskontaktstockholm.se&path=/wsfp=chrome&security=tls#15|US_speednode_0041
+vless://13e15bfe-73f7-4bfe-a386-136451137fc3@188.245.215.46:19984?allowInsecure=0&sni=Telewebion.com#15|DE_speednode_0005
+vless://bfb490c9-18d0-48a4-cb72-e4cc9002afde@zmaoz.faculty.ucdavis.edu:443?allowInsecure=0&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2,http/1.1&type=ws&host=fonmelo.com&path=/olem/ws?ed=4096fp=chrome&security=tls#15|JP_speednode_0010
+vless://5ca4947a-3a0e-458e-9701-11e6805dae8f@zmaoz.faculty.ucdavis.edu:443?allowInsecure=0&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480fp=randomized&security=tls#15|JP_speednode_0011
+trojan://tg-fq521free@194.76.18.129:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|KZ_speednode_0012
+trojan://tg-fq521free@45.67.215.95:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|RU_speednode_0018
+vless://97be46fc-0356-4594-858b-d36fc90bf413@185.146.173.185:2053?allowInsecure=0&sni=Ehhdheh.vshsbsbb-jzjsjb-vdhsh-mahdi-irancel.ir&alpn=h3,h2,http/1.1&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-security=tls#15|SE_speednode_0019
+vless://464d644c-9c10-4c02-9117-4c75b0c347cd@xn--b6gac.eu.org:8080?allowInsecure=0&sni=wwwvisacomsg.mshcgb8q.workers.dev&type=ws&host=wwwvisacomsg.mshcgb8q.workers.dev&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io#15|US_speednode_0022
+vless://ec1540bf-39b1-5901-bc00-4aa9c81e27af@199.232.125.43:443?allowInsecure=1&sni=ELI-V2-RAY.COM&type=ws&host=ELI-V2-RAY.COM&path=/security=tls#15|US_speednode_0023
+trojan://tg-fq521free@216.24.57.30:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|US_speednode_0024
+trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#15|US_speednode_0026
+vless://5ca4947a-3a0e-458e-9701-11e6805dae8f@speedtest.net:80?allowInsecure=0&sni=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#15|US_speednode_0027
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@98.85.198.21:22222?allowInsecure=0&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-wssecurity=tls#15|US_speednode_0029
+vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@147135001178.sec22org.com:443?allowInsecure=0&alpn=h2,http/1.1&security=tls#15|US_speednode_0030
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@172.67.160.44:443?allowInsecure=1&sni=de.bolagskontaktstockholm.se&alpn=h2,http/1.1&type=ws&host=de.bolagskontaktstockholm.se&path=/wsfp=chrome&security=tls#15|US_speednode_0031
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16|d*********g.com_6
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16|d*********g.com_3
