@@ -1,10 +1,10 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-21 08:26:18  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-21 12:40:46  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
 |  ----  | ----   | ----  |----  |
 | v2ray  | [v2rayNG](https://v2rayng100.com/) | [v2rayN](https://v2rayn100.com/) | [OneClick](https://www.v2rayfree.eu.org/post/oneclick/) |
-## v2rayN使用教程：[点击查看](https://www.v2rayfree.eu.org/post/v2rayN-tutorial/) 
+## v2rayN使用教程：[点击查看](https://v2rayn100.com/) 
 
 ## 节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
@@ -13,10 +13,10 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## 更多v2ray节点订阅  
 高性价比机场推荐：[快帆云](https://kfyun.uk)
 
-### [快帆云](https://kfyun.uk) — 2024 最佳机场之选
+### [快帆云](https://kfyun.uk) — 最佳机场之选、可免账号观看奈飞、迪士尼
 
 - 全球众多节点，8K不卡顿。
-- 解锁奈飞、迪士尼、TikTok 、ChatGPT。（现已支持免费看netflix）
+- 解锁奈飞、迪士尼、TikTok 、ChatGPT。（现已支持免费看netflix、disney+）
 - 流量不虚标，所有节点都是1倍率。
 - 不限登陆设备数，不设置每日封顶流量。
 - 按流量付费、包月等多种套餐可选，价格便宜。
@@ -24,19 +24,15 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#0%7C--1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.34.255.220:443#0%7C--2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.70.176.73:443#0%7C--3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPNEQ4V1R2a3ZJQUx4bSs4c0lIMnJncFhpemROVmNxamJjTjBPMVJsOUtRPQ==@109.120.138.94:10851#0%7C--4
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.136.128:443#0%7C--5
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@217.30.10.18:9014#0%7C--6
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.243.93:443#0%7C--7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.212.48:443#0%7C--8
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.141.93:443#0%7C--9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.15.82:989#0%7C--10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#0%7C--12
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.18:8080#0%7C--13
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#0%7C--14
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.114.67.166:443#0%7C--1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#0%7C--2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.212.48:443#0%7C--3
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.218.229.170:443#0%7C--4
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.32.68.164:443#0%2C13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.243.93:443#0%7C--6
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.18:8080#0%7C--8
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#0%7C--9
+trojan://3648425794742788096@35.168.124.79:443?allowInsecure=1&sni=humble-rodent.treefrog761.one#0|--38
 trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://QwwHvrnN@223.113.54.145:36442?allowInsecure=1#13,14|香港2|@ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpacGVHYTQ=@db59a98b.b8z9y9a5g9-fb-hk18.6pzfwf.com:56018#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -59,7 +55,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR85paw5Yqg5Z2hfEByaXBhb2ppZWRpYW4iLCAiYWRk
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR85paw5Yqg5Z2hMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJzZzEudGlsamtjLnRvcCIsICJwb3J0IjogIjIxMDA1IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIyNGExM2I2YS1iZTMyLTNjOWItOWQ3MS1jMzYxM2RhNTM5MGUiLCAic25pIjogImFwaS50ZWJvcmRlci5jb20ifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR8576O5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIkFtZXJpY2EuY29tIiwgInBvcnQiOiAiNDQzIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiZ3JwYyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIzM2Y2ZDhiMC04MWY4LTRmY2UtYjNkZi03OWRjOGZkNmQ4YzUiLCAic25pIjogInVzLmFueWNhc3QudXMua2ciLCAicGF0aCI6ICIvIn0=
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.36.65.244:443#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.32.68.164:443#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.202.1.19:443#13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@vn.mjt000.com:443?allowInsecure=0&sni=vn.mjt000.com#13,14|越南|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+Hq/Cfh7cg5rOV5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjIuMTgyLjE3NC4yMSIsICJwb3J0IjogOTA5MCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImZkZGY4OGVkLThjNzAtNDJhZC1jMTJlLTVmNDA4NDFlNmYwMCJ9
