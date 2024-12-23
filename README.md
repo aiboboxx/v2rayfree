@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-23 16:27:42  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-23 20:23:52  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,22 +24,34 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.18:9079#0%7C--1
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@217.30.10.18:9042#0%7C--2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.34.255.220:443#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.32.68.164:443#0%7C--4
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.114.67.166:443#0%7C--5
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#0%7C--6
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.200.1.13:443#0%7C--7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.248.193:443#0%7C--8
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#0%7C--9
-ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@217.30.10.18:9038#0%7C--10
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.15.82:989#0%7C--11
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#0%7C--12
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--13
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.11:8080#0%7C--14
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#0%7C--15
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM3IiwgImFkZCI6ICI0NS45NC42OC4yMDYiLCAicG9ydCI6IDM1Mzg0LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJodHRwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImIzZTk1NzAxLWRiZDAtNGEyZi1hNzAxLTZlYzgxNWZiNWFkMiJ9
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.18:9001#0%7C--1
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.18:9094#0%7C--2
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@217.30.10.18:9003#0%7C--3
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--4
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@217.30.10.18:9038#0%7C--5
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.35.206.24:443#0%7C--6
+ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@217.30.10.18:9056#0%7C--7
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.181.152.92:443#0%7C--8
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@217.30.10.18:9041#0%7C--9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.218.229.170:443#0%7C--10
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.248.193:443#0%7C--11
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#0%7C--13
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@217.30.10.18:9064#0%7C--14
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.179.197.216:443#0%7C--15
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#0%7C--16
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.200.1.13:443#0%7C--17
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.15.82:989#0%7C--18
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#0%7C--19
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#0%7C--20
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.212.48:443#0%7C--21
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#0%7C--22
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@217.30.10.18:9084#0%7C--23
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.243.93:443#0%7C--24
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.18:9031#0%7C--25
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@51.158.244.38:8080#0%7C--26
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTQzIiwgImFkZCI6ICI0NS45NC42OC4yMDYiLCAicG9ydCI6IDM1Mzg0LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJodHRwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImIzZTk1NzAxLWRiZDAtNGEyZi1hNzAxLTZlYzgxNWZiNWFkMiJ9
+trojan://71409d3e488548e8bb076d229778f008@jobsfortheworldtoday.com:443?allowInsecure=1#0,15|US_speednode_0054
+trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?allowInsecure=1&sni=jobsfortheworldtoday.com#0,15|US_speednode_0062
 trojan://DNUMdmnJ@36.151.192.239:42395?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://QwwHvrnN@223.113.54.145:36442?allowInsecure=1#13,14|香港2|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjM0LjEwMi4yMjkiLCAicG9ydCI6IDUyOTA4LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
@@ -115,7 +127,6 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@216.24.57.211:443?allowInsecure=0&s
 vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.17.214.235:443?allowInsecure=0&sni=dalinceshi.icu&type=ws&host=dalinceshi.icu&path=/?ed=2560fp=random&security=tls#15|US_speednode_0051
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@216.221.213.149:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0052
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@160.79.104.117:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0053
-trojan://71409d3e488548e8bb076d229778f008@jobsfortheworldtoday.com:443?allowInsecure=1#15|US_speednode_0054
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@216.24.57.23:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0055
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@63.141.128.192:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0056
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@63.141.128.11:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0057
@@ -123,7 +134,6 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.213.136.180:443?allowInsecure=0
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@160.79.105.200:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0059
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@132.226.114.74:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0060
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@152.70.155.147:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0061
-trojan://71409d3e488548e8bb076d229778f008@38.99.82.225:443?allowInsecure=1&sni=jobsfortheworldtoday.com#15|US_speednode_0062
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.159.84.71:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|US_speednode_0064
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@160.123.255.169:443?allowInsecure=0&sni=kb.lii2010.us.kg&alpn=http/1.1&type=ws&host=kb.lii2010.us.kg&path=/?ed=2560security=tls#15|ZA_speednode_0065
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
