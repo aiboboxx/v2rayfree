@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-26 04:27:03  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-26 08:28:43  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,22 +24,27 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.248.193:443#0%7C--1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#0%7C--2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.200.1.13:443#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.122.162:443#0%7C--4
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.35.206.24:443#0%7C--5
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#0%7C--1
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.32.68.164:443#0%7C--3
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.212.48:443#0%7C--4
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--5
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@79.110.53.169:8080#0%7C--6
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.52.119:443#0%7C--7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.68.44.53:443#0%7C--8
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.18:9031#0%7C--9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.179.197.216:443#0%7C--10
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.114.67.166:443#0%7C--11
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.243.93:443#0%7C--12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#0%7C--13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#0%7C--14
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.11:8080#0%7C--15
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTQwIiwgImFkZCI6ICIxODUuMjkuMjIzLjE2NCIsICJwb3J0IjogMzI3MTgsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjMzk4ZmExZi1mYWM1LTRkNzYtOTQ1Mi1mMGFlZTQ0Y2JjNjYifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OUpQYmw2U01IMWhEb3NrT1I2aXJH@13.79.98.64:55939#0%7C--7
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.35.206.24:443#0%7C--8
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.114.67.166:443#0%7C--9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.52.119:443#0%7C--10
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.136.128:443#0%7C--11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#0%7C--12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#0%7C--13
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.15.82:989#0%7C--14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#0%7C--15
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#0%7C--16
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#0%7C--17
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM3IiwgImFkZCI6ICJzZzI1Lmpuc3RvcmUuYml6LmlkIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjFkMWMxZDk0LTY5ODctNDY1OC1hNGRjLTg4MjFhMzBmZTdlMCIsICJzbmkiOiAic2cyNS5qbnN0b3JlLmJpei5pZCIsICJob3N0IjogInNnMjUuam5zdG9yZS5iaXouaWQiLCAicGF0aCI6ICIvdm1lc3MifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM4IiwgImFkZCI6ICIxNDkuMTA0LjE1LjEwNCIsICJwb3J0IjogMzQ3MjgsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImh0dHAiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYzk0YTIxYjUtNDNmNi00NzdkLTgyYTYtY2RhZTFkZTM5N2MzIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTQxIiwgImFkZCI6ICIxOTQuODcuNjkuNTIiLCAicG9ydCI6IDI5MDI1LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI3MjdkMWUwMy0yYWVkLTQxOTAtYmZmNS0zMDg5MDA5N2MxYzQiLCAic25pIjogIjE5NC44Ny42OS41MiIsICJwYXRoIjogIi8ifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTQ2IiwgImFkZCI6ICIxOTQuODcuNjkuNTIiLCAicG9ydCI6IDI5MDI1LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJiMGM0NzhlOS05NzJmLTRhZjYtYWFkYi1mNGY2ZTQ1N2UzNWYiLCAic25pIjogIjE5NC44Ny42OS41MiIsICJwYXRoIjogIi8ifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTUwIiwgImFkZCI6ICJpcnZpZGVvLmNmZCIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiaG9zdCI6ICJpcnZpZGVvLmNmZCIsICJwYXRoIjogIi9saW5rd3MifQ==
 trojan://lidnBTGb@223.113.54.149:2524?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://QwwHvrnN@223.113.54.145:36442?allowInsecure=1#13,14|香港2|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjM0LjEwMi4yMjkiLCAicG9ydCI6IDUyOTA4LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
@@ -70,15 +75,15 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85pel5pysMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJq
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@3.112.236.3:443#14%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.115.231.64:443#14%7C%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.207.232.228:443#14%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-vless://14ba4514-3846-45c0-aec6-444e5451b95c@212.224.93.93:443?allowInsecure=0&sni=blog.codegethub.org&type=ws&host=blog.codegethub.org&path=/ws@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channelsecurity=tls#15|DE_speednode_0008
-vless://26721978-890e-4946-bafa-cb03c9ff7f4a@212.237.218.123:38142?allowInsecure=0#15|FI_speednode_0009
-trojan://ypDt8RkT7J@89.187.181.172:43118?allowInsecure=1&sni=egcmi.phooeyunfold.com#15|US_speednode_0033
-trojan://ypDt8RkT7J@89.187.181.172:43118?allowInsecure=1#15|US_speednode_0034
-vless://c9577b4c-d52d-4eea-b2ab-6f855fa18ae5@199.34.228.48:2087?allowInsecure=0&sni=vv.cscfwoker.fun&alpn=http/1.1&type=ws&host=vv.cscfwoker.fun&path=/?ed=2560fp=random&security=tls#15|US_speednode_0035
-vless://c9577b4c-d52d-4eea-b2ab-6f855fa18ae5@108.165.152.38:8443?allowInsecure=0&sni=vv.cscfwoker.fun&alpn=http/1.1&type=ws&host=vv.cscfwoker.fun&path=/?ed=2560fp=random&security=tls#15|US_speednode_0036
-vless://c9577b4c-d52d-4eea-b2ab-6f855fa18ae5@108.165.152.241:2053?allowInsecure=0&sni=vv.cscfwoker.fun&alpn=http/1.1&type=ws&host=vv.cscfwoker.fun&path=/?ed=2560fp=random&security=tls#15|US_speednode_0037
-vless://c9577b4c-d52d-4eea-b2ab-6f855fa18ae5@167.68.4.10:2096?allowInsecure=0&sni=vv.cscfwoker.fun&alpn=http/1.1&type=ws&host=vv.cscfwoker.fun&path=/?ed=2560fp=random&security=tls#15|US_speednode_0038
-vless://c9577b4c-d52d-4eea-b2ab-6f855fa18ae5@216.24.57.207:443?allowInsecure=0&sni=vv.cscfwoker.fun&alpn=http/1.1&type=ws&host=vv.cscfwoker.fun&path=/?ed=2560fp=random&security=tls#15|US_speednode_0039
+trojan://QwwHvrnN@36.151.192.239:42395?allowInsecure=1#15|CN_speednode_0004
+trojan://38571ca6-6692-4559-b901-0bc5826b7661@ru0195.alibabaokz.com:60194?allowInsecure=1&sni=ru0195.alibabaokz.com#15|CN_speednode_0007
+vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:8443?allowInsecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&alpn=h2&fp=chrome&security=tls#15|DE_speednode_0008
+vless://14ba4514-3846-45c0-aec6-444e5451b95c@212.224.93.93:443?allowInsecure=0&sni=blog.codegethub.org&type=ws&host=blog.codegethub.org&path=/ws@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channel----@PersiaTM_Channelsecurity=tls#15|DE_speednode_0010
+vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@en.linceedab.com:443?allowInsecure=0&alpn=h2,http/1.1&fp=chrome&security=tls#15|FR_speednode_0011
+vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?allowInsecure=0&sni=en.linceedab.com&alpn=h2,http/1.1&fp=chrome&security=tls#15|FR_speednode_0012
+vless://64a1796c-95f8-40e4-9a56-825823212648@185.235.243.133:443?allowInsecure=0&sni=tr-s.xor-vpn.ru&security=tls#15|MD_speednode_0017
+vless://7582e721-8c32-4fb1-8669-b3fae590f3eb@5.188.6.73:443?allowInsecure=0&sni=005188006073.sec1org.com&security=tls#15|UA_speednode_0038
+vless://1b6ae0f5-01dc-4b96-bca9-31c672dcf0aa@216.24.57.130:8880?allowInsecure=0&sni=mohsenfitshr.wibibin259.workers.dev&type=ws&host=mohsenfitshr.wibibin259.workers.dev&path=/@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560#15|US_speednode_0039
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16|d*********g.com_6
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16|d*********g.com_3
