@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-31 08:28:30  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2024-12-31 12:43:15  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,26 +24,26 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.122.162:443#0%7C--1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.211.229.86:443#0%7C--2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.213.200.250:443#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.221.190.255:443#0%7C--4
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.51.127:443#0%7C--5
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.186.199:443#0%7C--6
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.92.45.179:443#0%7C--7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.85.33.177:443#0%7C--9
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--10
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@217.30.10.18:9027#0%7C--11
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#0%7C--12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#0%7C--13
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.32.68.164:443#0%7C--14
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.248.193:443#0%7C--15
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#0%7C--16
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#0%7C--17
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#0%7C--18
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.179.197.216:443#0%7C--19
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.213.242.165:443#0%7C--20
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTQxIiwgImFkZCI6ICIzOC43NS4xMzcuMjEiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgInNuaSI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgImhvc3QiOiAiaGFycmlzY2l0eS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyJ9
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#0%7C--1
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.18:8080#0%7C--2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.250.79:443#0%2C13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.179.197.216:443#0%7C--4
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--5
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.92.45.179:443#0%7C--6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#0%7C--8
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@217.30.10.18:9005#0%7C--9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.213.242.165:443#0%7C--10
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#0%7C--11
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.136.128:443#0%7C--12
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.248.193:443#0%7C--13
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@217.30.10.18:9064#0%7C--14
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.18:9025#0%7C--15
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.32.68.164:443#0%7C--16
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.212.48:443#0%7C--17
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@217.30.10.18:9027#0%7C--18
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.15.82:989#0%7C--19
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTI3IiwgImFkZCI6ICJpcnZpZGVvLmNmZCIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiaG9zdCI6ICJpcnZpZGVvLmNmZCIsICJwYXRoIjogIi9saW5rd3MifQ==
+trojan://Julius@104.219.41.229:443?allowInsecure=1&sni=miami.juliusnet.com#0|--38
 trojan://vzhXXZVw@223.113.54.149:14505?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://vzhXXZVw@223.111.144.12:4252?allowInsecure=1#13,14|香港2|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjM0LjEwMi4yMjkiLCAicG9ydCI6IDUyOTA4LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
@@ -64,7 +64,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HuPCfh6wg5paw5Yqg5Z2hM3xAcmlwYW9qaWVkaWFu
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HuPCfh6wg5paw5Yqg5Z2hNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI1MDAxNS5iYWlkdS1jZG4udG9wIiwgInBvcnQiOiA1MDAxNSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImZhMmM0Yzk0LWI0NzctNDgwOS05ZGI4LTNkYjAzZWYwNjIwMiJ9
 ss://YWVzLTEyOC1nY206MzkzOGJmYWU5OTc5NzQ4NjAyNTE=@console.02.aliyun.aq.kunlunaqs.com:45938#13%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTVlZTc0NC04ZGZmLTRhN2YtYjMzYy0yMGZhM2ExMGQwYzU=@xm.miloli.cc:33396#13%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.250.79:443#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.35.206.24:443#13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.127.152:443#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 trojan://1ba48a0e-af2e-45fb-9e15-2b2d4134657c@vn.mjt000.com:443?allowInsecure=0&sni=vn.mjt000.com#13,14|越南|@ripaojiedian
@@ -104,8 +103,8 @@ vless://86206c88-b8e3-4cb3-8932-3ca6ea1b6033@phx-plus-1ddns.faforex.eu.org:18443
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16|d*********g.com_6
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16|d*********g.com_3
-ss://YWVzLTEyOC1nY206Yjc0NTE4ZmI0OWJkNjQ1ZTZjZTc@console.03.aliyun.aq.kunlunaqs.com:45915?plugin=obfs-local;obfs-uri=/;obfs=http;obfs-host=215996dd9f1c3db1e54b.microsoft.com#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
 ss://YWVzLTEyOC1nY206MzkzOGJmYWU5OTc5NzQ4NjAyNTE@console.02.aliyun.aq.kunlunaqs.com:45938?plugin=obfs-local;obfs-uri=/;obfs=http;obfs-host=215996dd9f1c3db1e54b.microsoft.com#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
+ss://YWVzLTEyOC1nY206Yjc0NTE4ZmI0OWJkNjQ1ZTZjZTc@console.03.aliyun.aq.kunlunaqs.com:45915?plugin=obfs-local;obfs-uri=/;obfs=http;obfs-host=215996dd9f1c3db1e54b.microsoft.com#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
 
 ```
 
