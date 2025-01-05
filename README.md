@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-05 04:26:11  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-05 08:26:22  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,34 +24,28 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@210.217.18.70:3231#0%7C--1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.132.123:443#0%7C--2
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p229.panda004.net:40244#0%7C--4
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.14:40244#0%7C--5
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p239.panda004.net:3231#0%7C--6
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.213.242.165:443#0%7C--7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.127.152:443#0%7C--8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#0%7C--9
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@222.112.15.140:43249#0%7C--11
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.68.44.53:443#0%7C--13
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#0%7C--15
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.186.199:443#0%7C--16
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.73.137:443#0%7C--17
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.85.36.208:443#0%7C--18
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.186.92.34:443#0%7C--19
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.11:8080#0%7C--20
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#0%7C--21
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.219.132.251:443#0%7C--22
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.233:40915#0%7C--23
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.212.48:443#0%7C--24
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#0%7C--25
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.122.162:443#0%7C--27
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.232:25415#0%7C--28
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p234.panda004.net:43249#0%7C--29
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.85.33.177:443#0%7C--30
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.136.128:443#0%7C--31
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.18:9006#0%7C--32
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTUyIiwgImFkZCI6ICIxNDcuMTgyLjIxNS4xNTgiLCAicG9ydCI6IDIwODIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImh0dHAiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiOTIxMWViYTYtMjJmOC00YTQ0LThhYmEtYjNlMTVkN2VkZmJlIn0=
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.212.48:443#0%7C--1
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.233:40915#0%7C--2
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.230:25730#0%7C--3
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.186.92.34:443#0%7C--4
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.85.33.177:443#0%7C--5
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.85.36.208:443#0%7C--6
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.232:25415#0%7C--7
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.150.109.90:41748#0%7C--8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#0%7C--11
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.132.123:443#0%7C--12
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.73.137:443#0%7C--13
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.186.199:443#0%7C--14
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.11:8080#0%7C--15
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.18:8080#0%7C--16
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.213.242.165:443#0%7C--17
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@23.251.121.242:8080#0%7C--18
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.35.206.24:443#0%7C--19
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.136.128:443#0%7C--20
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#0%7C--21
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--22
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.68.44.53:443#0%7C--23
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTMxIiwgImFkZCI6ICIxNDcuMTgyLjIxNS4xNTgiLCAicG9ydCI6IDIwODIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImh0dHAiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiOTIxMWViYTYtMjJmOC00YTQ0LThhYmEtYjNlMTVkN2VkZmJlIn0=
 trojan://vzhXXZVw@36.150.215.196:18681?allowInsecure=1#13,14|香港2|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjM0LjEwMi4yMjkiLCAicG9ydCI6IDUyOTA4LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMTk4LjcxLjIxNCIsICJwb3J0IjogMzQ0OTMsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=
@@ -105,9 +99,9 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.20:443?allowInsecure=0&
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16|d*********g.com_6
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16|d*********g.com_3
-ss://YWVzLTEyOC1nY206OWQyOWU1ODcyM2FmMzRjYWQ4ZGE@console.02.aliyun.aq.kunlunaqs.com:45909?plugin=obfs-local;obfs-uri=/;obfs=http;obfs-host=215996dd9f1c3db1e54b.microsoft.com#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MjQzNzQ1OTE5ZDZkZTQ5YTVkYg@console.02.aliyun.aq.kunlunaqs.com:45578?plugin=obfs-local;obfs-uri=/;obfs=http;obfs-host=215996dd9f1c3db1e54b.microsoft.com#%E9%A6%99%E6%B8%AF7%7C%40ripaojiedian
 ss://YWVzLTEyOC1nY206Y2ZjNmYzZjc1ZjVlZjdiMjY2NWM@console.03.aliyun.aq.kunlunaqs.com:45916?plugin=obfs-local;obfs-uri=/;obfs=http;obfs-host=215996dd9f1c3db1e54b.microsoft.com#%E5%8F%B0%E6%B9%BE%7C%40ripaojiedian
+ss://YWVzLTEyOC1nY206OWQyOWU1ODcyM2FmMzRjYWQ4ZGE@console.02.aliyun.aq.kunlunaqs.com:45909?plugin=obfs-local;obfs-uri=/;obfs=http;obfs-host=215996dd9f1c3db1e54b.microsoft.com#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 
 ```
 
