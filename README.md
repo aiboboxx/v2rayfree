@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-09 08:28:33  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-09 12:46:21  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,27 +24,24 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.10:51933#0%7C--1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@210.217.18.68:34849#0%7C--2
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.147:2003#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.85.36.208:443#0%7C--5
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.192.4:443#0%7C--6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKMGxneHk0bWI1MkNJSjhVVWNFZ3Rz@51.13.182.231:3089#0%7C--7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#0%7C--10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#0%7C--11
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@203.234.238.140:40047#0%7C--15
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.178.84.59:443#0%7C--16
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:29535#0%7C--17
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.12:7544#0%7C--24
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.136:7018#0%7C--25
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.18:9031#0%7C--31
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.74:28304#0%7C--35
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@57.180.61.213:443#0%7C--37
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.113.67:443#0%7C--38
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p233.panda004.net:7303#0%7C--39
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTYxIiwgImFkZCI6ICJpbjA2Lm15MTE4OC5vcmciLCAicG9ydCI6IDY0MDE2LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZmUwMzQ2ZDktYTk3Mi0zZDhhLWJhYzctMzEwNjA0ZmExMDhmIiwgInNuaSI6ICJ1czAxLndlY2hhdC1jZG4tdXMwMS5vbmUifQ==
-trojan://c4843eba-b070-403f-b43f-ef1ef7db571e@jp.lydurlclub.top:443?allowInsecure=1#0,15|JP_speednode_0053
-trojan://c4843eba-b070-403f-b43f-ef1ef7db571e@usa.lydurlclub.top:443?allowInsecure=1#0,15|JP_speednode_0055
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.147:2003#0%7C--1
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.12:7544#0%7C--2
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.136:7018#0%7C--3
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.178.84.59:443#0%7C--4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#0%7C--5
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.230:58669#0%7C--6
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:29535#0%7C--7
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.74:28304#0%7C--8
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@203.234.238.140:40047#0%7C--9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.186.92.34:443#0%7C--10
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.150.109.89:51265#0%7C--11
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.18:9031#0%7C--12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#0%7C--13
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.136.128:443#0%7C--14
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA==@217.30.10.18:9027#0%7C--16
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.85.36.208:443#0%7C--17
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@57.180.61.213:443#0%7C--18
+ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@217.30.10.18:9050#0%7C--19
 trojan://vzhXXZVw@36.150.215.196:18681?allowInsecure=1#13,14|香港2|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjM0LjEwMi4yMjkiLCAicG9ydCI6IDUyOTA4LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMTk4LjcxLjIxNCIsICJwb3J0IjogMzQ0OTMsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=
@@ -110,7 +107,9 @@ trojan://3e5cb4f5-8dcf-492a-b4c8-06bc06f158bb@43.199.156.113:47489?allowInsecure
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@154.211.8.18:2083?allowInsecure=0&sni=ssvv.esslh.filegear-sg.me&type=ws&host=ssvv.esslh.filegear-sg.me&path=/?ed=2560security=tls#15|HK_speednode_0047
 trojan://SSorg@154.211.8.90:443?allowInsecure=0&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.me&path=/#15|HK_speednode_0049
 trojan://SSorg@154.211.8.98:2087?allowInsecure=0&sni=ssjj.esslh.filegear-sg.me&type=ws&host=ssjj.esslh.filegear-sg.me&path=/#15|HK_speednode_0050
+trojan://c4843eba-b070-403f-b43f-ef1ef7db571e@jp.lydurlclub.top:443?allowInsecure=1#15|JP_speednode_0053
 vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@168.138.46.67:443?allowInsecure=0&sni=ssvv.esslh.filegear-sg.me&type=ws&host=ssvv.esslh.filegear-sg.me&path=/?ed=2560security=tls#15|JP_speednode_0054
+trojan://c4843eba-b070-403f-b43f-ef1ef7db571e@usa.lydurlclub.top:443?allowInsecure=1#15|JP_speednode_0055
 vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?allowInsecure=0&sni=live.989bull.com&alpn=h2,http/1.1&type=ws&host=aft.fi&path=/TorCippyy?ed=2048fp=chrome&security=tls#15|JP_speednode_0056
 vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?allowInsecure=0&sni=live.989bull.com&alpn=h2,http/1.1&type=ws&host=aft.vc&path=/TorVipxyy?ed=2048fp=chrome&security=tls#15|JP_speednode_0057
 vless://dbbab473-d50c-4ade-cfd7-61befc6742d6@zmaoz.faculty.ucdavis.edu:443?allowInsecure=0&sni=zmaoz.faculty.ucdavis.edu.&alpn=h2,http/1.1&type=ws&host=fonmelo.com&path=/olem/ws?ed=4096fp=chrome&security=tls#15|JP_speednode_0058
