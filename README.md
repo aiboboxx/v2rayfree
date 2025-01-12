@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-12 16:25:37  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-12 20:22:52  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,18 +24,27 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#0%7C--1
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@217.30.10.18:9064#0%7C--2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.89.145.123:443#0%7C--4
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.88.145.21:443#0%7C--5
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.18:9006#0%7C--7
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@217.30.10.18:9020#0%7C--8
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.18:9001#0%7C--10
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.18:9031#0%7C--11
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#0%7C--12
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTI2IiwgImFkZCI6ICIxNDkuNy4xNi4xOTQiLCAicG9ydCI6IDQ0MywgImFpZCI6IDEsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgInBhdGgiOiAiL2xpbmt2d3MifQ==
-trojan://3723507166611775488@ample-cockatoo.boa152.lol:443?sni=ample-cockatoo.boa152.lol#0|--31
-trojan://3723507166611775488@80.240.112.167:443?sni=ample-cockatoo.boa152.lol#0|--32
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#0%7C--1
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.52.140:443#0%7C--2
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.5:2375#0%7C--3
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.5:7002#0%7C--4
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.5:8080#0%7C--5
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.88.145.21:443#0%7C--6
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.89.145.123:443#0%7C--7
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#0%7C--8
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.5:5601#0%7C--11
+ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ==@217.30.10.18:9059#0%7C--12
+ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.18:9006#0%7C--13
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ==@217.30.10.18:9020#0%7C--14
+ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg==@217.30.10.18:9024#0%7C--15
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#0%7C--16
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@128.199.172.224:8080#0%7C--17
+ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg==@217.30.10.18:9088#0%7C--18
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.18:9040#0%7C--19
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@217.30.10.18:9031#0%7C--20
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@217.30.10.18:9084#0%7C--21
+trojan://3723507166611775488@ample-cockatoo.boa152.lol:443?sni=ample-cockatoo.boa152.lol#0|--38
+trojan://3723507166611775488@80.240.112.167:443?sni=ample-cockatoo.boa152.lol#0|--39
 trojan://vzhXXZVw@36.150.215.222:12524?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://vzhXXZVw@223.113.54.149:51377?allowInsecure=1#13,14|香港2|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMjAuMjM0LjEwMi4yMjkiLCAicG9ydCI6IDUyOTA4LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
