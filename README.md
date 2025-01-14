@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-14 16:28:01  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-14 20:23:30  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,21 +24,26 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@222.112.15.140:4410#0%7C--1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.23:5412#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.142.51.90:443#0%7C--4
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.150.222:443#0%7C--6
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@210.217.18.69:30956#0%7C--7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.9.243:443#0%7C--9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.242.247:443#0%7C--10
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@222.112.15.141:38471#0%7C--11
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.25.109:443#0%7C--12
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.135:61891#0%7C--17
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.135:61891#0%7C--3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnaEJ1SjlwWk9GOU1vaGhHeVBqbzNydmlsUWhsdzlOekJEbE9WRG9uUU4wPQ==@195.15.254.25:54748#0%7C--5
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.23:5412#0%7C--6
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.9.243:443#0%7C--7
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.150.222:443#0%7C--8
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.1.204.240:443#0%7C--10
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#0%7C--11
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.124.147.239:443#0%2C13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@203.234.238.147:41951#0%7C--19
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.113.190.198:443#0%7C--20
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.178.120:443#0%7C--21
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.150.109.21:7855#0%7C--22
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.242.247:443#0%7C--14
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.89.145.123:443#0%7C--15
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.113.190.198:443#0%7C--16
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.250.30.129:443#0%7C--17
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.100:17725#0%7C--18
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.178.120:443#0%7C--19
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.98:64759#0%7C--20
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.76.173:443#0%7C--22
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@112.213.102.228:4231#0%7C--24
+trojan://Oe5CMj3tiO@3.127.116.35:1935?sni=x2ger-amazon.devefun.net#0|--40
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?allowInsecure=1&sni=us01.trojanyyds.xyz#0|--42
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us01.trojanyyds.xyz:443?allowInsecure=1#0|--44
 trojan://phXKwfrd@36.150.215.196:34188?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://phXKwfrd@223.113.54.145:36442?allowInsecure=1#13,14,15|CN_speednode_0002
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWE4MDVmMi00MWE3LTRjZDgtODQwNi0wNDcwYzNjZGUwZDM=@45.250.184.183:6181#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
