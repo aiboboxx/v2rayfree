@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-15 12:43:50  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-15 16:27:02  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,20 +24,11 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.233:40915#0%7C--1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.217.250:443#0%7C--2
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@154.197.26.237:8388#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.76.173:443#0%7C--4
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.135:61891#0%7C--5
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.113.190.198:443#0%7C--6
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.182.5.141:443#0%7C--7
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@210.217.18.69:30956#0%7C--8
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.23:5412#0%7C--9
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@222.112.15.140:4410#0%7C--11
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.9.243:443#0%7C--12
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@169.150.210.233:8080#0%7C--13
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTMxIiwgImFkZCI6ICIxNjMuNS4xNTkuMjMxIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsICJob3N0IjogImlydmlkZW8uY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyJ9
-trojan://3648425794742788096@5.8.35.208:443?allowInsecure=0&sni=loving-boa.treefrog761.one#0,15|IN_speednode_0021
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.9.243:443#0%7C--3
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.100:17725#0%7C--4
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.25.109:443#0%7C--6
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@210.217.18.69:30956#0%7C--7
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.233:40915#0%7C--8
 trojan://phXKwfrd@36.150.215.220:42293?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://phXKwfrd@223.111.144.12:21673?allowInsecure=1#13,14|香港2|@ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWE4MDVmMi00MWE3LTRjZDgtODQwNi0wNDcwYzNjZGUwZDM=@45.250.184.183:6181#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -93,6 +84,7 @@ vless://743a9ecc-095b-47bf-8d08-8a51acac0eb2@hozori.ir:443?allowInsecure=0&sni=h
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?allowInsecure=0&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=/?ed=2560security=tls#15|ES_speednode_0015
 vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?allowInsecure=0&sni=telewebion.com#15|FR_speednode_0016
 vless://70186b61-319d-42f2-9807-7df9594aa385@154.211.8.227:2087?allowInsecure=0&sni=amedo.esslh.filegear-sg.me&alpn=http/1.1&type=ws&host=amedo.esslh.filegear-sg.me&path=/?ed=2560security=tls#15|HK_speednode_0020
+trojan://3648425794742788096@5.8.35.208:443?allowInsecure=0&sni=loving-boa.treefrog761.one#15|IN_speednode_0021
 vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@185.155.72.100:28505?allowInsecure=0&sni=Fast.com#15|IR_speednode_0022
 vless://88bc3858-b31c-4a1d-9f17-9c485ae404b1@84.47.233.101:17160?allowInsecure=0&sni=Fast.com#15|IR_speednode_0023
 vless://88bc3858-b31c-4a1d-9f17-9c485ae404b1@ne2sr.blushop1403.info:17160?allowInsecure=0&sni=Fast.com#15|IR_speednode_0024
