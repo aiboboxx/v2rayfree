@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-17 04:27:50  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-17 08:27:45  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -24,32 +24,33 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.219.111.92:443#0%7C--1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.218.237.217:443#0%7C--2
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.100:17725#0%7C--3
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.168.44.72:27973#0%7C--5
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.159.211:443#0%7C--6
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.155.226:443#0%7C--7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#0%7C--8
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.150.109.19:38370#0%7C--9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#0%7C--10
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.161.80.111:443#0%7C--11
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.88.157.197:443#0%7C--12
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p231.panda004.net:61238#0%7C--13
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.220.147.9:443#0%7C--14
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p236.panda004.net:38370#0%7C--15
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:64186#0%7C--16
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.35.222.83:443#0%7C--17
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.191.43.163:443#0%7C--18
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--19
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p239.panda004.net:15041#0%7C--20
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.12:30778#0%7C--21
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:51633#0%7C--22
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.233:40915#0%7C--25
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.125.6.123:443#0%7C--27
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.41.3.89:443#0%7C--28
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@222.112.15.140:4410#0%7C--29
-trojan://ypDt8RkT7J@89.187.181.172:43118?allowInsecure=1&sni=egcmi.phooeyunfold.com#0|--54
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.155.226:443#0%7C--1
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.161.80.111:443#0%7C--2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.180.9.243:443#0%7C--3
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.191.43.163:443#0%7C--4
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.12:30778#0%7C--5
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:51633#0%7C--6
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.218.237.217:443#0%7C--7
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.35.222.83:443#0%7C--8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#0%7C--9
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.23:5412#0%7C--11
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.159.211:443#0%7C--12
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.125.6.123:443#0%7C--13
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--14
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.100:17725#0%7C--15
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p239.panda004.net:15041#0%7C--17
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.219.111.92:443#0%7C--18
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.76.173:443#0%7C--21
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@222.112.15.140:4410#0%7C--22
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@154.197.26.237:8388#0%7C--23
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.41.3.89:443#0%7C--24
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM5IiwgImFkZCI6ICIxNjMuNS4xNTkuMjMxIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsICJob3N0IjogImlydmlkZW8uY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyJ9
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?#0|--44
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@in01.trojanyyds.xyz:443?sni=in01.trojanyyds.xyz#0|--45
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us01.trojanyyds.xyz:443?allowInsecure=1#0|--46
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?sni=tw01.trojanyyds.xyz#0|--47
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?allowInsecure=1&sni=us01.trojanyyds.xyz#0|--48
+trojan://ypDt8RkT7J@89.187.181.172:43118?allowInsecure=1&sni=egcmi.phooeyunfold.com#0|--49
 trojan://phXKwfrd@223.113.54.145:36442?allowInsecure=1#13,14,15|CN_speednode_0002
 trojan://phXKwfrd@36.150.215.219:42395?allowInsecure=1#13,14|香港2|@ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MjQzNzQ1OTE5ZDZkZTQ5YTVkYg==@console.02.aliyun.aq.kunlunaqs.com:45578#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
