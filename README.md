@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-19 16:24:54  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-19 20:21:38  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -27,10 +27,18 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.233:40915#0%7C--1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p231.panda004.net:61238#0%7C--2
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.147:37041#0%7C--5
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM1IiwgImFkZCI6ICJpbjA2Lm15MTE4OC5vcmciLCAicG9ydCI6IDY0MDE2LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZmUwMzQ2ZDktYTk3Mi0zZDhhLWJhYzctMzEwNjA0ZmExMDhmIiwgInNuaSI6ICJ1czAxLndlY2hhdC1jZG4tdXMwMS5vbmUifQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.125.6.123:443#0%7C--3
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.147:37041#0%7C--11
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.199.222.156:443#0%7C--12
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.50.149.114:34847#0%7C--14
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.23:5412#0%7C--15
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.38.103.150:28902#0%7C--16
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#0%7C--17
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#0%7C--18
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.168.44.72:27973#0%7C--23
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:31066#0%7C--31
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p231.panda004.net:61238#0%7C--32
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.148:4563#0%7C--33
 trojan://phXKwfrd@223.113.54.145:36442?allowInsecure=1#13,14,15|CN_speednode_0019
 trojan://phXKwfrd@36.150.215.219:42395?allowInsecure=1#13,14|香港2|@ripaojiedian
 trojan://e279c494-c426-443a-a034-a04516409242@naiu-hk.05vr9nyqg5.download:13004?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#13,14|香港3|@ripaojiedian
