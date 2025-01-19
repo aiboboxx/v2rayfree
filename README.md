@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-19 12:39:17  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-19 16:24:54  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -16,24 +16,21 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ### [快帆云](https://kfyun.uk/?code=srOLpruw) — 最佳机场之选、可免账号观看奈飞、迪士尼
 
 - 全球众多节点，8K不卡顿。
-- 解锁奈飞、迪士尼、TikTok 、ChatGPT。（现已支持免费看netflix、disney+）
+- 解锁奈飞、迪士尼、ChatGPT。**（现已支持免费看netflix、disney+）**
 - 流量不虚标，所有节点都是1倍率。
 - 不限登陆设备数，不设置每日封顶流量。
 - 按流量付费、包月等多种套餐可选，价格便宜。
 
+网站地址：【[快帆云](https://kfyun.uk/)】  **85折优惠券：SXFOsZ31**
+
 ## v2ray免费节点分享
+
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.222.155.226:443#0%7C--2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@43.207.207.206:2377#0%7C--3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.28:2377#0%7C--4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@95.174.71.29:2377#0%7C--5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@54.64.148.82:2377#0%7C--6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@23.247.137.165:2377#0%7C--7
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.50.149.114:34847#0%7C--8
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.100:17725#0%7C--13
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.95.11.184:443#0%7C--15
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.25.109:443#0%7C--17
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@168.126.234.233:40915#0%7C--1
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p231.panda004.net:61238#0%7C--2
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.147:37041#0%7C--5
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM1IiwgImFkZCI6ICJpbjA2Lm15MTE4OC5vcmciLCAicG9ydCI6IDY0MDE2LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZmUwMzQ2ZDktYTk3Mi0zZDhhLWJhYzctMzEwNjA0ZmExMDhmIiwgInNuaSI6ICJ1czAxLndlY2hhdC1jZG4tdXMwMS5vbmUifQ==
 trojan://phXKwfrd@223.113.54.145:36442?allowInsecure=1#13,14,15|CN_speednode_0019
 trojan://phXKwfrd@36.150.215.219:42395?allowInsecure=1#13,14|香港2|@ripaojiedian
 trojan://e279c494-c426-443a-a034-a04516409242@naiu-hk.05vr9nyqg5.download:13004?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#13,14|香港3|@ripaojiedian
