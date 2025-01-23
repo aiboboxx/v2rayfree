@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-23 16:28:31  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-23 20:23:54  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -27,8 +27,12 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?sni=tw01.trojanyyds.xyz#0|--51
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?#0|--53
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@121.170.203.147:37041#0%7C--3
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.91.101.221:7307#0%7C--4
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.101.221:5004#0%7C--5
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.20:51199#0%7C--6
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.185.31.212:443#0%7C--7
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTI4IiwgImFkZCI6ICI2NC4yMjUuMTA5LjIwNiIsICJwb3J0IjogMjA4MiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0ODI2NGI0NS02NGI4LTRlOWYtOGE4OC1jZWY0MWYyMGM3MzYifQ==
 trojan://phXKwfrd@223.113.54.145:36442?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://phXKwfrd@36.150.215.196:18681?allowInsecure=1#13,14|香港2|@ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.61:8388#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
