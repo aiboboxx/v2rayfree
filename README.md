@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-23 12:44:39  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-23 16:28:31  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -27,22 +27,8 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.50.149.114:34847#0%7C--1
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.18:8080#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.54.70:443#0%7C--5
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.190.19.18:443#0%7C--6
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.38.103.150:28902#0%7C--10
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.185.31.212:443#0%7C--11
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#0%7C--12
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFT2svYklqOFhFUjZiMGtqVlF4dU0vaUxNVEU3UDhoL1BUL1JDSTJaMndnPQ==@45.150.32.46:37904#0%7C--13
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM5IiwgImFkZCI6ICI2NC4yMjUuMTA5LjIwNiIsICJwb3J0IjogMjA4MiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0ODI2NGI0NS02NGI4LTRlOWYtOGE4OC1jZWY0MWYyMGM3MzYifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTU1IiwgImFkZCI6ICIyMTIuMTkyLjEyLjcwIiwgInBvcnQiOiAxNzkyNiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZGFlMzAxZjgtZWVkYS00NzNmLWFhNmMtMzA2YjUwNjFjNDhkIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTU3IiwgImFkZCI6ICJpcnZpZGVvLmNmZCIsICJwb3J0IjogNDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiaG9zdCI6ICJpcnZpZGVvLmNmZCIsICJwYXRoIjogIi9saW5rd3MifQ==
-trojan://telegram-id-privatevpns@51.24.50.148:22222?sni=trojan.burgerip.co.uk#0|--61
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw02.trojanyyds.xyz:443?sni=tw02.trojanyyds.xyz#0|--63
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?sni=tw01.trojanyyds.xyz#0|--64
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?#0|--65
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@in01.trojanyyds.xyz:443?sni=in01.trojanyyds.xyz#0|--66
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?sni=tw01.trojanyyds.xyz#0|--51
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?#0|--53
 trojan://phXKwfrd@223.113.54.145:36442?allowInsecure=1#13,14|香港|@ripaojiedian
 trojan://phXKwfrd@36.150.215.196:18681?allowInsecure=1#13,14|香港2|@ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.61:8388#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -82,30 +68,29 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.207.4.194:443#14%7C%E7%
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@47.129.158.52:443#14%7C%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@43.201.249.92:443#14%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85b635Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjY0LjIyNS4xMDkuMjA2IiwgInBvcnQiOiAiMjA4MiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0ODI2NGI0NS02NGI4LTRlOWYtOGE4OC1jZWY0MWYyMGM3MzYiLCAic25pIjogIiJ9
-vless://a52dd329-acad-413b-aa8f-713686ad690c@2na9noed62ec.dopraxrocks.com:80?allowInsecure=0&sni=speedtest.net#15|DE_speednode_0025
-vless://91989253-37d6-4d28-83fe-8ffd0c3de0f7@91.134.102.128:22671?allowInsecure=0&sni=telewebion.com#15|FR_speednode_0028
-vless://5f0baf2f-733e-455c-aaff-0620ecd4bba8@92.114.20.12:1010?allowInsecure=0&sni=www.speedtest.net#15|IR_speednode_0036
-vless://71d355f3-6def-4683-8857-24b7dd5564fd@live.989bull.com:443?allowInsecure=0&sni=live.989bull.com&alpn=h2,http/1.1&type=ws&host=Golestan_VPN.com&path=/CHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN?ed=8080fp=chrome&security=tls#15|JP_speednode_0038
-vless://51a6c5c7-1ab2-416e-b4f9-ce8c39abff96@38.180.105.84:5780?allowInsecure=0&sni=refersion.com&fp=random&security=tls#15|TR_speednode_0047
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/#15|US_speednode_0048
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.46:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0049
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/fp=chrome#15|US_speednode_0050
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.37:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0051
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.99.180:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0053
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@in.pptv-tv.store:17728?allowInsecure=0&sni=data.52daishu.life#15|CN_speednode_0012
+vless://a52dd329-acad-413b-aa8f-713686ad690c@2na9noed62ec.dopraxrocks.com:80?allowInsecure=0&sni=speedtest.net#15|DE_speednode_0032
+vless://91989253-37d6-4d28-83fe-8ffd0c3de0f7@91.134.102.128:22671?allowInsecure=0&sni=telewebion.com#15|FR_speednode_0035
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@150.230.139.203:17728?allowInsecure=1&sni=data.52daishu.life#15|IN_speednode_0038
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?allowInsecure=0&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=/?ed=2048security=tls#15|RU_speednode_0043
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/#15|US_speednode_0045
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.46:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0046
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/fp=chrome#15|US_speednode_0047
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.37:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0048
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.99.180:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0049
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.102.107:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/fp=chrome#15|US_speednode_0050
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.70.214:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0051
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.100:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-wsfp=chrome#15|US_speednode_0052
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.102.100:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-wsfp=chrome#15|US_speednode_0053
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.10:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-wsfp=chrome#15|US_speednode_0054
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.8:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0055
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.76:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0056
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.102.107:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/fp=chrome#15|US_speednode_0057
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.70.214:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0058
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.100:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-wsfp=chrome#15|US_speednode_0059
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.72.38:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/#15|US_speednode_0061
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.80:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0062
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.102.100:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-wsfp=chrome#15|US_speednode_0063
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.119:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0064
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.43:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-wsfp=chrome#15|US_speednode_0065
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.99.4:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-wsfp=chrome#15|US_speednode_0066
-vless://69f948be-1482-42d8-84df-9fdfdf2d4262@151.101.3.8:80?allowInsecure=0&sni=49.org&type=ws&host=49.org&path=/telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee?ed=2095#15|US_speednode_0067
-vless://8e63cfe4-8855-4334-9619-a5d403bf2b8e@141.101.123.208:443?allowInsecure=0&sni=usa.warpo.me&type=ws&host=usa.warpo.me&path=/bingsecurity=tls#15|US_speednode_0068
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.72.38:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/#15|US_speednode_0055
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.119:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0056
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.80:80?allowInsecure=0&sni=edge.validbv3528.ir&type=ws&host=edge.validbv3528.ir&path=/vless-ws#15|US_speednode_0057
+vless://69f948be-1482-42d8-84df-9fdfdf2d4262@151.101.3.8:80?allowInsecure=0&sni=49.org&type=ws&host=49.org&path=/telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee?ed=2095#15|US_speednode_0058
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@192.0.54.235:443?allowInsecure=0&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=/?ed=2048security=tls#15|US_speednode_0059
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@192.0.54.235:443?allowInsecure=0&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=/security=tls#15|US_speednode_0061
+vless://489daefa-214c-450c-ae8a-f71e9d9c74b5@107.172.89.210:8443?allowInsecure=0&sni=rnsj.1541241.xyz&type=ws&host=rnsj.1541241.xyz&path=/fp=chrome&security=tls#15|US_speednode_0062
+vless://562f680e-095a-4548-91f9-a009d30f3a3b@107.172.89.210:2053?allowInsecure=0&sni=rnsj.1541241.xyz&type=ws&host=rnsj.1541241.xyz&path=/fp=chrome&security=tls#15|US_speednode_0063
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16|d*********g.com_6
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16|d*********g.com_3
