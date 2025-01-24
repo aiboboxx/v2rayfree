@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-24 08:28:07  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-24 12:43:11  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -27,22 +27,12 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#0%7C--1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.20:51199#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.234.231:443#0%7C--5
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.173.202:443#0%7C--6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkkwTXpNMg==@95.164.68.37:8388#0%7C--7
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.142.225.149:443#0%7C--9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.179:8080#0%7C--10
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTI4IiwgImFkZCI6ICI2NC4yMjUuMTA5LjIwNiIsICJwb3J0IjogMjA4MiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0ODI2NGI0NS02NGI4LTRlOWYtOGE4OC1jZWY0MWYyMGM3MzYifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTM5IiwgImFkZCI6ICIzOC4zMy4xOS43MSIsICJwb3J0IjogNDE0MDAsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0In0=
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw02.trojanyyds.xyz:443?sni=tw02.trojanyyds.xyz#0|--52
-trojan://3760559353321758720@dear-sunbeam.treefrog761.one:443?allowInsecure=1&sni=dear-sunbeam.treefrog761.one#0,13,15|SG_speednode_0058
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?allowInsecure=1&sni=us01.trojanyyds.xyz#0|--54
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us01.trojanyyds.xyz:443?allowInsecure=1#0|--55
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?sni=tw01.trojanyyds.xyz#0|--56
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?#0|--57
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@in01.trojanyyds.xyz:443?sni=in01.trojanyyds.xyz#0|--58
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#0%7C--1
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.142.225.149:443#0%7C--2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.179:8080#0%7C--4
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.173.202:443#0%7C--5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#0%7C--7
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTMwIiwgImFkZCI6ICI2NC4yMjUuMTA5LjIwNiIsICJwb3J0IjogMjA4MiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0ODI2NGI0NS02NGI4LTRlOWYtOGE4OC1jZWY0MWYyMGM3MzYifQ==
 trojan://ouo@103.44.255.81:443?allowInsecure=0&sni=tr.koxok.us.kg&type=ws&host=tr.koxok.us.kg&path=/?ed=2560#13|🇭🇰 香港|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiA0ODEwOSwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxODMuMjM2LjUxLjIzIiwgInBvcnQiOiA1NDEwNCwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
@@ -54,6 +44,7 @@ ss://YWVzLTI1Ni1nY206OU9BSjQ4QUZDR0M5VUhGSw==@qh62onjn.slashdevslashnetslashtun.
 trojan://3760559353321758720@crisp-collie.treefrog761.one:443?allowInsecure=1&sni=crisp-collie.treefrog761.one#13|🇰🇷 韩国|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+Hr/Cfh7Ug5pel5pysM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJ5d3R3ZXBjbndsb3UueG4tLWZpcXM4c2p6MmJ1bGwuY29tIiwgInBvcnQiOiA2MzQ5NCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImJlNDZiMWI2LWZlODItNDU0MC04ZGFhLTM3ZWNhNjllNzdhZSJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTZkMzc1Mi03YmFlLTQ3NGUtODdkYy1mODkyZGYyY2FlYWY=@ctmm.gscloud.bond:31620#13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://3760559353321758720@dear-sunbeam.treefrog761.one:443?allowInsecure=1&sni=dear-sunbeam.treefrog761.one#13,15|SG_speednode_0058
 ss://YWVzLTI1Ni1nY206QlM2SjFNRVFBTlhYVkhRTA==@219.135.227.210:16002#13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206TFFWR1pCMzA3U1VZSzIzWQ==@qh62onjn.slashdevslashnetslashtun.net:16009#13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A14%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206NzFHSkwzMUFZRjNDWFoySw==@qh62onjn.slashdevslashnetslashtun.net:17007#13%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
