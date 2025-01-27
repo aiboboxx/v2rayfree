@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-27 08:29:41  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-27 12:44:41  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -27,15 +27,25 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.234.231:443#0%7C--1
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.20:51199#0%7C--2
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTI2IiwgImFkZCI6ICI2NC4yMjUuMTA5LjIwNiIsICJwb3J0IjogMjA4MiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0ODI2NGI0NS02NGI4LTRlOWYtOGE4OC1jZWY0MWYyMGM3MzYifQ==
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?#0|--45
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?allowInsecure=1&sni=us01.trojanyyds.xyz#0|--47
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?sni=tw01.trojanyyds.xyz#0|--48
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@in01.trojanyyds.xyz:443?sni=in01.trojanyyds.xyz#0|--50
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us01.trojanyyds.xyz:443?allowInsecure=1#0|--51
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw02.trojanyyds.xyz:443?sni=tw02.trojanyyds.xyz#0|--52
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@57.180.15.242:443#0%7C--1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvOXY5TlMyTzBzeGViTm14dlowNnNn@a-config.96hezar.ir:4017#0%7C--2
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.88.145.179:443#0%7C--5
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.244.34.53:443#0%7C--10
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.217.211.112:443#0%7C--11
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.92.44.190:443#0%7C--12
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.189.160.123:443#0%7C--13
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.251.26:443#0%7C--15
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.213.74.131:443#0%7C--21
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.201.77:443#0%7C--36
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.239.233:443#0%7C--37
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.221.196.244:443#0%7C--38
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.109.29:443#0%7C--40
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#0%7C--42
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.128.239.238:443#0%7C--43
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@154.197.26.120:8388#0%7C--44
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.231.234.231:443#0%7C--46
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtLTYyIiwgImFkZCI6ICI2NC4yMjUuMTA5LjIwNiIsICJwb3J0IjogMjA4MiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0ODI2NGI0NS02NGI4LTRlOWYtOGE4OC1jZWY0MWYyMGM3MzYifQ==
+trojan://3763495982449565696@109.61.16.83:443?allowInsecure=1&sni=sensible-crow.goat627.mom#0,15|speednode_0034
 trojan://ouo@103.44.255.81:443?allowInsecure=0&sni=tr.koxok.us.kg&type=ws&host=tr.koxok.us.kg&path=/?ed=2560#13|🇭🇰 香港|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR86aaZ5rivMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIyMTIuMTkyLjEyLjcwIiwgInBvcnQiOiAiMjM1MzIiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI1NTQ5YThjNS01ZDkwLTRhYmItYjFkZi0zMTgyMDA5MjA2YTAiLCAic25pIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8ifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxNDIuMC4xMzQuMjQyIiwgInBvcnQiOiA0NTAxNywgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
@@ -67,31 +77,16 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.178.47.135:443#14%7C%E9
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.255.94.7:443#14%7C%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@13.114.24.98:443#14%7C%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR85b635Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjY0LjIyNS4xMDkuMjA2IiwgInBvcnQiOiAiMjA4MiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0ODI2NGI0NS02NGI4LTRlOWYtOGE4OC1jZWY0MWYyMGM3MzYiLCAic25pIjogIiJ9
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@eze-1.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#15|AR_speednode_0001
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@103.50.33.138:8443?allowInsecure=1&sni=eze-1.fromblancwithlove.com&alpn=h2&security=tls#15|AR_speednode_0002
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.224.12:8443?allowInsecure=1&sni=bru-be-01.fromblancwithlove.com&alpn=h2&security=tls#15|BE_speednode_0003
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@46.151.194.89:8443?allowInsecure=1&sni=sao-br.fromblancwithlove.com&alpn=h2&security=tls#15|BR_speednode_0004
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@sao-br.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#15|BR_speednode_0005
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@169.150.228.24:8443?allowInsecure=1&sni=bog-co-01.fromblancwithlove.com&alpn=h2&security=tls#15|CO_speednode_0016
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@bog-co-01.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#15|CO_speednode_0017
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.175.176:8443?allowInsecure=0&sni=de1.fromblancwithlove.com&alpn=h2&security=tls#15|DE_speednode_0020
-vless://1051bfbb-90db-4261-b5e4-8b91f62b436f@156.67.30.77:443?allowInsecure=0&sni=spotify.com&alpn=http/1.1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15|DE_speednode_0025
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@212.102.48.216:8443?allowInsecure=1&sni=mad-es.fromblancwithlove.com&alpn=h2&security=tls#15|ES_speednode_0026
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@mad-es.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#15|ES_speednode_0027
-vless://91989253-37d6-4d28-83fe-8ffd0c3de0f7@91.134.102.128:22671?allowInsecure=0&sni=telewebion.com#15|FR_speednode_0028
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443?allowInsecure=1&sni=osl-no-01.fromblancwithlove.com&alpn=h2&security=tls#15|GB_speednode_0030
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@ath-gr-01.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#15|GR_speednode_0031
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.218.204:8443?allowInsecure=1&sni=ath-gr-01.fromblancwithlove.com&alpn=h2&security=tls#15|GR_speednode_0032
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@64.227.148.121:8443?allowInsecure=1&sni=blr-in.fromblancwithlove.com&alpn=h2&security=tls#15|IN_speednode_0034
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@kz-2.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#15|KZ_speednode_0037
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@lim-pe-01.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#15|PE_speednode_0038
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.252.81:8443?allowInsecure=1&sni=lim-pe-01.fromblancwithlove.com&alpn=h2&security=tls#15|PE_speednode_0039
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?allowInsecure=0&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=/?ed=2048security=tls#15|RU_speednode_0042
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@156.146.56.207:8443?allowInsecure=1&sni=sin-sg-01.fromblancwithlove.com&alpn=h2&security=tls#15|SG_speednode_0044
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@sin-sg-01.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#15|SG_speednode_0045
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@192.0.54.235:443?allowInsecure=0&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=/?ed=2048security=tls#15|US_speednode_0047
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@jnb-sa.fromblancwithlove.com:8443?allowInsecure=0&alpn=h2&security=tls#15|ZA_speednode_0049
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@169.150.246.91:8443?allowInsecure=1&sni=jnb-sa.fromblancwithlove.com&alpn=h2&security=tls#15|ZA_speednode_0050
+vless://91989253-37d6-4d28-83fe-8ffd0c3de0f7@91.134.102.128:22671?allowInsecure=0&sni=telewebion.com#15|speednode_0002
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?allowInsecure=0&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=/?ed=2048security=tls#15|speednode_0004
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@192.0.54.235:443?allowInsecure=0&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=/?ed=2048security=tls#15|speednode_0005
+trojan://e279c494-c426-443a-a034-a04516409242@naiu-other.05vr9nyqg5.download:13035?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#15|speednode_0009
+trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@cmc3.5gsieuvip.vn:443?allowInsecure=1#15|speednode_0027
+trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@cmc2.5gsieuvip.vn:443?allowInsecure=1#15|speednode_0031
+trojan://3763495894587285504@89.39.70.207:443?allowInsecure=1&sni=pet-bulldog.goat627.mom#15|speednode_0032
+trojan://3763495894587285504@62.112.221.46:443?allowInsecure=1&sni=enabling-cat.goat627.mom#15|speednode_0039
+trojan://telegram-id-directvpn@3.23.207.118:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#15|speednode_0046
+trojan://3763495894587285504@3.250.247.186:443?allowInsecure=1&sni=daring-puma.goat627.mom#15|speednode_0047
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16|d*********g.com_6
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16|d*********g.com_3
