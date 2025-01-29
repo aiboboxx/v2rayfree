@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-29 08:28:30  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-01-29 12:41:43  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -27,14 +27,11 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:31066#0%7C--1
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.92.44.190:443#0%7C--2
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.128.239.238:443#0%7C--3
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.88.145.179:443#0%7C--4
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.239.233:443#0%7C--6
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.95.145.3:443#0%7C--7
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.20:51199#0%7C--8
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:51633#0%7C--9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#0%7C--1
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.239.233:443#0%7C--3
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.38.251.26:443#0%7C--4
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.128.239.238:443#0%7C--5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#0%7C--9
 ss://YWVzLTI1Ni1nY206UDNINTNaSlU3UTJWUzZHUA==@w72tapyb.slashdevslashnetslashtun.net:15002#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206VUVKQk5KNVI1WEFHVDlZSg==@w72tapyb.slashdevslashnetslashtun.net:15014#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://YWVzLTEyOC1nY206MDNmMmFmNzctZjIxNS00ZTg2LTg2Y2QtNzJmMmQ2ZDY5ZTBj@south.sf0jm.xyz:41411#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
