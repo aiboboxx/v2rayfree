@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-02-03 12:43:57  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-02-03 16:27:51  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -27,23 +27,23 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjE5NmMzYy1hZmI2LTQ3MGItYmI5MC04Y2U3MDEyMjRkYjE=@free.2weradf.xyz:36311#0%7C%F0%9F%87%B0%F0%9F%87%B71%20%7C%20%201.2MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjE5NmMzYy1hZmI2LTQ3MGItYmI5MC04Y2U3MDEyMjRkYjE=@free.2weradf.xyz:36571#0%7C%F0%9F%87%B7%F0%9F%87%BA1%20%7C%20%203.2MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjE5NmMzYy1hZmI2LTQ3MGItYmI5MC04Y2U3MDEyMjRkYjE=@free.2weradf.xyz:36611#0%7C%F0%9F%87%B7%F0%9F%87%BA2%20%7C%20%201.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@hong-kong.keenvpn.me:443#0%7C%F0%9F%87%AD%F0%9F%87%B01%20%7C%20%206.0MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjE5NmMzYy1hZmI2LTQ3MGItYmI5MC04Y2U3MDEyMjRkYjE=@free.2weradf.xyz:36111#0%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%203.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjE5NmMzYy1hZmI2LTQ3MGItYmI5MC04Y2U3MDEyMjRkYjE=@free.2weradf.xyz:36371#0%7C%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%201.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@south-korea-3.keenvpn.me:443#0%7C%F0%9F%87%B0%F0%9F%87%B72%20%7C%20%202.3MB%2Fs
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4e68J+HuDMgfCAgMS4xTUIvcyIsICJhZGQiOiAiMTgubWFtYW1hamQuc2l0ZSIsICJwb3J0IjogMjM2MTgsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImI4ZjJiZDM4LTg5MWEtMzE4OC05ODA0LWE0NzUyMTQ4NGYwYSIsICJob3N0IjogIjE4Lm1hbWFtYWpkLnNpdGUiLCAicGF0aCI6ICIvIn0=
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.205.85:443#0%2C13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjE5NmMzYy1hZmI2LTQ3MGItYmI5MC04Y2U3MDEyMjRkYjE=@free.2weradf.xyz:36115#0%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%201.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjE5NmMzYy1hZmI2LTQ3MGItYmI5MC04Y2U3MDEyMjRkYjE=@free.2weradf.xyz:36641#0%7C%F0%9F%87%BA%F0%9F%87%B86%20%7C%20%205.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjE5NmMzYy1hZmI2LTQ3MGItYmI5MC04Y2U3MDEyMjRkYjE=@free.2weradf.xyz:36721#0%7C%F0%9F%87%BA%F0%9F%87%B88%20%7C%20%201.5MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjE5NmMzYy1hZmI2LTQ3MGItYmI5MC04Y2U3MDEyMjRkYjE=@free.2weradf.xyz:36213#0%7C%F0%9F%8C%801-%20%7C%20%205.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjE5NmMzYy1hZmI2LTQ3MGItYmI5MC04Y2U3MDEyMjRkYjE=@free.2weradf.xyz:36141#0%7C%F0%9F%8C%802-%20%7C%20%201.4MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZjE5NmMzYy1hZmI2LTQ3MGItYmI5MC04Y2U3MDEyMjRkYjE=@free.2weradf.xyz:36171#0%7C%F0%9F%87%B8%F0%9F%87%AC1%20%7C%20%203.1MB%2Fs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.121.85:443#0%7C%F0%9F%87%BA%F0%9F%87%B810%20%7C%20%202.1MB%2Fs
-trojan://3770966768580042752@fun-louse.treefrog761.one:443?allowInsecure=1&sni=fun-louse.treefrog761.one#0|🇺🇸11 |  2.1MB/s
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.121.85:443#0%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%201.4MB%2Fs
+trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gyl.58n.net:20309?allowInsecure=1&sni=z309.hongkongnode.top#0|🇬🇧1 |  3.6MB/s
+trojan://172d295b-abd4-4219-a83d-0585b498542c@107.149.254.26:159?allowInsecure=1#0|🇺🇸2 |  4.3MB/s
+ss://Y2hhY2hhMjA6cTJrU0dwNGF5RktC@14.18.253.178:8347#0%7C%F0%9F%87%BA%F0%9F%87%B83%20%7C%20%207.8MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@hong-kong.keenvpn.me:443#0%7C%F0%9F%87%AD%F0%9F%87%B01%20%7C%20%201.7MB%2Fs
+trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:20129?allowInsecure=1&sni=x129.flybar.work#0|🇸🇬1 |  6.0MB/s
+trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:22741?allowInsecure=1&sni=dufu.hongkongnode.top#0|🇺🇸4 |  4.8MB/s
+trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:20130?allowInsecure=1&sni=x130.flybar.work#0|🇸🇬2 |  3.2MB/s
+trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:28678?allowInsecure=1&sni=z143.hongkongnode.top#0|🇺🇸6 |  2.2MB/s
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4ev8J+HtTEgfCAgNi4xTUIvcyIsICJhZGQiOiAibHN0cWotZzAzLmpwMDYtN2M1YS12bTAuZW50cnkuZnIwMzA3YS5hcnQiLCAicG9ydCI6IDI4Nzg1LCAiYWlkIjogOTk5OTksICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjhlNTU1ZDMzLTRjZTQtMzk1ZS05M2NkLTY3MDI5N2FlZWIwZiIsICJzbmkiOiAibHN0cWotZzAzLmpwMDYtN2M1YS12bTAuZW50cnkuZnIwMzA3YS5hcnQifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNzJkMjk1Yi1hYmQ0LTQyMTktYTgzZC0wNTg1YjQ5ODU0MmM=@vip.baima360.com:30104#0%7C%F0%9F%87%A8%F0%9F%87%A61%20%7C%20%203.7MB%2Fs
+trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:20300?allowInsecure=1&sni=z300.hongkongnode.top#0|🇯🇵2 |  4.9MB/s
+trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:20141?allowInsecure=1&sni=z141.hongkongnode.top#0|🇯🇵3 |  1.5MB/s
+trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:54178?allowInsecure=1&sni=x115.flybar.work#0|🇯🇵4 |  5.9MB/s
+trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:20139?allowInsecure=1&sni=z139.hongkongnode.top#0|🇯🇵5 |  6.0MB/s
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.93.248.230:443#0%7C%F0%9F%87%BA%F0%9F%87%B87%20%7C%20%205.3MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.128.241.72:443#0%7C%F0%9F%8C%801-%20%7C%20%206.1MB%2Fs
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR86aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjExMS40Ny4yMTIuMTg0IiwgInBvcnQiOiAiODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIyMWM5MDY2OS0xOTNkLTQ5ZDMtOGUzNy1mNWMxNDYyZWIxMzQiLCAic25pIjogIiIsICJob3N0IjogInRtcy5kaW5ndGFsay5jb20iLCAicGF0aCI6ICIvIn0=
 ss://YWVzLTI1Ni1nY206QjZGQzA5M1lGQzVQNzFRSA==@156.245.190.24:15015#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6aEdrUTY5MTV0RA==@120.232.81.50:16088#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -59,6 +59,7 @@ ss://YWVzLTI1Ni1nY206T1VLTUE1MDBIRDZQR0VQRg==@23.185.248.15:17005#13%7C%F0%9F%87
 ss://YWVzLTI1Ni1nY206MlZNU0FKNUhBV0hZTUJSTg==@23.185.248.13:17003#13%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR8576O5Zu9M3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJ0MDMtY2YucGhwbWFuLnRvcCIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImdycGMiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiNTM3ZDIxYWQtNDlhZi00MWFkLTgwODktZGI1NTdiNjNhNDBlIiwgInNuaSI6ICJ0MDMtY2YucGhwbWFuLnRvcCIsICJwYXRoIjogIi8ifQ==
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.206.239.0:443#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.205.85:443#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.248.40.18:443#13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2UWpaR1F6QTVNMWxHUXpWUU56RlJTQQ==@156.245.190.24:15015#14%7C%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2YUVkclVUWTVNVFYwUkE=@120.232.81.50:16088#14%7C%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
