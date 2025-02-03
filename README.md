@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-02-03 16:27:51  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-02-03 20:23:29  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -27,23 +27,25 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.121.85:443#0%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%201.4MB%2Fs
-trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gyl.58n.net:20309?allowInsecure=1&sni=z309.hongkongnode.top#0|🇬🇧1 |  3.6MB/s
-trojan://172d295b-abd4-4219-a83d-0585b498542c@107.149.254.26:159?allowInsecure=1#0|🇺🇸2 |  4.3MB/s
-ss://Y2hhY2hhMjA6cTJrU0dwNGF5RktC@14.18.253.178:8347#0%7C%F0%9F%87%BA%F0%9F%87%B83%20%7C%20%207.8MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@hong-kong.keenvpn.me:443#0%7C%F0%9F%87%AD%F0%9F%87%B01%20%7C%20%201.7MB%2Fs
-trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:20129?allowInsecure=1&sni=x129.flybar.work#0|🇸🇬1 |  6.0MB/s
-trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:22741?allowInsecure=1&sni=dufu.hongkongnode.top#0|🇺🇸4 |  4.8MB/s
-trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:20130?allowInsecure=1&sni=x130.flybar.work#0|🇸🇬2 |  3.2MB/s
-trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:28678?allowInsecure=1&sni=z143.hongkongnode.top#0|🇺🇸6 |  2.2MB/s
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4ev8J+HtTEgfCAgNi4xTUIvcyIsICJhZGQiOiAibHN0cWotZzAzLmpwMDYtN2M1YS12bTAuZW50cnkuZnIwMzA3YS5hcnQiLCAicG9ydCI6IDI4Nzg1LCAiYWlkIjogOTk5OTksICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjhlNTU1ZDMzLTRjZTQtMzk1ZS05M2NkLTY3MDI5N2FlZWIwZiIsICJzbmkiOiAibHN0cWotZzAzLmpwMDYtN2M1YS12bTAuZW50cnkuZnIwMzA3YS5hcnQifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNzJkMjk1Yi1hYmQ0LTQyMTktYTgzZC0wNTg1YjQ5ODU0MmM=@vip.baima360.com:30104#0%7C%F0%9F%87%A8%F0%9F%87%A61%20%7C%20%203.7MB%2Fs
-trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:20300?allowInsecure=1&sni=z300.hongkongnode.top#0|🇯🇵2 |  4.9MB/s
-trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:20141?allowInsecure=1&sni=z141.hongkongnode.top#0|🇯🇵3 |  1.5MB/s
-trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:54178?allowInsecure=1&sni=x115.flybar.work#0|🇯🇵4 |  5.9MB/s
-trojan://2a2b4931-07c8-3ba2-b3fe-b7def4ab2f1a@gy.58n.net:20139?allowInsecure=1&sni=z139.hongkongnode.top#0|🇯🇵5 |  6.0MB/s
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.93.248.230:443#0%7C%F0%9F%87%BA%F0%9F%87%B87%20%7C%20%205.3MB%2Fs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.128.241.72:443#0%7C%F0%9F%8C%801-%20%7C%20%206.1MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.76.121:443#0%7C%F0%9F%87%AF%F0%9F%87%B51%20%7C%20%205.4MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.121.85:443#0%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%202.1MB%2Fs
+trojan://172d295b-abd4-4219-a83d-0585b498542c@107.149.254.26:159?allowInsecure=1#0|🇺🇸2 |  4.1MB/s
+ss://Y2hhY2hhMjA6R3FiY0NmaDM2NWFU@14.18.253.178:8331#0%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%201.3MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA=@vn.fastsoonlink.com:40021#0%7C%F0%9F%87%AF%F0%9F%87%B52%20%7C%20%201.7MB%2Fs
+trojan://3770966768580042752@boss-tetra.treefrog761.one:443?allowInsecure=1&sni=boss-tetra.treefrog761.one#0|🇷🇺1 |  4.2MB/s
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA=@hk.fastsoonlink.com:40000#0%7C%F0%9F%87%AC%F0%9F%87%A72%20%7C%20%202.4MB%2Fs
+trojan://5198bb80-b38d-387b-bdd9-5287b4ff4d09@gy.58n.net:25238?allowInsecure=1&sni=z267.hongkongnode.top#0|🇬🇧3 |  1.1MB/s
+trojan://5198bb80-b38d-387b-bdd9-5287b4ff4d09@gy.58n.net:20142?allowInsecure=1&sni=z142.hongkongnode.top#0|🇯🇵3 |  6.1MB/s
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA=@kr.fastsoonlink.com:40032#0%7C%F0%9F%87%B0%F0%9F%87%B71%20%7C%20%202.6MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA=@fr.fastsoonlink.com:40034#0%7C%F0%9F%87%AC%F0%9F%87%A74%20%7C%20%203.3MB%2Fs
+trojan://65abdb1c-1cdf-4630-a32b-8ae566b48c00@uk.fastsoonlink.com:40007?allowInsecure=0&sni=uknode.soon.guru#0|🇬🇧5 |  3.5MB/s
+trojan://5198bb80-b38d-387b-bdd9-5287b4ff4d09@gy.58n.net:20296?allowInsecure=1&sni=z296.hongkongnode.top#0|🇺🇸5 |  4.6MB/s
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA=@tur.fastsoonlink.com:40019#0%7C%F0%9F%8C%801-%20%7C%20%201.5MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.163.107.154:443#0%7C%F0%9F%87%BA%F0%9F%87%B86%20%7C%20%2020.9MB%2Fs
+trojan://5198bb80-b38d-387b-bdd9-5287b4ff4d09@gy.58n.net:20076?allowInsecure=1&sni=x76.flybar.work#0|🇯🇵4 |  2.8MB/s
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.213.243.232:443#0%7C%F0%9F%87%BA%F0%9F%87%B88%20%7C%20%203.1MB%2Fs
+trojan://5198bb80-b38d-387b-bdd9-5287b4ff4d09@gy.58n.net:30712?allowInsecure=1&sni=x83.flybar.work#0|🇸🇬1 |  4.8MB/s
+trojan://172d295b-abd4-4219-a83d-0585b498542c@pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc:443?allowInsecure=0&sni=pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc#0|🌀2- |  1.1MB/s
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR86aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjExMS40Ny4yMTIuMTg0IiwgInBvcnQiOiAiODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIyMWM5MDY2OS0xOTNkLTQ5ZDMtOGUzNy1mNWMxNDYyZWIxMzQiLCAic25pIjogIiIsICJob3N0IjogInRtcy5kaW5ndGFsay5jb20iLCAicGF0aCI6ICIvIn0=
 ss://YWVzLTI1Ni1nY206QjZGQzA5M1lGQzVQNzFRSA==@156.245.190.24:15015#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6aEdrUTY5MTV0RA==@120.232.81.50:16088#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
