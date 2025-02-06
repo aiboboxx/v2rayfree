@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-02-06 04:27:30  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-02-06 08:28:51  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -27,22 +27,22 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.141.24.255:443#0%7C%F0%9F%87%B8%F0%9F%87%AC1%20%7C%20%206.1MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZlYTlmYS02N2UwLTRmZjEtOGFhNS03MTI2MDFmMjkwM2Y=@tw-02.douyucdn.top:28862#0%7C%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%205.5MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZlYTlmYS02N2UwLTRmZjEtOGFhNS03MTI2MDFmMjkwM2Y=@tw-04.douyucdn.top:28864#0%7C%F0%9F%87%B9%F0%9F%87%BC2%20%7C%20%206.1MB%2Fs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.78.178.243:443#0%7C%F0%9F%87%B0%F0%9F%87%B71%20%7C%20%205.7MB%2Fs
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4e68J+HuDMgfCAgMTkuNk1CL3MiLCAiYWRkIjogIjY2LjQyLjg2LjIwMiIsICJwb3J0IjogODg4MSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAiaHR0cCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYifQ==
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.190.43.178:443#0%7C%F0%9F%87%BA%F0%9F%87%B85%20%7C%20%203.0MB%2Fs
-ss://YWVzLTEyOC1nY206NWExZmFlMGItNmJjNi00NGRkLTkzNDktZjIzNzgyMDZiY2Ex@south.sf0jm.xyz:49226#0%7C%F0%9F%8C%801-%20%7C%20%203.5MB%2Fs
-ss://YWVzLTEyOC1nY206YWJiZDU4NTctZDRjYS00MWFjLTk2YWMtN2UzYjhhZDRmMGM2@mdss-tw.04z3susick.download:12031#0%7C%F0%9F%87%B9%F0%9F%87%BC3%20%7C%20%201.4MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#0%7C%F0%9F%87%B3%F0%9F%87%B11%20%7C%20%205.5MB%2Fs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.79.249.199:443#0%7C%F0%9F%87%B0%F0%9F%87%B72%20%7C%20%202.3MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZlYTlmYS02N2UwLTRmZjEtOGFhNS03MTI2MDFmMjkwM2Y=@hkg-02.douyucdn.top:28522#0%7C%F0%9F%8C%802-%20%7C%20%203.4MB%2Fs
-trojan://65086520307764900@engaged-cattle.shiner427.skin:443?allowInsecure=0&sni=engaged-cattle.shiner427.skin#0,13|🇰🇷 韩国|@ripaojiedian
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4e68J+HuDYgfCAgNi4xTUIvcyIsICJhZGQiOiAiMTcubWFtYW1hamQuc2l0ZSIsICJwb3J0IjogMjM2MTcsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImVmY2FkYjYyLWM3YmItMzhmMC04ZWI5LTQ3MzQwYWQ5ZDBhNyIsICJob3N0IjogIjE3Lm1hbWFtYWpkLnNpdGUiLCAicGF0aCI6ICIvIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4e68J+HuDcgfCAgNS4wTUIvcyIsICJhZGQiOiAiMTUubWFtYW1hamQuc2l0ZSIsICJwb3J0IjogMjM2MTUsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImVmY2FkYjYyLWM3YmItMzhmMC04ZWI5LTQ3MzQwYWQ5ZDBhNyIsICJob3N0IjogIjE1Lm1hbWFtYWpkLnNpdGUiLCAicGF0aCI6ICIvIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZlYTlmYS02N2UwLTRmZjEtOGFhNS03MTI2MDFmMjkwM2Y=@hkg-06.douyucdn.top:28526#0%7C%F0%9F%8C%803-%20%7C%20%202.5MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZlYTlmYS02N2UwLTRmZjEtOGFhNS03MTI2MDFmMjkwM2Y=@jp-04.douyucdn.top:25814#0%7C%F0%9F%8C%804-%20%7C%20%201.2MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.141.24.255:443#0%7C%F0%9F%87%B8%F0%9F%87%AC1%20%7C%20%205.9MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE5N2NlMi0yYjFjLTQ2NmQtYjg5ZS1hM2NkOTg2NzEyYWM=@free.2weradf.xyz:36721#0%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%202.3MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE5N2NlMi0yYjFjLTQ2NmQtYjg5ZS1hM2NkOTg2NzEyYWM=@free.2weradf.xyz:36115#0%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%201.1MB%2Fs
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4e68J+HuDIgfCAgNC45TUIvcyIsICJhZGQiOiAiMTcubWFtYW1hamQuc2l0ZSIsICJwb3J0IjogMjM2MTcsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjlkODA2MTBlLWNkYjQtMzIxYi1iNDY5LTMzZDk1NWNhYTUxOCIsICJob3N0IjogIjE3Lm1hbWFtYWpkLnNpdGUiLCAicGF0aCI6ICIvIn0=
+trojan://85d6e3a8-a3c2-33d3-836f-494a7e77f08d@gy.58n.net:17806?allowInsecure=1&sni=x65.flybar.work#0|🇸🇬2 |  8.2MB/s
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.125.215.15:443#0%7C%F0%9F%87%B0%F0%9F%87%B71%20%7C%20%202.5MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.1.103.118:443#0%7C%F0%9F%87%B8%F0%9F%87%AC3%20%7C%20%201.9MB%2Fs
+trojan://85d6e3a8-a3c2-33d3-836f-494a7e77f08d@gyl.58n.net:20309?allowInsecure=1&sni=z309.hongkongnode.top#0|🇬🇧2 |  5.3MB/s
+trojan://85d6e3a8-a3c2-33d3-836f-494a7e77f08d@gy.58n.net:20129?allowInsecure=1&sni=x129.flybar.work#0|🇸🇬4 |  4.5MB/s
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.124.222.109:443#0%7C%F0%9F%87%B0%F0%9F%87%B72%20%7C%20%201.0MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE5N2NlMi0yYjFjLTQ2NmQtYjg5ZS1hM2NkOTg2NzEyYWM=@free.2weradf.xyz:36175#0%7C%F0%9F%87%B8%F0%9F%87%AC5%20%7C%20%202.1MB%2Fs
+ss://Y2hhY2hhMjA6OEJaNXVCclB1VURZ@14.18.253.178:8332#0%7C%F0%9F%87%BA%F0%9F%87%B84%20%7C%20%207.8MB%2Fs
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4yAMi0gfCAgNi4wTUIvcyIsICJhZGQiOiAiMTEubWFtYW1hamQuc2l0ZSIsICJwb3J0IjogMjM2MTEsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjlkODA2MTBlLWNkYjQtMzIxYi1iNDY5LTMzZDk1NWNhYTUxOCIsICJob3N0IjogIjExLm1hbWFtYWpkLnNpdGUiLCAicGF0aCI6ICIvIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4e68J+HuDYgfCAgMS4zTUIvcyIsICJhZGQiOiAiMTIwLjE5OC43MS4yMTkiLCAicG9ydCI6IDQ0NjE0LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCJ9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.35.138.163:443#0%2C13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
+trojan://65086520307764900@grateful-lark.shiner427.skin:443?allowInsecure=0&sni=grateful-lark.shiner427.skin#0,13|🇺🇸 美国2|@ripaojiedian
 ss://YWVzLTEyOC1nY206YjJlNWMzNmMtMjU3Yy00YTExLWFlMjAtNGZiOTlkNDQ2MDZh@mdss-hk.04z3susick.download:12001#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIzOC4xNDcuMTg5LjExNSIsICJwb3J0IjogNDk4MzgsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlNDEzZmQ5Mi1hZmRlLTQyM2EtOGJhMi1iMzM3YmY1ZDdjYTIifQ==
 ss://YWVzLTI1Ni1jZmI6aEdrUTY5MTV0RA==@120.232.81.50:16088#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
@@ -52,14 +52,13 @@ trojan://2b39bbdd-a565-4f8e-b6b6-6b034b2076f4@naiu-other.05vr9nyqg5.download:130
 ss://YWVzLTEyOC1nY206YjJlNWMzNmMtMjU3Yy00YTExLWFlMjAtNGZiOTlkNDQ2MDZh@mdss-jp.04z3susick.download:12012#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+Hr/Cfh7Ug5pel5pysMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0NS4xNTkuNTEuMTYxIiwgInBvcnQiOiAzOTEzMSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjJhYmNhYmY2LWQ3YmYtNDhlYi1hZWQyLTA3ZjA5MGI3MDA4YSJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+Hr/Cfh7Ug5pel5pysM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJ5d3R3ZXBjbndsb3UueG4tLWZpcXM4c2p6MmJ1bGwuY29tIiwgInBvcnQiOiA2MDcxNywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImExNzNkNGNkLTQwNTYtNDFkZC04N2EzLTkxYzg4NGU0NzJmYSJ9
+trojan://65086520307764900@engaged-cattle.shiner427.skin:443?allowInsecure=0&sni=engaged-cattle.shiner427.skin#13|🇰🇷 韩国|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HuPCfh6wg5paw5Yqg5Z2hfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjUwMDEyLmJhaWR1LWNkbi50b3AiLCAicG9ydCI6IDUwMDEyLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMjI0ZTNlZDQtOTZkMi00YWUwLThkMjQtMDcwYjAwMzkwNzRlIn0=
 trojan://65086520307764900@dynamic-shrew.shiner427.skin:443?allowInsecure=0&sni=dynamic-shrew.shiner427.skin#13|🇸🇬 新加坡2|@ripaojiedian
 trojan://65086520307764900@summary-sawfish.shiner427.skin:443?allowInsecure=0&sni=summary-sawfish.shiner427.skin#13|🇸🇬 新加坡3|@ripaojiedian
 trojan://installshield@38.180.249.177:8443?allowInsecure=1#13,14|新加坡4|@ripaojiedian
 trojan://65086520307764900@arriving-longhorn.shiner427.skin:443?allowInsecure=0&sni=arriving-longhorn.shiner427.skin#13|🇺🇸 美国|@ripaojiedian
-trojan://65086520307764900@grateful-lark.shiner427.skin:443?allowInsecure=0&sni=grateful-lark.shiner427.skin#13|🇺🇸 美国2|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HuvCfh7gg576O5Zu9M3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIzOC4xNDcuMTYxLjQ3IiwgInBvcnQiOiA0NDQ0NywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjZmNTYzN2MxLTJhNDYtNGQzYi04MjU3LTdkYzNhNzBmZjFkZCJ9
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.35.138.163:443#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.38.168:443#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.141.25.54:443#13%7C%F0%9F%87%B8%F0%9F%87%AC%20%E7%8B%AE%E5%9F%8E%E7%89%B9%E6%AE%8A%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVE5qTkRZNQ==@185.234.64.35:8388#13%7C%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%7C%40ripaojiedian
