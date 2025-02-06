@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-02-06 16:27:09  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-02-06 20:23:46  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -27,20 +27,21 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-trojan://8b164756-ebc6-3906-bec0-52b5583ccb24@gy.58n.net:20141?allowInsecure=1&sni=z141.hongkongnode.top#0|🇯🇵1 |  5.6MB/s
-trojan://8b164756-ebc6-3906-bec0-52b5583ccb24@gy.58n.net:25238?allowInsecure=1&sni=z267.hongkongnode.top#0|🇬🇧1 |  5.0MB/s
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4e68J+HuDYgfCAgNS41TUIvcyIsICJhZGQiOiAiMTUubWFtYW1hamQuc2l0ZSIsICJwb3J0IjogMjM2MTUsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjhkNTZiZTc2LWUzNjUtMzc0NS1iZDM5LWRiMTJkZWUyYmE1ZSIsICJob3N0IjogIjE1Lm1hbWFtYWpkLnNpdGUiLCAicGF0aCI6ICIvIn0=
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@44.243.30.0:443#0%7C%F0%9F%87%BA%F0%9F%87%B87%20%7C%20%201.0MB%2Fs
-trojan://50463abf-32e2-47c9-a205-b7894c40e2af@tj-hk-2.aikunapp.com:6001?allowInsecure=1&sni=0PCrvpNAve6BS2xK.apple.com#0|🇨🇦1 |  1.7MB/s
-trojan://8b164756-ebc6-3906-bec0-52b5583ccb24@gy.58n.net:41767?allowInsecure=1&sni=x114.flybar.work#0|🇯🇵2 |  2.5MB/s
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.229.199.138:443#0%7C%F0%9F%87%B8%F0%9F%87%AC1%20%7C%20%205.7MB%2Fs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.212.113.186:443#0%7C%F0%9F%87%B8%F0%9F%87%AC2%20%7C%20%204.7MB%2Fs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.229.229.102:443#0%7C%F0%9F%87%B8%F0%9F%87%AC3%20%7C%20%205.9MB%2Fs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.136.211.144:443#0%7C%F0%9F%87%B8%F0%9F%87%AC4%20%7C%20%209.3MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.183.61:8388#0%7C%F0%9F%8C%8F1%20%7C%20%202.8MB%2Fs
-trojan://8b164756-ebc6-3906-bec0-52b5583ccb24@gy.58n.net:20299?allowInsecure=1&sni=x299.flybar.work#0|🇸🇬5 |  1.4MB/s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNG5GVDltalpNcTVSY3BUenJPdWtB@146.103.40.29:4017#0%7C%F0%9F%8C%802-%20%7C%20%2010.5MB%2Fs
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4yAMy0gfCAgMS42TUIvcyIsICJhZGQiOiAiNTAwMzEuYmFpZHUtY2RuLnRvcCIsICJwb3J0IjogNTAwMzEsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI3MjJlZTY2MC1jYTU3LTQ2N2YtOWVkYS01NzM5ODU5MjEyZjkifQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.141.24.255:443#0%7C%F0%9F%87%B8%F0%9F%87%AC1%20%7C%20%2010.0MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.195.0.55:443#0%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%201.1MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.229.128.74:443#0%7C%F0%9F%87%B8%F0%9F%87%AC2%20%7C%20%206.1MB%2Fs
+trojan://3774827088566296576@robust-insect.insect388.motorcycles:443?allowInsecure=1&sni=robust-insect.insect388.motorcycles#0|🇺🇸2 |  5.9MB/s
+vless://cd45501e-52ec-4584-affe-f12f9a5a3aeb@lucky.cepu.us.kg:443?sni=lucky.cepu.us.kg&type=ws&host=lucky.cepu.us.kg&path=/198.13.42.58-32954fp=chrome&security=tls#0|🇺🇸3 |  5.2MB/s
+trojan://3774827088566296576@amused-buzzard.insect388.motorcycles:443?allowInsecure=1&sni=amused-buzzard.insect388.motorcycles#0|🇺🇸4 |  2.5MB/s
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTc1ZDY2Zi03Y2Y1LTQ3YWEtODNiZS1hOGU5NjljZGJlMmQ=@rk1.boost1.top:40000#0%7C%F0%9F%87%BA%F0%9F%87%B85%20%7C%20%201.3MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.34.123.239:443#0%7C%F0%9F%87%B0%F0%9F%87%B71%20%7C%20%209.7MB%2Fs
+trojan://3774827088566296576@real-meerkat.insect388.motorcycles:443?allowInsecure=1&sni=real-meerkat.insect388.motorcycles#0|🇰🇷2 |  5.3MB/s
+trojan://3774827088566296576@flying-tuna.treefrog761.one:443?allowInsecure=1&sni=flying-tuna.treefrog761.one#0|🇸🇬3 |  5.9MB/s
+trojan://3774827088566296576@probable-drum.treefrog761.one:443?allowInsecure=1&sni=probable-drum.treefrog761.one#0|🇸🇬4 |  10.7MB/s
+trojan://3774827088566296576@better-caribou.insect388.motorcycles:443?allowInsecure=1&sni=better-caribou.insect388.motorcycles#0|🇺🇸7 |  5.4MB/s
+ss://YWVzLTEyOC1nY206NTkxMWQzNmMtNTMwYS00MGQ2LWIzMWMtNTA1ZjIzOGNhMzEz@south.sf0jm.xyz:49227#0%7C%F0%9F%87%B7%F0%9F%87%BA2%20%7C%20%205.0MB%2Fs
+trojan://3774827088566296576@natural-aphid.insect388.motorcycles:443?allowInsecure=1&sni=natural-aphid.insect388.motorcycles#0|🇺🇸8 |  5.7MB/s
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4yAMS0gfCAgNS43TUIvcyIsICJhZGQiOiAiNTAwMzIuYmFpZHUtY2RuLnRvcCIsICJwb3J0IjogNTAwMzIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJiMjIyMDg0Zi03OTkzLTQ1MTgtYTk0MC1iMWZkYWMxNDY5OTUifQ==
 ss://YWVzLTEyOC1nY206YjJlNWMzNmMtMjU3Yy00YTExLWFlMjAtNGZiOTlkNDQ2MDZh@mdss-hk.04z3susick.download:12001#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIzOC4xNDcuMTg5LjExNSIsICJwb3J0IjogNDk4MzgsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlNDEzZmQ5Mi1hZmRlLTQyM2EtOGJhMi1iMzM3YmY1ZDdjYTIifQ==
 ss://YWVzLTI1Ni1jZmI6aEdrUTY5MTV0RA==@120.232.81.50:16088#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
