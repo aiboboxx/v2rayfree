@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-02-07 04:26:59  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-02-07 08:28:16  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -27,23 +27,28 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.89.15.28:443#0%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%206.8MB%2Fs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.179.0.37:443#0%7C%F0%9F%87%B8%F0%9F%87%AC1%20%7C%20%2010.9MB%2Fs
-trojan://baf8e463-daed-38ec-8f2b-49b2d8632676@gy.58n.net:20300?allowInsecure=1&sni=z300.hongkongnode.top#0|🇯🇵1 |  9.1MB/s
-trojan://3774827088566296576@more-tomcat.insect388.motorcycles:443?allowInsecure=1&sni=more-tomcat.insect388.motorcycles#0|🇯🇵2 |  4.5MB/s
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4et8J+HsDEgfCAgMS4zTUIvcyIsICJhZGQiOiAieGcuZGFzaHVhaS5jeW91IiwgInBvcnQiOiAxOTkwMSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImJmZjc3M2JiLWZjNWUtNGQ1MS05Nzk5LTQ2MmZmNGI4Zjg0MSJ9
-trojan://3774827088566296576@sunny-jackal.insect388.motorcycles:443?allowInsecure=1&sni=sunny-jackal.insect388.motorcycles#0|🌀1- |  4.9MB/s
-ss://Y2hhY2hhMjA6eld5UXZKYlFSWmFW@14.18.253.178:8341#0%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%2028.7MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#0%7C%F0%9F%87%B3%F0%9F%87%B11%20%7C%20%201.9MB%2Fs
-trojan://baf8e463-daed-38ec-8f2b-49b2d8632676@gy.58n.net:54178?allowInsecure=1&sni=x115.flybar.work#0|🇯🇵4 |  4.2MB/s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2FmOGNkMS1iMzc4LTQ5MGUtYmNjZi1mMDQ2MjhiYzhkYjQ=@vip.baima360.com:41004#0%7C%F0%9F%87%B9%F0%9F%87%BC1%20%7C%20%201.1MB%2Fs
-trojan://43af8cd1-b378-490e-bccf-f04628bc8db4@107.149.254.26:158?allowInsecure=1#0|🇺🇸4 |  4.7MB/s
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.229.229.102:443#0%7C%F0%9F%87%B8%F0%9F%87%AC2%20%7C%20%204.9MB%2Fs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.136.211.144:443#0%7C%F0%9F%87%B8%F0%9F%87%AC3%20%7C%20%206.7MB%2Fs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.141.24.255:443#0%7C%F0%9F%87%B8%F0%9F%87%AC4%20%7C%20%202.5MB%2Fs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.250.99.8:443#0%7C%F0%9F%87%B8%F0%9F%87%AC5%20%7C%20%202.8MB%2Fs
-trojan://3774827088566296576@allowed-bear.insect388.motorcycles:443?allowInsecure=1&sni=allowed-bear.insect388.motorcycles#0|🇬🇧2 |  4.1MB/s
-trojan://3aec9607-0136-4ca1-90c2-553a0322b25e@zfa01.333210.xyz:40383?allowInsecure=1&sni=cdn.alibaba.com#13,14|香港|@ripaojiedian
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.203.206.63:443#0%7C%F0%9F%87%AF%F0%9F%87%B51%20%7C%20%207.2MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZDE5MTk1ZC03YTg3LTQ0OTYtOTczZC05YjViZWNkNzEwMzE=@free.2weradf.xyz:36243#0%7C%F0%9F%87%B9%F0%9F%87%BC1%20%7C%20%205.5MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.190.43.178:443#0%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%204.8MB%2Fs
+trojan://baf8e463-daed-38ec-8f2b-49b2d8632676@gy.58n.net:20059?allowInsecure=1&sni=x59.flybar.work#0|🇯🇵2 |  7.9MB/s
+trojan://baf8e463-daed-38ec-8f2b-49b2d8632676@gy.58n.net:36821?allowInsecure=1&sni=z262.hongkongnode.top#0|🇹🇼2 |  6.3MB/s
+trojan://baf8e463-daed-38ec-8f2b-49b2d8632676@gy.58n.net:20139?allowInsecure=1&sni=z139.hongkongnode.top#0|🇯🇵3 |  4.0MB/s
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZDE5MTk1ZC03YTg3LTQ0OTYtOTczZC05YjViZWNkNzEwMzE=@free.2weradf.xyz:36115#0%7C%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%201.3MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZDE5MTk1ZC03YTg3LTQ0OTYtOTczZC05YjViZWNkNzEwMzE=@free.2weradf.xyz:36741#0%7C%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%205.1MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.236.161.128:443#0%7C%F0%9F%87%BA%F0%9F%87%B83%20%7C%20%205.5MB%2Fs
+ss://Y2hhY2hhMjA6R3FiY0NmaDM2NWFU@14.18.253.178:8331#0%7C%F0%9F%87%AC%F0%9F%87%A71%20%7C%20%2018.3MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.89.15.28:443#0%7C%F0%9F%87%BA%F0%9F%87%B84%20%7C%20%205.5MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZDE5MTk1ZC03YTg3LTQ0OTYtOTczZC05YjViZWNkNzEwMzE=@free.2weradf.xyz:36215#0%7C%F0%9F%87%BA%F0%9F%87%B85%20%7C%20%205.2MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#0%7C%F0%9F%8C%8F1%20%7C%20%201.2MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZDE5MTk1ZC03YTg3LTQ0OTYtOTczZC05YjViZWNkNzEwMzE=@free.2weradf.xyz:36211#0%7C%F0%9F%87%AE%F0%9F%87%B71%20%7C%20%202.9MB%2Fs
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.183.142.200:443#0%7C%F0%9F%87%AF%F0%9F%87%B54%20%7C%20%204.6MB%2Fs
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4ew8J+HtzEgfCAgMi43TUIvcyIsICJhZGQiOiAic2QzLmZvcmxpdmUubGl2ZSIsICJwb3J0IjogNDAzOTYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjgxZTE2NzM2LTVlZGUtNDA1MC1iYzRjLTMwNjJhNjNjOTI2ZCIsICJob3N0IjogInRtcy5kaW5ndGFsay5jb20iLCAicGF0aCI6ICIvIn0=
+trojan://3aec9607-0136-4ca1-90c2-553a0322b25e@zfa01.333210.xyz:40383?allowInsecure=1&sni=cdn.alibaba.com#0,13,14|香港|@ripaojiedian
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.37.136.134:443#0%7C%F0%9F%87%BA%F0%9F%87%B87%20%7C%20%201.2MB%2Fs
+trojan://baf8e463-daed-38ec-8f2b-49b2d8632676@gy.58n.net:59021?allowInsecure=1&sni=x100.flybar.work#0|🇹🇼3 |  1.5MB/s
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.221.94.162:443#0%7C%F0%9F%87%BA%F0%9F%87%B88%20%7C%20%205.3MB%2Fs
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4er8J+HtzIgfCAgMS4yTUIvcyIsICJhZGQiOiAicGxleC5jb20iLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiY2EzODc1OTctZDc5ZS00OGMyLTg5YTctZTJkYzY2YTg4YTcwIiwgInNuaSI6ICJwbGV4LmNvbSIsICJob3N0IjogInRlbGVncmFtLWlzdnZwbi5pciIsICJwYXRoIjogIi9yYWNldnBuP3RlbGVncmFtLUBJU1Z2cG4tdGVsZWdyYW0tQElTVnZwbi10ZWxlZ3JhbS1ASVNWdnBuLXRlbGVncmFtLUBJU1Z2cG4ifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZDE5MTk1ZC03YTg3LTQ0OTYtOTczZC05YjViZWNkNzEwMzE=@free.2weradf.xyz:36671#0%7C%F0%9F%87%BA%F0%9F%87%B89%20%7C%20%202.4MB%2Fs
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIzOC4xNDcuMTg5LjE2MyIsICJwb3J0IjogMTI5MjYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlMjEwM2I2NC1mZGZkLTRlZmItODMzMC1jMWMxZmYwZWZkZWEifQ==
 ss://YWVzLTI1Ni1nY206OE9DSk1BVlVPU1ZCWVM3Vg==@w72tapyb.slashdevslashnetslashtun.net:15008#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206RlBKM1hZSDVFWTI0NlNYVQ==@183.61.177.234:15012#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
