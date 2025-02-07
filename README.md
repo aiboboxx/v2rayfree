@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-02-07 12:43:34  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-02-07 16:28:04  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -27,20 +27,8 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 
 ```  
 ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443#%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%BA%E5%9C%BA%3Ahttps%3A%2F%2Fkfyun.uk
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4er8J+HtzEgfCAgMS4xTUIvcyIsICJhZGQiOiAicGxleC5jb20iLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjYTM4NzU5Ny1kNzllLTQ4YzItODlhNy1lMmRjNjZhODhhNzAiLCAiaG9zdCI6ICJ0ZWxlZ3JhbS1pc3Z2cG4uaXIiLCAicGF0aCI6ICIvcmFjZXZwbj90ZWxlZ3JhbS1ASVNWdnBuLXRlbGVncmFtLUBJU1Z2cG4tdGVsZWdyYW0tQElTVnZwbi10ZWxlZ3JhbS1ASVNWdnBuIn0=
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.219.5.41:443#0%7C%F0%9F%87%BA%F0%9F%87%B81%20%7C%20%202.0MB%2Fs
-trojan://ba6f31de-7817-3eaf-9ae7-1e073efea38c@gy.58n.net:20305?allowInsecure=1&sni=z305.hongkongnode.top#0|🇺🇸2 |  3.6MB/s
-ss://Y2hhY2hhMjA6anJnYzY0c0ZTTFFN@14.18.253.178:8333#0%7C%F0%9F%87%A9%F0%9F%87%AA1%20%7C%20%204.0MB%2Fs
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.17.147.22:2052?sni=freev2rng---freev2rng---freev2rng---freev2rng---freev2rng.s88p4jh.workers.dev&type=ws&host=freev2rng---freev2rng---freev2rng---freev2rng---freev2rng.s88p4jh.workers.dev&path=/WG9SqpThFFMyTenz?ed=2560fp=chrome#0|🇺🇸3 |  1.5MB/s
-ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.18:9093#0%7C%F0%9F%87%B7%F0%9F%87%BA1%20%7C%20%209.1MB%2Fs
-vless://cd45501e-52ec-4584-affe-f12f9a5a3aeb@lucky.cepu.us.kg:443?sni=lucky.cepu.us.kg&type=ws&host=lucky.cepu.us.kg&path=/198.13.42.58-32954fp=chrome&security=tls#0|🇺🇸5 |  1.3MB/s
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@217.30.10.18:9042#0%7C%F0%9F%87%B7%F0%9F%87%BA2%20%7C%20%209.1MB%2Fs
-ss://Y2hhY2hhMjA6ZDNiYUs2TlcySEVj@14.18.253.178:8349#0%7C%F0%9F%87%BA%F0%9F%87%B87%20%7C%20%2024.9MB%2Fs
-trojan://ba6f31de-7817-3eaf-9ae7-1e073efea38c@gy.58n.net:20076?allowInsecure=1&sni=x76.flybar.work#0|🇯🇵1 |  1.2MB/s
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMHzwn4er8J+HtzIgfCAgMjcuNE1CL3MiLCAiYWRkIjogInBsZXguY29tIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImNhMzg3NTk3LWQ3OWUtNDhjMi04OWE3LWUyZGM2NmE4OGE3MCIsICJzbmkiOiAidGVsZWdyYW0taXN2dnBuLmlyIiwgInBhdGgiOiAiL3JhY2V2cG4/dGVsZWdyYW0tQElTVnZwbi10ZWxlZ3JhbS1ASVNWdnBuLXRlbGVncmFtLUBJU1Z2cG4tdGVsZWdyYW0tQElTVnZwbiJ9
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@91.132.94.200:989#0%7C%F0%9F%8C%802-%20%7C%20%2015.7MB%2Fs
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.94.121.57:443#0%7C%F0%9F%87%BA%F0%9F%87%B88%20%7C%20%205.5MB%2Fs
-trojan://ba6f31de-7817-3eaf-9ae7-1e073efea38c@gy.58n.net:54178?allowInsecure=1&sni=x115.flybar.work#0|🇯🇵2 |  1.9MB/s
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@52.40.94.174:443#0%7C%F0%9F%87%BA%F0%9F%87%B82%20%7C%20%204.9MB%2Fs
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.18:9010#0%7C%F0%9F%87%B7%F0%9F%87%BA1%20%7C%20%205.2MB%2Fs
 trojan://3aec9607-0136-4ca1-90c2-553a0322b25e@zfa01.333210.xyz:40383?allowInsecure=1&sni=cdn.alibaba.com#13,14|香港|@ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivMnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIzOC4xNDcuMTg5LjE2MyIsICJwb3J0IjogMTI5MjYsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJlMjEwM2I2NC1mZGZkLTRlZmItODMzMC1jMWMxZmYwZWZkZWEifQ==
 ss://YWVzLTI1Ni1nY206OE9DSk1BVlVPU1ZCWVM3Vg==@w72tapyb.slashdevslashnetslashtun.net:15008#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
