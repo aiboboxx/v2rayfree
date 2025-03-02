@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-03-01 20:23:07  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-03-02 00:42:10  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。电报地址：[v2ray免费节点每日更新 – Telegram](https://t.me/s/v2raydailyupdate)
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -26,7 +26,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 
 ```  
-v+�
+����)^
 ```
 
 更多推荐：[免费节点](https://clashgithub.com)  [clash节点](https://github.com/aiboboxx/clashfree)  [免费clash节点](https://clashbk.github.io/)
