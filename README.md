@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-05-30 12:53:21  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-05-30 16:32:46  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -125,11 +125,17 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.106:8880?type=ws&host=yd
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560fp=chrome#3%2C15%7CAT_speednode_0002
 vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?sni=yfnl1.xn--4gq62f52gppi29k.com&flow=xtls-rprx-vision-udp443-udp443&fp=safari&security=tls#3%7C%F0%9F%87%A9%F0%9F%87%AA6%20%7C%20%204.3MB/s%7C0%25%7CDisney%7COpena...
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#3%7C%F0%9F%8C%806-CY%20%7C%20%204.9MB/s%7C44%25%7COpenai
-hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#10%2C12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
+hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#10%2C12%7C%40drakvpn%F0%9F%90%89%20%233
 hysteria2://cdb63ff9-1767-4a35-97e5-900048e4feb2@104.192.92.99:443?insecure=1&sni=tms.dingtalk.com#11%7C%40drakvpn%F0%9F%90%89%20%231
 hysteria2://nfsn666@ld-arm.nfsn666.gq:8888?insecure=1&sni=ld-arm.nfsn666.gq#11%2C12%7C%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29%20%231
 hysteria2://a0cd8b88-9f7a-48b4-a40b-d67dc53d3a03@141.11.74.11:443?insecure=1&sni=us-hy2.xlb8.eu.org#12%7C%F0%9F%94%B5%F0%9F%9F%A1HYSs%20%F0%9F%87%BA%F0%9F%87%B2%20
-hysteria2://462a8e99-f369-469d-bd5b-ffbb9c3e5c7e@yd1.xiaofeixia.cyou:2052?insecure=1&sni=yd1.xiaofeixia.cyou#12%7C%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-iroazadi/shadownetvpn-%DA%AF...
+hysteria2://y0qochAspE%2Bu-HLfrip-@45.32.234.211:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=2pU!&Brls!0exuP+!4so#12%7Csshocean%20VIP%20VPN%20%E2%AD%90
+hysteria2://d2e21fabfe6ddb83@hys1.cpionline.us:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#12%7Csshocean%20VIP%20VPN%20%E2%AD%90%20%231
+hysteria2://9f73c619627d6a5d@hys2.cpionline.us:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#12%7Csshocean%20VIP%20VPN%20%E2%AD%90%20%232
+hysteria2://4a52c165e81fa8fc@hys3.cpionline.us:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=a16d0be0#12%7Csshocean%20VIP%20VPN%20%E2%AD%90%20%233
+hysteria2://f6e4b19a3110d19d@hys4.cpionline.us:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#12%7Csshocean%20VIP%20VPN%20%E2%AD%90%20%234
+hysteria2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@35.74.239.19:3074?insecure=1#12%7Csshocean%20%F0%9F%8E%96%EF%B8%8F%20POD%20%C2%B3
+hysteria2://RhBlRjqD5I97szf87gQR662r6cV5yOK2@195.128.240.251:80?insecure=1&obfs=salamander&obfs-password=8w4jlX268iItraZSsWibq5gW0ZB1N0h2#12%7C%F0%9F%87%B8%F0%9F%87%AA%20sshocean%20VIP%20VPN%20%F0%9F%9B%A1%EF%B8%8F
 hysteria2://d62993f2-f2b7-410d-b56d-2cef2e971038@152.69.225.196:35000?insecure=1&sni=www.apple.com#12%7C%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD11%20%7C%20%E2%AC%87%EF%B8%8F%2013.6MB/s%7C62%25%7CDisne...
 hysteria2://d62993f2-f2b7-410d-b56d-2cef2e971038@193.123.250.219:35000?insecure=1&sni=www.apple.com#12%7C%F0%9F%87%B0%F0%9F%87%B7%E9%9F%A9%E5%9B%BD15%20%7C%20%E2%AC%87%EF%B8%8F%2010.9MB/s%7C62%25%7CDisne...
 hysteria2://dongtaiwang.com@108.181.5.130:57773?insecure=1&sni=apple.com#12%7C%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD2%20%7C%20%E2%AC%87%EF%B8%8F%2010.7MB/s%7C47%25%7CNetfli...
@@ -141,7 +147,7 @@ hysteria2://NTA0MDg5OjEzMzI4ODo3YjA2ZDIyYThhN2M3NjRm@47.76.232.205:3074?insecure
 hysteria2://ADA91529-7BC1-4A5B-8AE7-30ED6D8959C0@185.126.255.78:58944?insecure=1&sni=dxobg4azmk.gafnode.sbs#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%A6
 hysteria2://ADA91529-7BC1-4A5B-8AE7-30ED6D8959C0@23.132.228.217:38746?insecure=1&sni=dxobg4azmk.gafnode.sbs#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AE%F0%9F%87%B9
 hysteria2://ADA91529-7BC1-4A5B-8AE7-30ED6D8959C0@107.172.235.75:56381?insecure=1&sni=dxobg4azmk.gafnode.sbs#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%234
-hysteria2://ADA91529-7BC1-4A5B-8AE7-30ED6D8959C0@85.235.205.212:56410?insecure=1&sni=dxobg4azmk.gafnode.sbs#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA%20%231
+hysteria2://ADA91529-7BC1-4A5B-8AE7-30ED6D8959C0@85.235.205.212:56410?insecure=1&sni=dxobg4azmk.gafnode.sbs#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%B7%F0%9F%87%BA
 hysteria2://41a11f83@141.11.89.172:60000?insecure=1&sni=www.bing.com#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%235
 hysteria2://93c16258-48e0-4c72-928c-06434e394540@107.175.32.131:40266?insecure=1&sni=www.bing.com#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20%236
 hysteria2://53bdfd4a-7f38-4cb6-b07e-49974de1a800@152.53.225.161:25560?insecure=1&sni=www.bing.com#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
@@ -159,13 +165,6 @@ hysteria2://18463200c271aa6d@45.63.116.113:443?insecure=1&sni=vkvd127.mycdn.me&o
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@192.18.145.7:45979?insecure=1&sni=www.bing.com#12%7C%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29%20%233
 hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@164.152.19.229:47262?insecure=1&sni=www.bing.com#12%7C%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29%20%234
 hysteria2://aa068abd-f858-4fdf-b7c2-101947f160cb@us.xn--mes91t7ofgnw.com:443?#12%7C%F0%9F%87%BA%F0%9F%87%B8US-%20%F0%9F%9A%80%20%40vpnserverrr
-hysteria2://y0qochAspE%2Bu-HLfrip-@45.32.234.211:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=2pU!&Brls!0exuP+!4so#12%7Csshocean%20VIP%20VPN%20%E2%AD%90
-hysteria2://d2e21fabfe6ddb83@hys1.cpionline.us:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=ca39a177#12%7Csshocean%20VIP%20VPN%20%E2%AD%90%20%231
-hysteria2://9f73c619627d6a5d@hys2.cpionline.us:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=bd7f765e#12%7Csshocean%20VIP%20VPN%20%E2%AD%90%20%232
-hysteria2://4a52c165e81fa8fc@hys3.cpionline.us:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=a16d0be0#12%7Csshocean%20VIP%20VPN%20%E2%AD%90%20%233
-hysteria2://f6e4b19a3110d19d@hys4.cpionline.us:443?insecure=1&sni=www.apple.com&obfs=salamander&obfs-password=8c3ce17b#12%7Csshocean%20VIP%20VPN%20%E2%AD%90%20%234
-hysteria2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@35.74.239.19:3074?insecure=1#12%7Csshocean%20%F0%9F%8E%96%EF%B8%8F%20POD%20%C2%B3
-hysteria2://RhBlRjqD5I97szf87gQR662r6cV5yOK2@195.128.240.251:80?insecure=1&obfs=salamander&obfs-password=8w4jlX268iItraZSsWibq5gW0ZB1N0h2#12%7C%F0%9F%87%B8%F0%9F%87%AA%20sshocean%20VIP%20VPN%20%F0%9F%9B%A1%EF%B8%8F
 ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@34.212.26.32:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 ss://YWVzLTI1Ni1nY206RU5ZR09ORFU5NFVXMUc2WA==@8tv68qhq.slashdevslashnetslashtun.net:15010#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM=@hkkh11v1.xpmc.cc:20273#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
@@ -282,10 +281,10 @@ vless://64d39d67-62dc-470c-a592-1d5a6ee87cb5@45.159.218.17:80?allowInsecure=0&sn
 vless://291c27a5-34d2-4081-83cc-2196cd208148@170.114.46.6:8080?allowInsecure=0&sni=xrr.rtxconfigz.xyz&type=ws&host=xrr.rtxconfigz.xyz&path=/#15%7CUS_speednode_0120
 vless://596a06cb-1bd4-4974-8af2-aaaf0bd10c5c@45.202.113.200:443?allowInsecure=1&sni=freesg-windows.lzj520hxw.dpdns.org&type=ws&host=freesg-windows.lzj520hxw.dpdns.org&path=/t.me/lzjjjjjjjjjjjsecurity=tls#15%7CUS_speednode_0121
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.176.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#15%7CZA_speednode_0146
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505250813455-KDSmts8jZf.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTk2YWEyZjMwNTQ@43.226.17.17:14312?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Flornlqecrjwe%3Bhost%3Dkr7v1.pmxiaonan.xyz%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505250813455-KDSmts8jZf.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTk2YWEyZjMwNTQ@43.226.17.17:14312?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Flornlqecrjwe%3Bhost%3Dkr7v1.pmxiaonan.xyz%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:20273?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505250813455-KDSmts8jZf.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 
 ```
 
