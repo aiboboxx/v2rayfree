@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-05-30 16:32:46  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-05-30 20:27:51  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -281,10 +281,10 @@ vless://64d39d67-62dc-470c-a592-1d5a6ee87cb5@45.159.218.17:80?allowInsecure=0&sn
 vless://291c27a5-34d2-4081-83cc-2196cd208148@170.114.46.6:8080?allowInsecure=0&sni=xrr.rtxconfigz.xyz&type=ws&host=xrr.rtxconfigz.xyz&path=/#15%7CUS_speednode_0120
 vless://596a06cb-1bd4-4974-8af2-aaaf0bd10c5c@45.202.113.200:443?allowInsecure=1&sni=freesg-windows.lzj520hxw.dpdns.org&type=ws&host=freesg-windows.lzj520hxw.dpdns.org&path=/t.me/lzjjjjjjjjjjjsecurity=tls#15%7CUS_speednode_0121
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.176.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#15%7CZA_speednode_0146
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505250813455-KDSmts8jZf.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTk2YWEyZjMwNTQ@43.226.17.17:14312?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Flornlqecrjwe%3Bhost%3Dkr7v1.pmxiaonan.xyz%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:20273?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505250813455-KDSmts8jZf.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505250813455-KDSmts8jZf.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:20273?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 
 ```
 
