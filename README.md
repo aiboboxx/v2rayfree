@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-05-30 04:32:40  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-05-30 08:33:32  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -304,10 +304,10 @@ trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.148.22:443?allowInsecure=0&sni=hOZori.iR&alpn=http/1.1&type=ws&host=hOZori.iR&path=/RklUHeautH5uvnSB/NTQuMTY5LjIyOS4xODgfp=randomized&security=tls#15%7CUS_speednode_0123
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.176.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#15%7CZA_speednode_0124
 vless://55520747-311e-4015-83ce-be46e2060ce3@160.123.255.155:443?allowInsecure=1&sni=ca.bgm2024.dpdns.org&type=ws&host=ca.bgm2024.dpdns.org&path=/?ed=2560security=tls#15%7CZA_speednode_0125
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:20273?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505250813455-KDSmts8jZf.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505250813455-KDSmts8jZf.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZTk2YWEyZjMwNTQ@43.226.17.17:14312?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Flornlqecrjwe%3Bhost%3Dkr7v1.pmxiaonan.xyz%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202505250813455-KDSmts8jZf.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MWE0MWY0ZTAyZGM@hkkh11v1.xpmc.cc:20273?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Futvbnrzejpmt%3Bhost%3Dhkkh11v1.xpmc.cc%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 
 ```
 
