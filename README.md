@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-06-17 12:55:41  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-06-17 16:34:34  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -718,9 +718,9 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.63:8880?allowInsecure=0
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560fp=chrome#15%7CZA_speednode_0566
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#15%7CZA_speednode_0567
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202506131022370-sV66FLy3Dk.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDUwY2VjZmI5M2Y@kh36v1.pmxiaonan.xyz:15116?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fsimieepvt%3Bhost%3Dkh36v1.pmxiaonan.xyz%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202506131022370-sV66FLy3Dk.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206ODM2MGFkY2VhMGIx@kr6v1.dashengjs.net:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fbylnxldqaquw%3Bhost%3Dkr6v1.dashengjs.net%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202506131022370-sV66FLy3Dk.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDUwY2VjZmI5M2Y@kh36v1.pmxiaonan.xyz:15116?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fsimieepvt%3Bhost%3Dkh36v1.pmxiaonan.xyz%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 
 ```
 
