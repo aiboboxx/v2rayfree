@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-07-04 12:54:09  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-07-04 16:32:07  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -536,10 +536,10 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.245.205.226:6666?allowInsecure=
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@102.132.188.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#ZA_speednode_0349
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@102.177.176.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#ZA_speednode_0350
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@102.177.176.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#ZA_speednode_0351
-ss://YWVzLTI1Ni1nY206NzBhMGI4MTAzMzU2@137.220.142.139:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fbezradrqccl%3Bhost%3Djp5v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206MjNkMDNhYTcwNGM3@156.251.179.181:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fgrqhyifio%3Bhost%3Dcmihk3v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206NzBhMGI4MTAzMzU2@137.220.142.139:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fbezradrqccl%3Bhost%3Djp5v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 
 ```
 
