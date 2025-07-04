@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-07-04 02:09:16  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-07-04 04:36:11  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -125,7 +125,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.106:8880?type=ws&host=yd
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@212.183.88.20:8880?type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560fp=chrome#%F0%9F%87%B0%F0%9F%87%B73%20%7C%20%201.3MB/s%7C61%25%7CDisney%7COpen...
 vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443?sni=yfnl1.xn--4gq62f52gppi29k.com&flow=xtls-rprx-vision-udp443-udp443&fp=safari&security=tls#%F0%9F%87%A9%F0%9F%87%AA6%20%7C%20%204.3MB/s%7C0%25%7CDisney%7COpena...
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@www.speedtest.net:443?sni=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&alpn=h3h2&type=ws&host=Ds807Ay6Vc.MaKeFoRlEsS.iNfO&path=/fp=chrome&security=tls#%F0%9F%8C%806-CY%20%7C%20%204.9MB/s%7C44%25%7COpenai
-hysteria2://nfsn666@hk.nfsn666.gq:8888?insecure=1&sni=hk.nfsn666.gq#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%AD%F0%9F%87%B0
+hysteria2://nfsn666@hk.nfsn666.gq:8888?insecure=1&sni=hk.nfsn666.gq#Channel%20id%3A%20%40ShadowProxy66%D9%8B%DA%BA%E2%80%A1%C2%AD...
 hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@fr3.eyucdn.xyz:2056?insecure=1&sni=fr3.eyucdn.xyz#https%3A//t.me/V2ry_Proxy
 hysteria2://3r6PBKy5DX@p1.3dfigures.ir:18646?insecure=1&obfs=salamander&obfs-password=ywfihi3ohyg9iun3gvu#%40vpnv2rayNGv
 hysteria2://3r6PBKy5DX@p1.3dfigures.ir:501?insecure=1&obfs=salamander&obfs-password=Djxsjduwue#%40vpnv2rayNGv%20%231
@@ -238,9 +238,9 @@ vless://5653a924-8b8d-4073-97ee-8acbe3591ed7@59.14.189.230:12097?allowInsecure=0
 vless://f2146d13-aa93-4210-9500-50fd3fed7bc8@59.14.189.230:12097?allowInsecure=0&sni=oty.myto.ip-ddns.com&type=ws&host=oty.myto.ip-ddns.com&path=/?ed=2560fp=random&security=tls#KR_speednode_0056
 vless://f7e7a44c-e709-43d6-9210-81a64296823f@188.227.84.154:8443?allowInsecure=0&sni=zula.ir#NL_speednode_0058
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206MjNkMDNhYTcwNGM3@156.251.179.181:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fgrqhyifio%3Bhost%3Dcmihk3v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206NzBhMGI4MTAzMzU2@137.220.142.139:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fbezradrqccl%3Bhost%3Djp5v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507031938065-8k6EJ6kiGd.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206NzBhMGI4MTAzMzU2@137.220.142.139:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fbezradrqccl%3Bhost%3Djp5v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206MjNkMDNhYTcwNGM3@156.251.179.181:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fgrqhyifio%3Bhost%3Dcmihk3v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 
 ```
 
