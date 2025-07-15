@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-07-15 16:35:42  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-07-15 20:30:44  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -133,7 +133,7 @@ hysteria2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?insecure=1&sn
 hysteria2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@89.185.27.133:443?insecure=1&sni=www.bing.com#2%20%231
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&sni=www.bing.com#Channel%20id%3A%20%40ShadowProxy66%20%20%232
-hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%20Telegram%20%3A%20%40Viturey
+hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?sni=pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Channel%20id%3A%20%40ShadowProxy66%20%20%233
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?insecure=1&sni=pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%20%20%40V2xay%20%231
 hysteria2://JSC7GnvDM4mIitnCZXQo8IKSPs@13.250.121.168:29713?insecure=1&sni=bing.com#Telegram%20%3A%20CaptalVpn
 hysteria2://RKrGw4dSUwK3YAvqdQI8tcqNl0@35.94.124.236:34060?insecure=1&sni=bing.com#%E6%9C%AA%E5%91%BD%E5%90%8D%20%233
@@ -238,6 +238,9 @@ hysteria2://dongtaiwang.com@46.17.41.217:30033?insecure=1#hibyevpn--IR-10%20%40H
 hysteria2://dongtaiwang.com@46.17.41.5:12904?insecure=1#hibyevpn--IR-14%20%40HiByeVPNN
 hysteria2://e9f0g1h2-3456-7bcd-8abc-9012abcdef34@185.146.173.2450:443?insecure=0&sni=hysteria.de.vpnfree.org#%40Filter_breaker%20%7C%20Germany
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#%40V2rayNG3%20%239
+hysteria2://jvTJxLMlcl@p4.3dfigures.ir:20627?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal2#%40v2ray313%20%20
+hysteria2://jvTJxLMlcl@p4.3dfigures.ir:30452?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#%40v2ray313%20%20%20%231
+hysteria2://jvTJxLMlcl@p4.3dfigures.ir:56116?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal3#%40v2ray313%20%20%20%232
 hysteria2://k1sCJ4SJQj@p1.3dfigures.ir:501?insecure=1&obfs=salamander&obfs-password=Djxsjduwue#%20%20%40V2xay%20%234
 hysteria2://o753T2a9zD@v2raybluecrystal3.3dfigures.ir:18865?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal2%20%231
 hysteria2://o753T2a9zD@v2raybluecrystal3.3dfigures.ir:20675?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal%20%231
@@ -497,8 +500,8 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.81.86.172:34045?allowInsecure=0
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.48:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#VN_speednode_0213
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@102.177.176.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#ZA_speednode_0214
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#ZA_speednode_0215
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-vn1ZEZYzN4.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-vn1ZEZYzN4.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-vn1ZEZYzN4.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 
