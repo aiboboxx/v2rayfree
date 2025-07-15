@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-07-15 04:44:08  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-07-15 08:37:19  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -205,6 +205,7 @@ hysteria2://627712cf-d0e1-4545-81fb-241e7fda0284@204.10.194.86:443?insecure=1&sn
 hysteria2://67828a6e-0144-4e57-8169-2447a3dd2e61@23.80.81.213:45000?insecure=1&sni=www.apple.com#10%20https%3A//dafei.de%20%231
 hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:19338?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#%20%20%40V2rayNG_CaFe%20%7C%20%20%20
 hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:40408?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#%20%20%40V2rayNG_CaFe%20%7C%20%20%20%20%231
+hysteria2://6E7ZX07Att@v2raybluecrystal.3dfigures.ir:47294?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal3
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?insecure=1&sni=www.bing.com#%40V2rayNG3%20%233
 hysteria2://7fae5f8e-7963-4cbe-ae1a-31cd952573a2@139.185.36.59:55000?insecure=1&sni=www.bing.com#https%3A//t.me/V2ry_Proxy%20%231
 hysteria2://7fae5f8e-7963-4cbe-ae1a-31cd952573a2@144.24.153.219:55000?insecure=1&sni=www.bing.com#%40meli_proxyy%20%2311
@@ -519,8 +520,8 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.81.86.172:34045?allowInsecure=0
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@102.177.176.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#ZA_speednode_0244
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#ZA_speednode_0245
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-vn1ZEZYzN4.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-vn1ZEZYzN4.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 
 ```
