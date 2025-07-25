@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-07-25 08:36:33  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-07-25 12:57:59  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -195,9 +195,6 @@ hysteria2://Ys1Z1iA996@78.138.118.228:22527?insecure=1&obfs=salamander&obfs-pass
 hysteria2://Ys1Z1iA996@78.138.118.228:33113?insecure=1&obfs=salamander&obfs-password=Alfa_v2ray_ng#Alfa_v2ray_ng%20%231
 hysteria2://Ys1Z1iA996@78.138.118.228:37804?insecure=1&obfs=salamander&obfs-password=Alfa_v2ray_ng#Alfa_v2ray_ng%20%232
 hysteria2://b5c1b004cd051ef2f6ffedda2e47d538@206.71.158.40:33331?sni=jnir-1.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40Filter_breaker_206.71.158.40
-hysteria2://c311c807-7494-4e52-9a8a-5d3e7c0c3f30@nexiadg.688997.xyz:20557?insecure=1&sni=nexiadg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#Telegram%3A%40config_proxy%20
-hysteria2://c311c807-7494-4e52-9a8a-5d3e7c0c3f30@nexiahl.688997.xyz:20457?insecure=1&sni=nexiahl.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#Telegram%3A%40config_proxy%20%20%231
-hysteria2://c311c807-7494-4e52-9a8a-5d3e7c0c3f30@nexiateq.688997.xyz:20957?insecure=1&sni=nexiateq.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#Telegram%3A%40config_proxy%20%20%232
 hysteria2://c7d8e9f0-1234-5bcd-6abc-7890abcdef12@104.21.25.390:443?insecure=0&sni=hysteria.workers.dev#%40Filter_breaker%20%7C%20United%20State...
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?insecure=1&sni=www.bing.com#Telegram%40vmessorg%20%231
 hysteria2://dac2d4dd-9a4d-4eb0-92a6-028532caed52@107.174.41.101:45000?insecure=1&sni=www.apple.com#10%20https%3A//dafei.de%20%234
@@ -681,11 +678,11 @@ vless://5879d109-8c92-448a-801b-3f3989019934@69.84.182.2:443?allowInsecure=0&sni
 vless://17034eef-9472-45cc-bca5-a71f90e36244@192.0.54.219:8080?allowInsecure=0&sni=join-to-unlimiteddev.sabadyt.ir&type=ws&host=join-to-unlimiteddev.sabadyt.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@vmessorg----@unlimiteddev----@unlimiteddev?ed=2480#US_speednode_0419
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@102.177.176.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#ZA_speednode_0420
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@102.177.176.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#ZA_speednode_0421
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@118.163.200.40:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D16a89ef%3A154955#%E5%8F%B0%E6%B9%BE2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507232129723-vNgaz226QA.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507232129723-vNgaz226QA.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@118.163.200.40:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D16a89ef%3A154955#%E5%8F%B0%E6%B9%BE2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507232129723-vNgaz226QA.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 
 ```
 
