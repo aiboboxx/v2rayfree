@@ -1,4 +1,4 @@
-# 公益免费v2ray节点订阅  每日更新  更新时间 2025-07-26 16:32:24  
+# 公益免费v2ray节点订阅  每日更新  更新时间 2025-07-26 20:28:40  
 所有v2ray免费节点都爬取自网络，请勿用于非法用途 。
 
 |  客户端  | Android  | Windows  | iOS  |
@@ -168,6 +168,7 @@ hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiateq.688997.xyz:20957?insec
 hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiaxg.688997.xyz:20057?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#TEL%20%3E%20%40SaghiVpnXBOT-%20%20%237
 hysteria2://39c3ffc8-5861-4fd5-a35d-8108471234fa@nexiayg.688997.xyz:20657?insecure=1&sni=nexiayg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#TEL%20%3E%20%40SaghiVpnXBOT-%20%20%238
 hysteria2://527a7c04-9a2c-4fdb-aa18-37337e62e917@107.174.41.101:45000?insecure=1&sni=www.apple.com#10%20https%3A//dafei.de%20%231
+hysteria2://568b2070-e528-444e-9cc9-3ec3debe17bf@jp03.poke-mon.xyz:443?insecure=1&sni=www.bing.com#%40SaghiVpnX%5B%5D
 hysteria2://575d98a6-6b8f-4ee3-b682-b21efd5432cf@213.142.133.2:443?obfs=salamander&obfs-password#%E6%9C%AA%E5%91%BD%E5%90%8D%20%2314
 hysteria2://67828a6e-0144-4e57-8169-2447a3dd2e61@23.80.81.213:45000?insecure=1&sni=www.apple.com#10%20https%3A//dafei.de%20%232
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?insecure=1&sni=www.bing.com#%40V2rayNG3%20%233
@@ -183,15 +184,19 @@ hysteria2://AtTK3tiEA0@p1.punchline.ir:44929?insecure=1&obfs=salamander&obfs-pas
 hysteria2://JSC7GnvDM4mIitnCZXQo8IKSPs@13.250.121.168:29713?insecure=1&sni=bing.com#Telegram%40vmessorg
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#%40Daily_Configs
 hysteria2://VPNHubMaRKeT@3.123.253.70:9999?insecure=1&obfs=salamander&obfs-password=tel:@VPNHubMaRKeT#%20%40VPNHubMaRKeT%20%20%20%40VpnHubMarKeT...%20%231
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40SaghiVpnX%5B%5D
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40SaghiVpnX%5B%5D%20%231
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40Filter_breaker%20%7C%20United%20Kingd...
 hysteria2://Ys1Z1iA996@78.138.118.228:22527?insecure=1&obfs=salamander&obfs-password=Alfa_v2ray_ng#Alfa_v2ray_ng
 hysteria2://Ys1Z1iA996@78.138.118.228:33113?insecure=1&obfs=salamander&obfs-password=Alfa_v2ray_ng#Alfa_v2ray_ng%20%231
 hysteria2://Ys1Z1iA996@78.138.118.228:37804?insecure=1&obfs=salamander&obfs-password=Alfa_v2ray_ng#Alfa_v2ray_ng%20%232
 hysteria2://b5c1b004cd051ef2f6ffedda2e47d538@206.71.158.40:33331?sni=jnir-1.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40Filter_breaker_206.71.158.40
-hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@153.121.42.218:50000?insecure=1&sni=www.microsoft.com#%20%40Filter_breaker
-hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@45.11.1.62:50000?insecure=1&sni=www.microsoft.com#%20%40Filter_breaker%20%231
-hysteria2://bd3e3f61-242a-42ae-8598-fc0821f29104@87.254.23.104:50000?insecure=1&sni=www.microsoft.com#%20%40Filter_breaker%20%232
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@dehub.xg-hub.icu:25784?insecure=1&sni=dehub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Filter_breaker
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@hkhub.xg-hub.icu:25782?insecure=1&sni=hkhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Filter_breaker%20%231
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@jphub.xg-hub.icu:25781?insecure=1&sni=jphub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Filter_breaker%20%232
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@krhub.xg-hub.icu:25783?insecure=1&sni=krhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Filter_breaker%20%233
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@twhub.xg-hub.icu:25786?insecure=1&sni=twhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Filter_breaker%20%234
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@ukhub.xg-hub.icu:25785?insecure=1&sni=ukhub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Filter_breaker%20%235
+hysteria2://c290695a-35cf-4491-8d71-60a6ca559d17@ushub.xg-hub.icu:25780?insecure=1&sni=ushub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Filter_breaker%20%236
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?insecure=1&sni=www.bing.com#Telegram%40vmessorg%20%231
 hysteria2://dac2d4dd-9a4d-4eb0-92a6-028532caed52@107.174.41.101:45000?insecure=1&sni=www.apple.com#10%20https%3A//dafei.de%20%234
 hysteria2://dbe172973c29534833c6fae3d706d9e7@91.217.119.51:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=VpnHubMarKeT#%20%40VpnHubMarKeT%20%20%40VpnHubMarKeT%20
@@ -666,10 +671,10 @@ vless://5879d109-8c92-448a-801b-3f3989019934@69.84.182.2:443?allowInsecure=0&sni
 vless://17034eef-9472-45cc-bca5-a71f90e36244@192.0.54.219:8080?allowInsecure=0&sni=join-to-unlimiteddev.sabadyt.ir&type=ws&host=join-to-unlimiteddev.sabadyt.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@vmessorg----@unlimiteddev----@unlimiteddev?ed=2480#US_speednode_0419
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@102.177.176.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#ZA_speednode_0420
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@102.177.176.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#ZA_speednode_0421
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507232129723-vNgaz226QA.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507232129723-vNgaz226QA.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507232129723-vNgaz226QA.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 
 ```
 
